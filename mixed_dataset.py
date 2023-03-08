@@ -61,19 +61,22 @@ class CreateMixedDataset():
 
                     overlapped_sci_list.append(sample_1['orig_id'])
                     overlapped_sem_list.append(sample_2['orig_id'])
-                    overlapped_sci_data.append(sample_1)
-                    overlapped_sem_data.append(sample_2)
+
+                    relabel_sample_1 = self.add_prefix_relation(sample_1, "sci")
+                    relabel_sample_2 = self.add_prefix_relation(sample_2, "sem")
+                    overlapped_sci_data.append(relabel_sample_1)
+                    overlapped_sem_data.append(relabel_sample_2)
                     if count_overlapping%2==0:
-                        half_set.append(sample_1)
+                        half_set.append(relabel_sample_1)
                     else: 
-                        half_set.append(sample_2)
+                        half_set.append(relabel_sample_2)
                     break
 
 
         un_overlapped_sci = []
         for sample_1 in sci_data:
             if sample_1['orig_id'] not in overlapped_sci_list:
-                un_overlapped_sci.append(sample_1)
+                un_overlapped_sci.append(relabel_sample_1)
 
         # un_overlapped_sem = []
         # for sample_2 in sem_data:
@@ -94,6 +97,22 @@ class CreateMixedDataset():
         with open(path, "r") as file:
             data = json.load(file)
         return data
+    
+    def add_prefix_relation(self, sample, prefix):
+        # print(sample)
+        # new_relations = [prefix+"_"+rel["type"] for rel in sample['relations']]
+        # sample['relations'] = new_relations
+
+        new_relations = []
+        for rel in sample['relations']:
+            new_type = prefix+"_"+rel["type"]
+            rel['type'] = new_type
+            new_relations.append(rel.copy())
+
+        sample['relations'] = new_relations
+
+        return sample
+
     
     def check_sequence_matcher(self, sentence1, sentence2):
         return SequenceMatcher(None, sentence1, sentence2).ratio()

@@ -1,139 +1,99 @@
 {
-  "entities": [
-    {
-      "Material": {
-        "short": "Material",
-        "verbose": "Material"
-      }
+  "entities": {
+    "Material": {
+      "short": "Material",
+      "verbose": "Material"
     },
-    {
-      "OtherScientificTerm": {
-        "short": "OtherScientificTerm",
-        "verbose": "OtherScientificTerm"
-      }
+    "OtherScientificTerm": {
+      "short": "OtherScientificTerm",
+      "verbose": "OtherScientificTerm"
     },
-    {
-      "Generic": {
-        "short": "Generic",
-        "verbose": "Generic"
-      }
+    "Generic": {
+      "short": "Generic",
+      "verbose": "Generic"
     },
-    {
-      "OtherScientificTerm_2": {
-        "short": "OtherScientificTerm_2",
-        "verbose": "OtherScientificTerm_2"
-      }
+    "OtherScientificTerm_2": {
+      "short": "OtherScientificTerm_2",
+      "verbose": "OtherScientificTerm_2"
     },
-    {
-      "Method": {
-        "short": "Method",
-        "verbose": "Method"
-      }
+    "Method": {
+      "short": "Method",
+      "verbose": "Method"
     },
-    {
-      "Metric": {
-        "short": "Metric",
-        "verbose": "Metric"
-      }
+    "Metric": {
+      "short": "Metric",
+      "verbose": "Metric"
     },
-    {
-      "Task": {
-        "short": "Task",
-        "verbose": "Task"
-      }
+    "Task": {
+      "short": "Task",
+      "verbose": "Task"
     }
-  ],
-  "relations": [
-    {
-      "sci_Conjunction": {
-        "short": "sci_Conjunction",
-        "verbose": "sci_Conjunction",
-        "symmetric": false
-      }
+  },
+  "relations": {
+    "sci_Conjunction": {
+      "short": "sci_Conjunction",
+      "verbose": "sci_Conjunction",
+      "symmetric": false
     },
-    {
-      "sci_Feature-of": {
-        "short": "sci_Feature-of",
-        "verbose": "sci_Feature-of",
-        "symmetric": false
-      }
+    "sci_Feature-of": {
+      "short": "sci_Feature-of",
+      "verbose": "sci_Feature-of",
+      "symmetric": false
     },
-    {
-      "sci_Hyponym-of": {
-        "short": "sci_Hyponym-of",
-        "verbose": "sci_Hyponym-of",
-        "symmetric": false
-      }
+    "sci_Hyponym-of": {
+      "short": "sci_Hyponym-of",
+      "verbose": "sci_Hyponym-of",
+      "symmetric": false
     },
-    {
-      "sem_Feature-of": {
-        "short": "sem_Feature-of",
-        "verbose": "sem_Feature-of",
-        "symmetric": false
-      }
+    "sem_Feature-of": {
+      "short": "sem_Feature-of",
+      "verbose": "sem_Feature-of",
+      "symmetric": false
     },
-    {
-      "sem_Part-of": {
-        "short": "sem_Part-of",
-        "verbose": "sem_Part-of",
-        "symmetric": false
-      }
+    "sem_Part-of": {
+      "short": "sem_Part-of",
+      "verbose": "sem_Part-of",
+      "symmetric": false
     },
-    {
-      "sci_Used-for": {
-        "short": "sci_Used-for",
-        "verbose": "sci_Used-for",
-        "symmetric": false
-      }
+    "sci_Used-for": {
+      "short": "sci_Used-for",
+      "verbose": "sci_Used-for",
+      "symmetric": false
     },
-    {
-      "sci_Compare": {
-        "short": "sci_Compare",
-        "verbose": "sci_Compare",
-        "symmetric": false
-      }
+    "sci_Compare": {
+      "short": "sci_Compare",
+      "verbose": "sci_Compare",
+      "symmetric": false
     },
-    {
-      "sem_Used-for": {
-        "short": "sem_Used-for",
-        "verbose": "sem_Used-for",
-        "symmetric": false
-      }
+    "sem_Used-for": {
+      "short": "sem_Used-for",
+      "verbose": "sem_Used-for",
+      "symmetric": false
     },
-    {
-      "sci_Part-of": {
-        "short": "sci_Part-of",
-        "verbose": "sci_Part-of",
-        "symmetric": false
-      }
+    "sci_Part-of": {
+      "short": "sci_Part-of",
+      "verbose": "sci_Part-of",
+      "symmetric": false
     },
-    {
-      "sci_Evaluate-for": {
-        "short": "sci_Evaluate-for",
-        "verbose": "sci_Evaluate-for",
-        "symmetric": false
-      }
+    "sci_Evaluate-for": {
+      "short": "sci_Evaluate-for",
+      "verbose": "sci_Evaluate-for",
+      "symmetric": false
     },
-    {
-      "sem_Evaluate-for": {
-        "short": "sem_Evaluate-for",
-        "verbose": "sem_Evaluate-for",
-        "symmetric": false
-      }
+    "sem_Evaluate-for": {
+      "short": "sem_Evaluate-for",
+      "verbose": "sem_Evaluate-for",
+      "symmetric": false
     },
-    {
-      "sem_Compare": {
-        "short": "sem_Compare",
-        "verbose": "sem_Compare",
-        "symmetric": false
-      }
+    "sem_Compare": {
+      "short": "sem_Compare",
+      "verbose": "sem_Compare",
+      "symmetric": false
     },
-    {
-      "sem_Topic": {
-        "short": "sem_Topic",
-        "verbose": "sem_Topic",
-        "symmetric": false
-      }
+    "sem_Topic": {
+      "short": "sem_Topic",
+      "verbose": "sem_Topic",
+      "symmetric": false
     }
-  ]
+  }
 }

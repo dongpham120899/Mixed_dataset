@@ -155,9 +155,35 @@ class SeparateSentence():
 if __name__ == "__main__":
     num_sentence = 1
     padding = 0
-    json_path = "experimental_ovp_dataset/half_sem_half_sci/half_set.json"
-    saved_path = "experimental_ovp_dataset/half_sem_half_sci/half_set_sentence_{}_padding_{}.json".format(num_sentence, padding)
+    mixed_json_path = "experimental_ovp_dataset/mixed_set/mixed_set.json"
+    mixed_saved_path = "experimental_ovp_dataset/mixed_set/mixed_set_sentence_{}_padding_{}.json".format(num_sentence, padding)
+
+    half_json_path = "experimental_ovp_dataset/half_sem_half_sci/half_set.json"
+    half_saved_path = "experimental_ovp_dataset/half_sem_half_sci/half_set_sentence_{}_padding_{}.json".format(num_sentence, padding)
+
+    train_sci_json_path = "experimental_ovp_dataset/sci_set/train_sci.json"
+    train_sci_saved_path = "experimental_ovp_dataset/sci_set/train_sci_sentence_{}_padding_{}.json".format(num_sentence, padding)
+
+    test_sci_json_path = "experimental_ovp_dataset/sci_set/test_sci.json"
+    test_sci_saved_path = "experimental_ovp_dataset/sci_set/test_sci_sentence_{}_padding_{}.json".format(num_sentence, padding)
+
+    train_sem_json_path = "experimental_ovp_dataset/sem_set/train_sem.json"
+    train_sem_saved_path = "experimental_ovp_dataset/sem_set/train_sem_sentence_{}_padding_{}.json".format(num_sentence, padding)
+
+    test_sem_json_path = "experimental_ovp_dataset/sem_set/test_sem.json"
+    test_sem_saved_path = "experimental_ovp_dataset/sem_set/test_sem_sentence_{}_padding_{}.json".format(num_sentence, padding)
+
     visualized_path =  "/Users/dongpham/Documents/NII_internship/brat-1.3p1/data/examples/check_separate_sentence"
 
     separator = SeparateSentence(num_sentence=1, padding=0, visualized_path=visualized_path)
-    separator._run_separte_(json_path, saved_path)
+    separator._run_separte_(mixed_json_path, mixed_saved_path)
+
+    separator._run_separte_(half_json_path, half_saved_path)
+
+    separator._run_separte_(train_sci_json_path, train_sci_saved_path)
+
+    separator._run_separte_(test_sci_json_path, test_sci_saved_path)
+
+    separator._run_separte_(train_sem_json_path, train_sem_saved_path)
+
+    separator._run_separte_(test_sem_json_path, test_sem_saved_path)

@@ -98,20 +98,16 @@ class AnalysisData():
         plt.close('all')
 
     def get_data_types(self, entity_types, relation_types, saved_dir):
-        entities = []
+        ent_dic = {}
         for ent in entity_types:
-            ent_dic = {}
             ent_dic[ent] = dict(short=ent, verbose=ent)
-            entities.append(ent_dic)
 
-        relations = []
+        rel_dic = {}
         for rel in relation_types:
-            rel_dic = {}
             rel_dic[rel] = dict(short=rel, verbose=rel, symmetric=False)
-            relations.append(rel_dic)
 
 
-        data_types = dict(entities=entities, relations=relations)
+        data_types = dict(entities=ent_dic, relations=rel_dic)
         with open(saved_dir, "w") as file:
             json.dump(data_types, file, indent=2)
 
