@@ -1,0 +1,32 @@
+T0	OtherScientificTerm 0 15	Noun extraction
+T1	OtherScientificTerm 43 59	NLP applications
+T2	OtherScientificTerm 68 89	information retrieval
+T3	OtherScientificTerm 92 121	automatic text classification
+T4	OtherScientificTerm 128 150	information extraction
+T5	OtherScientificTerm 174 204	Korean noun extraction systems
+T6	OtherScientificTerm 211 233	morphological analyzer
+T7	OtherScientificTerm 239 260	Part-of- Speech ( POS
+T8	OtherScientificTerm 302 308	of the
+T9	OtherScientificTerm 330 359	such as morpheme dictionaries
+T10	OtherScientificTerm 370 376	( e.g.
+T11	OtherScientificTerm 393 402	rules and
+T12	OtherScientificTerm 447 457	a new noun
+T13	OtherScientificTerm 481 509	uses the syllable based word
+T14	OtherScientificTerm 543 556	most probable
+T15	OtherScientificTerm 579 585	of the
+T16	OtherScientificTerm 601 632	by using automatically acquired
+T17	OtherScientificTerm 657 669	from the POS
+T18	OtherScientificTerm 684 687	and
+T19	OtherScientificTerm 703 715	by detecting
+T20	OtherScientificTerm 795 810	and maintaining
+T21	OtherScientificTerm 884 889	range
+T22	OtherScientificTerm 963 975	that without
+T23	OtherScientificTerm 990 1001	analysis or
+T24	OtherScientificTerm 1014 1019	, the
+T25	OtherScientificTerm 1036 1044	achieves
+T26	OtherScientificTerm 1073 1076	the
+R0	Used-for Arg1:T6 Arg2:T5
+R1	Used-for Arg1:T13 Arg2:T12
+R2	Feature-of Arg1:T14 Arg2:T15
+R3	Part-of Arg1:T16 Arg2:T17
+R4	Evaluate-for Arg1:T24 Arg2:T25

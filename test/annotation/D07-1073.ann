@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 22 31	Wikipedia
+T1	OtherScientificTerm 35 53	external knowledge
+T2	OtherScientificTerm 65 91	named entity recognition (
+T3	OtherScientificTerm 121 138	the corresponding
+T4	OtherScientificTerm 155 173	for each candidate
+T5	OtherScientificTerm 192 202	extracts a
+T6	OtherScientificTerm 223 226	the
+T7	OtherScientificTerm 242 244	of
+T8	OtherScientificTerm 281 285	as a
+T9	OtherScientificTerm 302 309	. These
+T10	OtherScientificTerm 330 334	used
+T11	OtherScientificTerm 347 361	in a CRF-based
+T12	OtherScientificTerm 389 404	using the CoNLL
+T13	OtherScientificTerm 418 436	that the Wikipedia
+T14	OtherScientificTerm 471 472	a
+T15	OtherScientificTerm 508 516	accuracy
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Part-of Arg1:T5 Arg2:T6
+R2	Used-for Arg1:T10 Arg2:T11

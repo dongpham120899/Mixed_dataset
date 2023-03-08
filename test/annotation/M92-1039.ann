@@ -1,0 +1,45 @@
+T0	OtherScientificTerm 30 64	natural language processing system
+T1	OtherScientificTerm 74 78	LINK
+T2	OtherScientificTerm 86 110	unification-based system
+T3	OtherScientificTerm 171 176	MUC-4
+T4	OtherScientificTerm 179 183	LINK
+T5	OtherScientificTerm 209 220	information
+T6	OtherScientificTerm 226 241	free-form texts
+T7	OtherScientificTerm 256 275	application domains
+T8	OtherScientificTerm 282 300	application corpus
+T9	OtherScientificTerm 311 329	terse descriptions
+T10	OtherScientificTerm 429 435	corpus
+T11	OtherScientificTerm 459 469	activities
+T12	OtherScientificTerm 492 505	assembly line
+T13	OtherScientificTerm 542 549	domains
+T14	OtherScientificTerm 552 556	LINK
+T15	OtherScientificTerm 603 615	descriptions
+T16	OtherScientificTerm 620 628	template
+T17	OtherScientificTerm 671 678	fillers
+T18	OtherScientificTerm 686 694	template
+T19	OtherScientificTerm 733 737	LINK
+T20	OtherScientificTerm 781 790	templates
+T21	OtherScientificTerm 815 827	descriptions
+T22	OtherScientificTerm 845 852	domains
+T23	OtherScientificTerm 881 903	MUC-4 terrorism domain
+T24	OtherScientificTerm 928 936	lexicons
+T25	OtherScientificTerm 954 961	domains
+T26	OtherScientificTerm 987 992	words
+T27	OtherScientificTerm 1014 1019	words
+T28	OtherScientificTerm 1027 1051	MUC-4 test configuration
+T29	OtherScientificTerm 1063 1075	grammar size
+T30	OtherScientificTerm 1097 1102	rules
+T31	OtherScientificTerm 1128 1133	rules
+T32	OtherScientificTerm 1141 1161	MUC-4 knowledge base
+T33	OtherScientificTerm 1191 1210	application domains
+T34	OtherScientificTerm 1229 1251	single-sentence inputs
+T35	OtherScientificTerm 1280 1291	information
+T36	OtherScientificTerm 1306 1315	sentences
+R0	Part-of Arg1:T5 Arg2:T6
+R1	Part-of Arg1:T9 Arg2:T8
+R2	Used-for Arg1:T14 Arg2:T15
+R3	Part-of Arg1:T17 Arg2:T18
+R4	Compare Arg1:T22 Arg2:T23
+R5	Part-of Arg1:T26 Arg2:T24
+R6	Compare Arg1:T29 Arg2:T32
+R7	Part-of Arg1:T35 Arg2:T36

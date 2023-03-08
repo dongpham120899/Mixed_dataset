@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 33 84	interactively visualizing and directing the process
+T1	OtherScientificTerm 88 110	translating a sentence
+T2	OtherScientificTerm 133 137	user
+T3	OtherScientificTerm 151 156	model
+T4	OtherScientificTerm 160 206	syntax-based statistical machine translation (
+T5	OtherScientificTerm 217 227	understand
+T6	OtherScientificTerm 286 294	to other
+T7	OtherScientificTerm 308 318	Using this
+T8	OtherScientificTerm 400 405	in an
+T9	OtherScientificTerm 425 438	demonstration
+T10	OtherScientificTerm 446 447	,
+T11	OtherScientificTerm 475 482	drive a
+R0	Compare Arg1:T5 Arg2:T6
+R1	Used-for Arg1:T7 Arg2:T8

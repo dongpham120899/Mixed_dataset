@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 41 76	inter-paragraph discourse structure
+T1	OtherScientificTerm 80 84	text
+T2	OtherScientificTerm 107 117	paragraphs
+T3	OtherScientificTerm 211 231	clustering algorithm
+T4	OtherScientificTerm 239 244	model
+T5	OtherScientificTerm 248 257	segment "
+T6	OtherScientificTerm 281 293	in a machine
+T7	OtherScientificTerm 371 378	such as
+T8	OtherScientificTerm 384 399	co-occurrence ,
+T9	OtherScientificTerm 408 416	chains ,
+T10	OtherScientificTerm 421 428	phrases
+T11	OtherScientificTerm 443 444	,
+T12	OtherScientificTerm 497 506	relies on
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T5

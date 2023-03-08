@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 22 37	formal analysis
+T1	OtherScientificTerm 59 64	words
+T2	OtherScientificTerm 72 91	alternative markers
+T3	OtherScientificTerm 109 116	other (
+T4	OtherScientificTerm 122 125	) ,
+T5	OtherScientificTerm 133 135	as
+T6	OtherScientificTerm 140 143	and
+T7	OtherScientificTerm 166 172	appear
+T8	OtherScientificTerm 194 200	dialog
+T9	OtherScientificTerm 220 243	attention , yet present
+T10	OtherScientificTerm 268 275	engines
+T11	OtherScientificTerm 320 321	I
+T12	OtherScientificTerm 332 347	the performance
+T13	OtherScientificTerm 413 429	an approximation
+T14	OtherScientificTerm 458 471	is compatible
+T15	OtherScientificTerm 477 487	the search
+T16	OtherScientificTerm 549 556	is that
+T17	OtherScientificTerm 560 585	the operational semantics
+R0	Conjunction Arg1:T0 Arg2:T2
+R1	Evaluate-for Arg1:T13 Arg2:T11
+R2	Part-of Arg1:T16 Arg2:T17

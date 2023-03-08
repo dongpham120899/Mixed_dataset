@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 22 41	critical discussion
+T1	OtherScientificTerm 57 67	approaches
+T2	OtherScientificTerm 95 133	evaluation of Natural Language systems
+T3	OtherScientificTerm 162 172	approaches
+T4	OtherScientificTerm 200 207	systems
+T5	OtherScientificTerm 253 257	task
+T6	OtherScientificTerm 268 282	data retrieval
+T7	OtherScientificTerm 334 344	approaches
+T8	OtherScientificTerm 393 409	laboratory study
+T9	OtherScientificTerm 420 442	Wizard of Oz technique
+T10	OtherScientificTerm 455 470	NL requirements
+T11	OtherScientificTerm 493 497	task
+T12	OtherScientificTerm 529 543	task dialogues
+T13	OtherScientificTerm 565 574	technique
+T14	OtherScientificTerm 590 623	prototype Natural Language system
+T15	OtherScientificTerm 688 692	task
+T16	OtherScientificTerm 755 770	database access
+T17	OtherScientificTerm 781 801	contextual reference
+T18	OtherScientificTerm 823 832	structure
+T19	OtherScientificTerm 840 858	information source
+T20	OtherScientificTerm 911 935	Natural Language systems
+R0	Conjunction Arg1:T0 Arg2:T2
+R1	Used-for Arg1:T6 Arg2:T5
+R2	Used-for Arg1:T9 Arg2:T8
+R3	Feature-of Arg1:T18 Arg2:T19

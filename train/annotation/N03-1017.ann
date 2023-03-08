@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 17 47	phrase-based translation model
+T1	OtherScientificTerm 52 70	decoding algorithm
+T2	OtherScientificTerm 141 172	phrase-based translation models
+T3	OtherScientificTerm 278 297	phrase-based models
+T4	OtherScientificTerm 309 326	word-based models
+T5	OtherScientificTerm 381 395	language pairs
+T6	OtherScientificTerm 495 513	heuristic learning
+T7	OtherScientificTerm 517 536	phrase translations
+T8	OtherScientificTerm 542 563	word-based alignments
+T9	OtherScientificTerm 568 585	lexical weighting
+T10	OtherScientificTerm 589 608	phrase translations
+T11	OtherScientificTerm 635 642	phrases
+T12	OtherScientificTerm 661 666	words
+T13	OtherScientificTerm 680 687	phrases
+T14	OtherScientificTerm 693 734	high-accuracy word-level alignment models
+T15	OtherScientificTerm 796 827	syntactically motivated phrases
+R0	Compare Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T8 Arg2:T6
+R2	Feature-of Arg1:T9 Arg2:T10
+R3	Part-of Arg1:T13 Arg2:T14

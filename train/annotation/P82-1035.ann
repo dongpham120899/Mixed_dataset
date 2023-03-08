@@ -1,0 +1,38 @@
+T0	OtherScientificTerm 11 37	text-understanding systems
+T1	OtherScientificTerm 93 97	text
+T2	OtherScientificTerm 139 156	newspaper stories
+T3	OtherScientificTerm 167 179	edited texts
+T4	OtherScientificTerm 208 230	natural language texts
+T5	OtherScientificTerm 238 243	memos
+T6	OtherScientificTerm 252 258	drafts
+T7	OtherScientificTerm 261 285	conversation transcripts
+T8	OtherScientificTerm 339 349	neat texts
+T9	OtherScientificTerm 398 414	misspelled words
+T10	OtherScientificTerm 417 430	missing words
+T11	OtherScientificTerm 433 460	poor syntactic construction
+T12	OtherScientificTerm 463 478	missing periods
+T13	OtherScientificTerm 536 548	expectations
+T14	OtherScientificTerm 578 593	surface English
+T15	OtherScientificTerm 601 616	world knowledge
+T16	OtherScientificTerm 658 693	syntactic and semantic expectations
+T17	OtherScientificTerm 720 733	unknown words
+T18	OtherScientificTerm 739 746	context
+T19	OtherScientificTerm 772 783	word-senses
+T20	OtherScientificTerm 787 815	words with multiple meanings
+T21	OtherScientificTerm 818 827	ambiguity
+T22	OtherScientificTerm 840 853	missing words
+T23	OtherScientificTerm 856 864	ellipsis
+T24	OtherScientificTerm 881 890	referents
+T25	OtherScientificTerm 893 901	anaphora
+T26	OtherScientificTerm 927 939	expectations
+T27	OtherScientificTerm 968 981	scruffy texts
+T28	OtherScientificTerm 1019 1035	computer program
+T29	OtherScientificTerm 1043 1048	NOMAD
+T30	OtherScientificTerm 1069 1082	scruffy texts
+R0	Compare Arg1:T7 Arg2:T8
+R1	Used-for Arg1:T14 Arg2:T13
+R2	Feature-of Arg1:T18 Arg2:T17
+R3	Feature-of Arg1:T19 Arg2:T20
+R4	Part-of Arg1:T22 Arg2:T23
+R5	Part-of Arg1:T24 Arg2:T25
+R6	Used-for Arg1:T26 Arg2:T27

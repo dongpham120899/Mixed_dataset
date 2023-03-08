@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 0 7	English
+T1	OtherScientificTerm 58 71	coordinations
+T2	OtherScientificTerm 110 151	strictly syntactic cross-serial agreement
+T3	OtherScientificTerm 158 167	agreement
+T4	OtherScientificTerm 189 195	number
+T5	OtherScientificTerm 199 204	nouns
+T6	OtherScientificTerm 209 227	reflexive pronouns
+T7	OtherScientificTerm 284 302	grammatical number
+T8	OtherScientificTerm 306 313	English
+T9	OtherScientificTerm 321 339	grammatical gender
+T10	OtherScientificTerm 343 352	languages
+T11	OtherScientificTerm 361 367	French
+T12	OtherScientificTerm 442 459	Interchange Lemma
+T13	OtherScientificTerm 519 526	English
+T14	OtherScientificTerm 550 571	grammatical sentences
+T15	OtherScientificTerm 620 638	coordinate phrases
+T16	OtherScientificTerm 670 679	conjuncts
+T17	OtherScientificTerm 754 767	constructions
+T18	OtherScientificTerm 792 801	conjuncts
+T19	OtherScientificTerm 809 814	scope
+T20	OtherScientificTerm 847 856	arguments
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T4 Arg2:T5
+R2	Part-of Arg1:T7 Arg2:T8
+R3	Part-of Arg1:T9 Arg2:T11
+R4	Part-of Arg1:T14 Arg2:T13
+R5	Part-of Arg1:T16 Arg2:T15
+R6	Part-of Arg1:T18 Arg2:T17

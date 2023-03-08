@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 60 75	local coherence
+T1	OtherScientificTerm 97 124	entity-based representation
+T2	OtherScientificTerm 128 137	discourse
+T3	OtherScientificTerm 159 175	Centering Theory
+T4	OtherScientificTerm 215 223	raw text
+T5	OtherScientificTerm 234 254	coherence assessment
+T6	OtherScientificTerm 260 284	ranking learning problem
+T7	OtherScientificTerm 312 336	discourse representation
+T8	OtherScientificTerm 374 390	ranking function
+T9	OtherScientificTerm 430 443	induced model
+T10	OtherScientificTerm 474 482	accuracy
+T11	OtherScientificTerm 490 522	state-of-the-art coherence model
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T6 Arg2:T5
+R2	Compare Arg1:T9 Arg2:T11

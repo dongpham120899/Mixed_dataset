@@ -1,0 +1,7 @@
+T0	OtherScientificTerm 64 104	resolving bridging definite descriptions
+T1	OtherScientificTerm 152 180	Wall Street Journal articles
+T2	OtherScientificTerm 190 210	Penn Treebank Corpus
+T3	OtherScientificTerm 236 243	WordNet
+T4	OtherScientificTerm 274 295	bridging descriptions
+T5	OtherScientificTerm 306 317	antecedents
+R0	Part-of Arg1:T1 Arg2:T2

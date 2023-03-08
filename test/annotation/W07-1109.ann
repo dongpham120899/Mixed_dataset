@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 46 86	Japanese compound functional expressions
+T1	OtherScientificTerm 127 147	dependency relations
+T2	OtherScientificTerm 158 184	machine learning technique
+T3	OtherScientificTerm 232 272	Japanese compound functional expressions
+T4	OtherScientificTerm 278 282	text
+T5	OtherScientificTerm 288 327	machine learning based chunking problem
+T6	OtherScientificTerm 381 403	functional expressions
+T7	OtherScientificTerm 429 448	dependency analysis
+T8	OtherScientificTerm 462 485	cascaded chunking model
+T9	OtherScientificTerm 543 568	dependency analysis model
+T10	OtherScientificTerm 631 653	functional expressions
+T11	OtherScientificTerm 719 750	compound functional expressions
+R0	Part-of Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T8 Arg2:T7

@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 58 109	English-to-Arabic Statistical Machine Translation (
+T1	OtherScientificTerm 121 130	show that
+T2	OtherScientificTerm 159 161	of
+T3	OtherScientificTerm 196 210	especially for
+T4	OtherScientificTerm 238 259	investigate different
+T5	OtherScientificTerm 309 324	use of Factored
+T6	OtherScientificTerm 337 347	Models for
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T5 Arg2:T6

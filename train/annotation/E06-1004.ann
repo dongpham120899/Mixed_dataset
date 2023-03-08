@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 80 113	Statistical Machine Translation (
+T1	OtherScientificTerm 169 179	by the SMT
+T2	OtherScientificTerm 226 236	variety of
+T3	OtherScientificTerm 315 324	about the
+T4	OtherScientificTerm 377 385	problems
+T5	OtherScientificTerm 443 450	the the
+T6	OtherScientificTerm 505 519	that while IBM
+T7	OtherScientificTerm 615 618	and
+T8	OtherScientificTerm 624 630	useful
+T9	OtherScientificTerm 672 689	that there exists
+T10	OtherScientificTerm 717 724	for any
+T11	OtherScientificTerm 734 749	hard problems (
+T12	OtherScientificTerm 757 763	P = NP
+T13	OtherScientificTerm 814 826	the need for
+T14	OtherScientificTerm 925 929	ways
+R0	Conjunction Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T9 Arg2:T10

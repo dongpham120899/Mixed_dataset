@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 13 29	detection method
+T1	OtherScientificTerm 66 81	transliteration
+T2	OtherScientificTerm 93 99	corpus
+T3	OtherScientificTerm 125 137	similarities
+T4	OtherScientificTerm 147 164	string similarity
+T5	OtherScientificTerm 174 187	edit distance
+T6	OtherScientificTerm 203 224	contextual similarity
+T7	OtherScientificTerm 230 248	vector space model
+T8	OtherScientificTerm 311 320	F-measure
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T5 Arg2:T4
+R2	Used-for Arg1:T7 Arg2:T6

@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 0 16	Systemic grammar
+T1	OtherScientificTerm 35 53	AI text generation
+T2	OtherScientificTerm 81 96	implementations
+T3	OtherScientificTerm 180 195	text generation
+T4	OtherScientificTerm 202 231	AI problem solving techniques
+T5	OtherScientificTerm 273 289	systemic grammar
+T6	OtherScientificTerm 297 305	approach
+T7	OtherScientificTerm 357 373	systemic grammar
+T8	OtherScientificTerm 378 393	problem solving
+T9	OtherScientificTerm 490 505	text generation
+T10	OtherScientificTerm 524 541	linguistic theory
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T10 Arg2:T9

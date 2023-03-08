@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 47 69	polarity-tagged corpus
+T1	OtherScientificTerm 75 89	HTML documents
+T2	OtherScientificTerm 189 203	HTML documents
+T3	OtherScientificTerm 255 272	layout structures
+T4	OtherScientificTerm 277 295	linguistic pattern
+T5	OtherScientificTerm 348 357	sentences
+T6	OtherScientificTerm 430 436	corpus
+T7	OtherScientificTerm 459 468	sentences
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T7 Arg2:T6

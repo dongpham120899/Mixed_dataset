@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 31 36	names
+T1	OtherScientificTerm 41 56	technical terms
+T2	OtherScientificTerm 64 73	languages
+T3	OtherScientificTerm 89 98	alphabets
+T4	OtherScientificTerm 103 120	sound inventories
+T5	OtherScientificTerm 198 218	phonetic equivalents
+T6	OtherScientificTerm 247 254	English
+T7	OtherScientificTerm 302 310	Japanese
+T8	OtherScientificTerm 341 349	Japanese
+T9	OtherScientificTerm 358 365	English
+T10	OtherScientificTerm 465 477	text phrases
+T11	OtherScientificTerm 491 513	bilingual dictionaries
+T12	OtherScientificTerm 565 591	backwards transliterations
+T13	OtherScientificTerm 595 602	machine
+T14	OtherScientificTerm 624 640	generative model
+T15	OtherScientificTerm 688 711	transliteration process
+R0	Feature-of Arg1:T2 Arg2:T3
+R1	Compare Arg1:T6 Arg2:T7
+R2	Used-for Arg1:T13 Arg2:T12
+R3	Used-for Arg1:T14 Arg2:T15

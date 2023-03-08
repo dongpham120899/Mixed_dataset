@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 33 58	feature-enriched approach
+T1	OtherScientificTerm 85 103	conversation focus
+T2	OtherScientificTerm 107 127	threaded discussions
+T3	OtherScientificTerm 141 153	NLP analysis
+T4	OtherScientificTerm 158 171	IR techniques
+T5	OtherScientificTerm 184 210	graph-based algorithm HITS
+T6	OtherScientificTerm 253 271	lexical similarity
+T7	OtherScientificTerm 274 296	poster trustworthiness
+T8	OtherScientificTerm 303 322	speech act analysis
+T9	OtherScientificTerm 326 345	human conversations
+T10	OtherScientificTerm 351 393	feature-oriented link generation functions
+T11	OtherScientificTerm 442 466	human conversation focus
+T12	OtherScientificTerm 485 503	online discussions
+T13	OtherScientificTerm 528 561	heterogeneous sources of evidence
+T14	OtherScientificTerm 593 619	threaded discussion corpus
+T15	OtherScientificTerm 682 706	performance improvements
+T16	OtherScientificTerm 725 740	baseline system
+R0	Compare Arg1:T15 Arg2:T16

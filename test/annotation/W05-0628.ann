@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 27 56	semantic role labeling system
+T1	OtherScientificTerm 74 84	CoNLL-2005
+T2	OtherScientificTerm 140 161	syntactic information
+T3	OtherScientificTerm 191 213	sequential BlO-tagging
+T4	OtherScientificTerm 234 255	labeling architecture
+T5	OtherScientificTerm 304 319	set of features
+T6	OtherScientificTerm 324 341	binary classifier
+T7	OtherScientificTerm 351 356	label
+T8	OtherScientificTerm 374 382	AdaBoost
+T9	OtherScientificTerm 400 414	decision trees
+T10	OtherScientificTerm 493 501	Fi=76.59
+T11	OtherScientificTerm 518 526	test set
+T12	OtherScientificTerm 595 619	partial vs. full parsing
+R0	Used-for Arg1:T9 Arg2:T8

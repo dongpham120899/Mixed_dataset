@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 23 38	free indexation
+T1	OtherScientificTerm 91 129	referential properties of noun phrases
+T2	OtherScientificTerm 137 180	principle-and-parameters language framework
+T3	OtherScientificTerm 229 244	free indexation
+T4	OtherScientificTerm 300 309	indexings
+T5	OtherScientificTerm 319 335	exponential time
+T6	OtherScientificTerm 379 404	free indexation algorithm
+R0	Evaluate-for Arg1:T0 Arg2:T1

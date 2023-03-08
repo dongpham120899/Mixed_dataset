@@ -1,0 +1,23 @@
+T0	OtherScientificTerm 44 80	Japanese double-subject construction
+T1	OtherScientificTerm 91 110	adjective predicate
+T2	OtherScientificTerm 124 141	valency structure
+T3	OtherScientificTerm 146 161	simple sentence
+T4	OtherScientificTerm 183 198	subjective case
+T5	OtherScientificTerm 207 216	languages
+T6	OtherScientificTerm 234 253	Japanese adjectives
+T7	OtherScientificTerm 265 270	verbs
+T8	OtherScientificTerm 290 314	surface subjective cases
+T9	OtherScientificTerm 324 339	simple sentence
+T10	OtherScientificTerm 347 365	sentence structure
+T11	OtherScientificTerm 380 407	double-subject construction
+T12	OtherScientificTerm 436 472	Japanese double-subject construction
+T13	OtherScientificTerm 562 594	Japanese construction approaches
+T14	OtherScientificTerm 642 678	Japanese double-subject construction
+T15	OtherScientificTerm 689 708	adjective predicate
+T16	OtherScientificTerm 783 809	Japanese sentence analysis
+T17	OtherScientificTerm 813 860	Japanese-to-English machine translation systems
+T18	OtherScientificTerm 863 883	translation accuracy
+T19	OtherScientificTerm 946 973	double-subject construction
+R0	Feature-of Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T4 Arg2:T3
+R2	Feature-of Arg1:T15 Arg2:T14

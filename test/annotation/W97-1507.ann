@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 4 35	space and run-time requirements
+T1	OtherScientificTerm 39 62	broad coverage grammars
+T2	OtherScientificTerm 79 91	applications
+T3	OtherScientificTerm 219 249	application-dependent grammars
+T4	OtherScientificTerm 424 444	automatic extraction
+T5	OtherScientificTerm 448 488	application-tuned consistent subgrammars
+T6	OtherScientificTerm 501 532	large-scale generation grammars
+T7	OtherScientificTerm 574 603	large-scale systemic grammars
+T8	OtherScientificTerm 622 640	formal equivalence
+T9	OtherScientificTerm 649 666	systemic grammars
+T10	OtherScientificTerm 671 703	typed unification based grammars
+T11	OtherScientificTerm 729 739	generation
+T12	OtherScientificTerm 743 763	encyclopedia entries
+T13	OtherScientificTerm 818 831	applicability
+T14	OtherScientificTerm 838 848	extensions
+R0	Part-of Arg1:T5 Arg2:T6
+R1	Compare Arg1:T9 Arg2:T10

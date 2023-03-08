@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 48 56	patterns
+T1	OtherScientificTerm 60 76	translation data
+T2	OtherScientificTerm 83 111	part-of-speech tag sequences
+T3	OtherScientificTerm 150 165	diagnostic tool
+T4	OtherScientificTerm 179 189	developers
+T5	OtherScientificTerm 193 220	machine translation systems
+T6	OtherScientificTerm 274 284	developers
+T7	OtherScientificTerm 296 304	patterns
+T8	OtherScientificTerm 308 334	machine translation output
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T7 Arg2:T8

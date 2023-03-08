@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 97 106	knowledge
+T1	OtherScientificTerm 120 132	English text
+T2	OtherScientificTerm 154 169	PubMed database
+T3	OtherScientificTerm 191 224	higher level collective knowledge
+T4	OtherScientificTerm 252 270	graphical notation
+T5	OtherScientificTerm 292 300	entities
+T6	OtherScientificTerm 306 313	pathway
+T7	OtherScientificTerm 324 336	interactions
+T8	OtherScientificTerm 361 383	pathway visualizations
+T9	OtherScientificTerm 412 426	user interface
+T10	OtherScientificTerm 431 450	knowledge discovery
+T11	OtherScientificTerm 513 531	graphical elements
+T12	OtherScientificTerm 537 544	Pathway
+T13	OtherScientificTerm 601 613	descriptions
+T14	OtherScientificTerm 617 629	English text
+T15	OtherScientificTerm 647 679	prototype system called PathText
+T16	OtherScientificTerm 694 702	PathText
+T17	OtherScientificTerm 755 770	representations
+T18	OtherScientificTerm 840 850	interfaces
+T19	OtherScientificTerm 858 873	PathText system
+T20	OtherScientificTerm 921 943	Text Mining components
+R0	Feature-of Arg1:T4 Arg2:T5

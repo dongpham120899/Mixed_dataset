@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 53 75	part-of-speech tagging
+T1	OtherScientificTerm 78 125	statistical and constraint-based disambiguation
+T2	OtherScientificTerm 134 140	French
+T3	OtherScientificTerm 148 161	test language
+T4	OtherScientificTerm 254 271	constraint system
+T5	OtherScientificTerm 351 368	statistical model
+T6	OtherScientificTerm 429 437	accuracy
+T7	OtherScientificTerm 445 463	statistical method
+T8	OtherScientificTerm 499 506	taggers
+T9	OtherScientificTerm 511 518	English
+T10	OtherScientificTerm 529 552	constraint-based tagger
+T11	OtherScientificTerm 626 642	rule development
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Compare Arg1:T4 Arg2:T5
+R3	Compare Arg1:T7 Arg2:T8

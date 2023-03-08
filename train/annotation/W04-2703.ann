@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 29 67	large scale discourse-level annotation
+T1	OtherScientificTerm 82 107	Penn Discourse TreeBank (
+T2	OtherScientificTerm 156 164	level of
+T3	OtherScientificTerm 199 213	on identifying
+T4	OtherScientificTerm 236 239	and
+T5	OtherScientificTerm 256 257	.
+T6	OtherScientificTerm 298 304	of the
+T7	OtherScientificTerm 310 318	TreeBank
+T8	OtherScientificTerm 365 388	of useful syntactic and
+T9	OtherScientificTerm 464 477	evaluation of
+T10	OtherScientificTerm 535 546	analysis of
+T11	OtherScientificTerm 575 589	both the level
+T12	OtherScientificTerm 611 619	types of
+R0	Used-for Arg1:T3 Arg2:T2

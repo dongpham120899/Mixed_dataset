@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 11 35	Minimum Bayes-Risk ( MBR
+T1	OtherScientificTerm 38 62	decoding for statistical
+T2	OtherScientificTerm 116 127	to minimize
+T3	OtherScientificTerm 137 144	loss of
+T4	OtherScientificTerm 157 169	errors under
+T5	OtherScientificTerm 185 197	that measure
+T6	OtherScientificTerm 238 250	hierarchy of
+T7	OtherScientificTerm 293 302	levels of
+T8	OtherScientificTerm 314 330	information from
+T9	OtherScientificTerm 336 345	strings ,
+T10	OtherScientificTerm 370 377	from an
+T11	OtherScientificTerm 388 393	, and
+T12	OtherScientificTerm 404 413	structure
+T13	OtherScientificTerm 419 451	parse-trees of source and target
+T14	OtherScientificTerm 476 482	report
+T15	OtherScientificTerm 499 505	of the
+T16	OtherScientificTerm 519 542	on a Chinese-to-English
+T17	OtherScientificTerm 574 583	show that
+T18	OtherScientificTerm 609 628	to tune statistical
+T19	OtherScientificTerm 644 656	for specific
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T5
+R2	Feature-of Arg1:T6 Arg2:T7
+R3	Part-of Arg1:T10 Arg2:T9
+R4	Feature-of Arg1:T12 Arg2:T13
+R5	Evaluate-for Arg1:T14 Arg2:T15
+R6	Used-for Arg1:T17 Arg2:T18

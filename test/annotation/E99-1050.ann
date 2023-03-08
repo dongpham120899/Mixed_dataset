@@ -1,0 +1,5 @@
+T0	OtherScientificTerm 30 49	corpus-based method
+T1	OtherScientificTerm 64 72	mappings
+T2	OtherScientificTerm 81 98	lexical resources
+T3	OtherScientificTerm 145 164	part of speech tags
+R0	Used-for Arg1:T0 Arg2:T1

@@ -1,0 +1,5 @@
+T0	OtherScientificTerm 49 91	theory of natural language presuppositions
+T1	OtherScientificTerm 349 404	inferential theory for natural language presuppositions
+T2	OtherScientificTerm 492 515	presuppositional nature
+T3	OtherScientificTerm 525 534	sentences
+R0	Feature-of Arg1:T2 Arg2:T3

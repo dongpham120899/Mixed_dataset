@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 10 19	sentences
+T1	OtherScientificTerm 33 51	newspaper articles
+T2	OtherScientificTerm 58 63	event
+T3	OtherScientificTerm 88 97	relations
+T4	OtherScientificTerm 143 154	equivalence
+T5	OtherScientificTerm 159 169	transition
+T6	OtherScientificTerm 172 183	Equivalence
+T7	OtherScientificTerm 191 199	relation
+T8	OtherScientificTerm 212 221	sentences
+T9	OtherScientificTerm 241 252	information
+T10	OtherScientificTerm 259 264	event
+T11	OtherScientificTerm 267 277	Transition
+T12	OtherScientificTerm 285 293	relation
+T13	OtherScientificTerm 306 315	sentences
+T14	OtherScientificTerm 335 346	information
+T15	OtherScientificTerm 368 386	numeric attributes
+T16	OtherScientificTerm 429 438	relations
+T17	OtherScientificTerm 458 465	dataset
+T18	OtherScientificTerm 489 498	sentences
+T19	OtherScientificTerm 504 512	clusters
+T20	OtherScientificTerm 568 578	classifier
+T21	OtherScientificTerm 588 595	cluster
+T22	OtherScientificTerm 608 629	equivalence relations
+T23	OtherScientificTerm 648 664	" coarse-to-fine
+T24	OtherScientificTerm 703 717	the identified
+T25	OtherScientificTerm 760 774	of identifying
+R0	Part-of Arg1:T18 Arg2:T17

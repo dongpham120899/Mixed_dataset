@@ -1,0 +1,33 @@
+T0	OtherScientificTerm 52 56	data
+T1	OtherScientificTerm 62 67	texts
+T2	OtherScientificTerm 84 116	handcrafted linguistic knowledge
+T3	OtherScientificTerm 133 176	BBN 's PLUM system ( Probabilistic Language
+T4	OtherScientificTerm 216 220	part
+T5	OtherScientificTerm 249 270	effort on integrating
+T6	OtherScientificTerm 294 310	models with more
+T7	OtherScientificTerm 391 408	rapid development
+T8	OtherScientificTerm 469 482	systems based
+T9	OtherScientificTerm 486 510	user markings of correct
+T10	OtherScientificTerm 539 547	accurate
+T11	OtherScientificTerm 608 617	, an more
+T12	OtherScientificTerm 633 652	interpretation when
+T13	OtherScientificTerm 753 756	the
+T14	OtherScientificTerm 769 783	texts from the
+T15	OtherScientificTerm 806 815	however ,
+T16	OtherScientificTerm 831 837	is the
+T17	OtherScientificTerm 844 854	end-to-end
+T18	OtherScientificTerm 877 880	All
+T19	OtherScientificTerm 987 1019	mature . The parsing component ,
+T20	OtherScientificTerm 1044 1045	]
+T21	OtherScientificTerm 1086 1095	extensive
+T22	OtherScientificTerm 1158 1165	is that
+T23	OtherScientificTerm 1169 1192	processing unrestricted
+T24	OtherScientificTerm 1222 1233	non-trivial
+T25	OtherScientificTerm 1290 1291	,
+T26	OtherScientificTerm 1319 1338	designed to operate
+T27	OtherScientificTerm 1369 1370	,
+T28	OtherScientificTerm 1420 1423	and
+T29	OtherScientificTerm 1484 1501	section describes
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T13 Arg2:T14
+R2	Used-for Arg1:T23 Arg2:T22

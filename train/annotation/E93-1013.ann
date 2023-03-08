@@ -1,0 +1,45 @@
+T0	OtherScientificTerm 0 17	Semantic theories
+T1	OtherScientificTerm 21 37	natural language
+T2	OtherScientificTerm 48 56	meanings
+T3	OtherScientificTerm 62 72	utterances
+T4	OtherScientificTerm 86 94	meanings
+T5	OtherScientificTerm 99 112	lexical items
+T6	OtherScientificTerm 117 122	rules
+T7	OtherScientificTerm 143 150	meaning
+T8	OtherScientificTerm 161 166	units
+T9	OtherScientificTerm 177 185	meanings
+T10	OtherScientificTerm 219 227	meanings
+T11	OtherScientificTerm 245 265	function composition
+T12	OtherScientificTerm 290 317	constituent structure trees
+T13	OtherScientificTerm 336 356	semantic composition
+T14	OtherScientificTerm 379 399	functional structure
+T15	OtherScientificTerm 403 406	LFG
+T16	OtherScientificTerm 436 457	syntactic information
+T17	OtherScientificTerm 485 496	derivations
+T18	OtherScientificTerm 500 507	meaning
+T19	OtherScientificTerm 513 548	cross-linguistically uniform format
+T20	OtherScientificTerm 603 611	approach
+T21	OtherScientificTerm 636 644	meanings
+T22	OtherScientificTerm 648 668	function composition
+T23	OtherScientificTerm 685 701	to compositional
+T24	OtherScientificTerm 726 737	a deductive
+T25	OtherScientificTerm 750 760	assembling
+T26	OtherScientificTerm 778 795	on reasoning with
+T27	OtherScientificTerm 854 856	of
+T28	OtherScientificTerm 872 886	the functional
+T29	OtherScientificTerm 907 916	of linear
+T30	OtherScientificTerm 941 951	assembling
+T31	OtherScientificTerm 998 1000	of
+T32	OtherScientificTerm 1028 1031	the
+T33	OtherScientificTerm 1049 1051	of
+T34	OtherScientificTerm 1065 1068	and
+R0	Conjunction Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T2 Arg2:T3
+R2	Feature-of Arg1:T4 Arg2:T5
+R3	Feature-of Arg1:T7 Arg2:T8
+R4	Used-for Arg1:T12 Arg2:T13
+R5	Part-of Arg1:T14 Arg2:T15
+R6	Used-for Arg1:T16 Arg2:T17
+R7	Compare Arg1:T23 Arg2:T24
+R8	Part-of Arg1:T27 Arg2:T28
+R9	Feature-of Arg1:T33 Arg2:T32

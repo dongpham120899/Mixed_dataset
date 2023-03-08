@@ -1,0 +1,29 @@
+T0	OtherScientificTerm 33 48	learning method
+T1	OtherScientificTerm 62 81	sparse data problem
+T2	OtherScientificTerm 85 105	automatic extraction
+T3	OtherScientificTerm 109 129	bilingual word pairs
+T4	OtherScientificTerm 135 151	parallel corpora
+T5	OtherScientificTerm 165 174	languages
+T6	OtherScientificTerm 181 196	learning method
+T7	OtherScientificTerm 220 225	rules
+T8	OtherScientificTerm 261 280	sparse data problem
+T9	OtherScientificTerm 293 309	parallel corpora
+T10	OtherScientificTerm 322 340	bilingual resource
+T11	OtherScientificTerm 352 372	bilingual dictionary
+T12	OtherScientificTerm 375 402	machine translation systems
+T13	OtherScientificTerm 438 464	Inductive Chain Learning (
+T14	OtherScientificTerm 471 472	.
+T15	OtherScientificTerm 485 494	limit the
+T16	OtherScientificTerm 508 511	for
+T17	OtherScientificTerm 516 524	decision
+T18	OtherScientificTerm 540 541	.
+T19	OtherScientificTerm 552 553	,
+T20	OtherScientificTerm 565 567	in
+T21	OtherScientificTerm 582 590	based on
+T22	OtherScientificTerm 683 688	, the
+T23	OtherScientificTerm 696 701	value
+T24	OtherScientificTerm 736 742	points
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T7 Arg2:T8
+R3	Used-for Arg1:T21 Arg2:T20

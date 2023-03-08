@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 71 96	demonstrative expressions
+T1	OtherScientificTerm 100 107	English
+T2	OtherScientificTerm 147 178	discourse processing algorithms
+T3	OtherScientificTerm 209 214	texts
+T4	OtherScientificTerm 247 280	demonstrative forms and functions
+T5	OtherScientificTerm 284 299	genre dependent
+T6	OtherScientificTerm 345 366	anaphoric expressions
+T7	OtherScientificTerm 418 452	natural language generation system
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T4 Arg2:T3

@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 61 83	CoNLL 2008 Shared Task
+T1	OtherScientificTerm 104 139	syntactic and semantic dependencies
+T2	OtherScientificTerm 178 186	sentence
+T3	OtherScientificTerm 202 218	syntactic parser
+T4	OtherScientificTerm 246 270	machine learning methods
+T5	OtherScientificTerm 287 308	semantic dependencies
+T6	OtherScientificTerm 326 340	identification
+T7	OtherScientificTerm 345 353	labeling
+T8	OtherScientificTerm 357 367	predicates
+T9	OtherScientificTerm 370 384	identification
+T10	OtherScientificTerm 389 397	labeling
+T11	OtherScientificTerm 401 410	arguments
+T12	OtherScientificTerm 441 471	generative probabilistic model
+T13	OtherScientificTerm 487 508	semantic dependencies
+T14	OtherScientificTerm 569 585	hybrid algorithm
+T15	OtherScientificTerm 650 687	labeled syntactic attachment accuracy
+T16	OtherScientificTerm 698 728	labeled semantic dependency F1
+T17	OtherScientificTerm 741 763	labeled macro Fl score
+T18	OtherScientificTerm 781 804	WSJ and Brown test sets
+R0	Used-for Arg1:T7 Arg2:T8
+R1	Used-for Arg1:T10 Arg2:T11
+R2	Evaluate-for Arg1:T14 Arg2:T15

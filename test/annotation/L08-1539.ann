@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 53 59	tagset
+T1	OtherScientificTerm 69 102	Russian morphosyntactic phenomena
+T2	OtherScientificTerm 126 137	core tagset
+T3	OtherScientificTerm 165 171	tagset
+T4	OtherScientificTerm 187 217	morphosyntactic specifications
+T5	OtherScientificTerm 235 257	MULTEXT-East framework
+T6	OtherScientificTerm 363 372	linguists
+T7	OtherScientificTerm 451 457	tagset
+T8	OtherScientificTerm 477 481	tags
+T9	OtherScientificTerm 501 505	95 %
+T10	OtherScientificTerm 547 567	the Russian National
+T11	OtherScientificTerm 599 605	a test
+T12	OtherScientificTerm 610 631	of tagging models and
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T8 Arg2:T7

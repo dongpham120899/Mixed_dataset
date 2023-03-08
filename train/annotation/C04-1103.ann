@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 0 44	Machine transliteration/back-transliteration
+T1	OtherScientificTerm 77 122	multilingual speech and language applications
+T2	OtherScientificTerm 163 206	machine transliteration/backtransliteration
+T3	OtherScientificTerm 235 266	direct orthographical mapping (
+T4	OtherScientificTerm 281 284	two
+T5	OtherScientificTerm 341 365	, a joint source-channel
+T6	OtherScientificTerm 390 430	also called n-gram transliteration model
+T7	OtherScientificTerm 458 469	proposed to
+T8	OtherScientificTerm 522 538	proposed methods
+T9	OtherScientificTerm 547 622	several transliteration/backtransliteration experiments for English/Chinese
+T10	OtherScientificTerm 708 723	only reduces an
+T11	OtherScientificTerm 760 768	but also
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Feature-of Arg1:T6 Arg2:T7
+R3	Used-for Arg1:T8 Arg2:T9

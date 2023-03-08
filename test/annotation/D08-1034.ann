@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 42 79	Chinese semantically annotated corpus
+T1	OtherScientificTerm 90 114	Chinese Proposition Bank
+T2	OtherScientificTerm 119 137	Normalization Bank
+T3	OtherScientificTerm 144 180	Chinese semantic role labeling ( SRL
+T4	OtherScientificTerm 207 214	Similar
+T5	OtherScientificTerm 226 231	, the
+T6	OtherScientificTerm 268 289	tasks : semantic role
+T7	OtherScientificTerm 305 310	( SRI
+T8	OtherScientificTerm 453 458	focus
+T9	OtherScientificTerm 478 483	: SRC
+T10	OtherScientificTerm 492 502	exploiting
+T11	OtherScientificTerm 507 517	linguistic
+T12	OtherScientificTerm 557 568	and ARGMs ,
+T13	OtherScientificTerm 580 610	semantic role classifier based
+T14	OtherScientificTerm 647 657	strategy .
+T15	OtherScientificTerm 677 685	previous
+T16	OtherScientificTerm 720 729	three sub
+T17	OtherScientificTerm 771 779	each sub
+T18	OtherScientificTerm 787 792	Under
+T19	OtherScientificTerm 855 865	determined
+T20	OtherScientificTerm 877 879	is
+T21	OtherScientificTerm 911 916	, and
+T22	OtherScientificTerm 976 989	we integrated
+T23	OtherScientificTerm 1093 1101	With the
+T24	OtherScientificTerm 1227 1232	It is
+R0	Feature-of Arg1:T9 Arg2:T10
+R1	Used-for Arg1:T13 Arg2:T12

@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 15 42	robust summarisation system
+T1	OtherScientificTerm 64 81	GATE architecture
+T2	OtherScientificTerm 100 117	robust components
+T3	OtherScientificTerm 122 138	semantic tagging
+T4	OtherScientificTerm 143 165	coreference resolution
+T5	OtherScientificTerm 178 182	GATE
+T6	OtherScientificTerm 189 195	system
+T7	OtherScientificTerm 205 220	GATE components
+T8	OtherScientificTerm 243 265	statistical techniques
+T9	OtherScientificTerm 295 322	text summarisation research
+T10	OtherScientificTerm 329 335	system
+T11	OtherScientificTerm 345 360	" generic " and
+T12	OtherScientificTerm 402 410	need for
+R0	Used-for Arg1:T2 Arg2:T3
+R1	Used-for Arg1:T8 Arg2:T9

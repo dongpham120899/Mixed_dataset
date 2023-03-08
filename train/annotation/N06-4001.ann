@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 19 54	interactive corpus exploration tool
+T1	OtherScientificTerm 62 73	InfoMagnets
+T2	OtherScientificTerm 76 87	InfoMagnets
+T3	OtherScientificTerm 103 130	exploratory corpus analysis
+T4	OtherScientificTerm 180 191	text mining
+T5	OtherScientificTerm 325 333	language
+T6	OtherScientificTerm 338 357	behavioral patterns
+T7	OtherScientificTerm 384 401	tutorial dialogue
+T8	OtherScientificTerm 433 444	and on-line
+T9	OtherScientificTerm 489 503	an educational
+T10	OtherScientificTerm 546 557	on protocol
+T11	OtherScientificTerm 570 601	an Educational Research Methods
+R0	Used-for Arg1:T2 Arg2:T3
+R1	Part-of Arg1:T6 Arg2:T7
+R2	Used-for Arg1:T9 Arg2:T10

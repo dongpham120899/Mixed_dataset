@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 47 102	phonetically-based spoken language understanding system
+T1	OtherScientificTerm 110 116	SUMMIT
+T2	OtherScientificTerm 176 191	heuristic rules
+T3	OtherScientificTerm 227 248	knowledge engineering
+T4	OtherScientificTerm 288 304	speech knowledge
+T5	OtherScientificTerm 387 395	features
+T6	OtherScientificTerm 400 419	decision strategies
+T7	OtherScientificTerm 485 496	speech data
+R0	Used-for Arg1:T3 Arg2:T2
+R1	Used-for Arg1:T7 Arg2:T6

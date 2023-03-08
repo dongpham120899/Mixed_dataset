@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 0 28	Taiwan Child Language Corpus
+T1	OtherScientificTerm 38 45	scripts
+T2	OtherScientificTerm 82 92	recordings
+T3	OtherScientificTerm 125 145	Southern Min Chinese
+T4	OtherScientificTerm 194 200	corpus
+T5	OtherScientificTerm 212 249	Child Language Data Exchange System (
+T6	OtherScientificTerm 271 273	of
+T7	OtherScientificTerm 294 297	1.6
+T8	OtherScientificTerm 330 341	we describe
+T9	OtherScientificTerm 347 357	collection
+T10	OtherScientificTerm 360 375	transcription ,
+T11	OtherScientificTerm 394 399	, and
+T12	OtherScientificTerm 426 428	of
+T13	OtherScientificTerm 456 458	of
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T3 Arg2:T2
+R2	Feature-of Arg1:T5 Arg2:T4
+R3	Part-of Arg1:T7 Arg2:T6
+R4	Used-for Arg1:T11 Arg2:T12

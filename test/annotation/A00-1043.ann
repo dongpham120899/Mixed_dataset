@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 19 44	sentence reduction system
+T1	OtherScientificTerm 72 90	extraneous phrases
+T2	OtherScientificTerm 96 105	sentences
+T3	OtherScientificTerm 132 140	document
+T4	OtherScientificTerm 145 166	summarization purpose
+T5	OtherScientificTerm 194 214	sources of knowledge
+T6	OtherScientificTerm 231 238	phrases
+T7	OtherScientificTerm 255 263	sentence
+T8	OtherScientificTerm 291 310	syntactic knowledge
+T9	OtherScientificTerm 313 332	context information
+T10	OtherScientificTerm 339 349	statistics
+T11	OtherScientificTerm 366 372	corpus
+T12	OtherScientificTerm 433 442	Reduction
+T13	OtherScientificTerm 473 484	conciseness
+T14	OtherScientificTerm 488 507	automatic summaries
+R0	Part-of Arg1:T2 Arg2:T3
+R1	Part-of Arg1:T10 Arg2:T11
+R2	Feature-of Arg1:T13 Arg2:T14

@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 22 41	translation quality
+T1	OtherScientificTerm 45 49	EBMT
+T2	OtherScientificTerm 73 89	bilingual corpus
+T3	OtherScientificTerm 116 132	bilingual corpus
+T4	OtherScientificTerm 157 171	language model
+T5	OtherScientificTerm 188 206	monolingual corpus
+T6	OtherScientificTerm 242 253	EBMT system
+T7	OtherScientificTerm 264 283	evaluation measures
+T8	OtherScientificTerm 291 301	BLEU score
+T9	OtherScientificTerm 310 320	NIST score
+T10	OtherScientificTerm 371 387	bilingual corpus
+T11	OtherScientificTerm 421 435	language model
+R0	Evaluate-for Arg1:T1 Arg2:T0

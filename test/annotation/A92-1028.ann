@@ -1,0 +1,42 @@
+T0	OtherScientificTerm 12 32	anaphoral resolution
+T1	OtherScientificTerm 36 49	zero pronouns
+T2	OtherScientificTerm 53 76	Japanese language texts
+T3	OtherScientificTerm 87 113	verbal semantic attributes
+T4	OtherScientificTerm 166 185	semantic attributes
+T5	OtherScientificTerm 189 194	verbs
+T6	OtherScientificTerm 254 273	semantic attributes
+T7	OtherScientificTerm 277 282	verbs
+T8	OtherScientificTerm 293 306	zero pronouns
+T9	OtherScientificTerm 315 334	semantic attributes
+T10	OtherScientificTerm 338 343	verbs
+T11	OtherScientificTerm 360 369	referents
+T12	OtherScientificTerm 376 395	semantic attributes
+T13	OtherScientificTerm 399 404	verbs
+T14	OtherScientificTerm 448 471	dynamic characteristics
+T15	OtherScientificTerm 475 480	verbs
+T16	OtherScientificTerm 505 510	verbs
+T17	OtherScientificTerm 514 519	cases
+T18	OtherScientificTerm 579 609	translating newspaper articles
+T19	OtherScientificTerm 642 662	anaphoral resolution
+T20	OtherScientificTerm 666 679	zero pronouns
+T21	OtherScientificTerm 694 713	machine translation
+T22	OtherScientificTerm 744 764	linguistic knowledge
+T23	OtherScientificTerm 842 868	machine translation system
+T24	OtherScientificTerm 940 953	zero pronouns
+T25	OtherScientificTerm 1077 1123	Japanese to English machine translation system
+T26	OtherScientificTerm 1163 1171	Japanese
+T27	OtherScientificTerm 1176 1183	English
+T28	OtherScientificTerm 1221 1235	frame patterns
+T29	OtherScientificTerm 1244 1252	Japanese
+T30	OtherScientificTerm 1257 1264	English
+T31	OtherScientificTerm 1308 1329	translation structure
+T32	OtherScientificTerm 1438 1458	anaphoral resolution
+T33	OtherScientificTerm 1491 1517	machine translation system
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Feature-of Arg1:T4 Arg2:T5
+R2	Feature-of Arg1:T6 Arg2:T7
+R3	Feature-of Arg1:T9 Arg2:T10
+R4	Feature-of Arg1:T12 Arg2:T13
+R5	Feature-of Arg1:T14 Arg2:T15
+R6	Used-for Arg1:T22 Arg2:T19
+R7	Used-for Arg1:T32 Arg2:T33

@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 28 43	term candidates
+T1	OtherScientificTerm 59 94	internal and contextual information
+T2	OtherScientificTerm 111 132	domain specific terms
+T3	OtherScientificTerm 185 193	features
+T4	OtherScientificTerm 224 229	terms
+T5	OtherScientificTerm 235 244	non-terms
+T6	OtherScientificTerm 258 266	features
+T7	OtherScientificTerm 305 313	features
+T8	OtherScientificTerm 357 372	term extraction
+T9	OtherScientificTerm 382 392	delimiters
+T10	OtherScientificTerm 490 504	term frequency
+T11	OtherScientificTerm 570 580	hard rules
+T12	OtherScientificTerm 622 627	terms
+T13	OtherScientificTerm 656 672	domain knowledge
+T14	OtherScientificTerm 691 699	training
+T15	OtherScientificTerm 716 723	domains
+T16	OtherScientificTerm 791 798	domains
+T17	OtherScientificTerm 838 862	resource-limited domains
+T18	OtherScientificTerm 904 911	domains
+T19	OtherScientificTerm 916 939	Chinese term extraction
+T20	OtherScientificTerm 1072 1091	new term extraction
+T21	OtherScientificTerm 1168 1192	domain lexicon expansion
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T9 Arg2:T8

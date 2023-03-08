@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 22 47	machine learning approach
+T1	OtherScientificTerm 51 76	bare slice disambiguation
+T2	OtherScientificTerm 80 88	dialogue
+T3	OtherScientificTerm 111 131	heuristic principles
+T4	OtherScientificTerm 139 158	corpus-based sample
+T5	OtherScientificTerm 181 207	probabilistic Horn clauses
+T6	OtherScientificTerm 245 252	clauses
+T7	OtherScientificTerm 272 299	domain independent features
+T8	OtherScientificTerm 315 328	input dataset
+T9	OtherScientificTerm 353 380	machine learning algorithms
+T10	OtherScientificTerm 395 424	rule-based learning algorithm
+T11	OtherScientificTerm 441 460	memory-based system
+T12	OtherScientificTerm 509 522	success rates
+T13	OtherScientificTerm 566 574	features
+T14	OtherScientificTerm 610 630	heuristic principles
+T15	OtherScientificTerm 676 681	rules
+T16	OtherScientificTerm 708 720	Horn clauses
+T17	OtherScientificTerm 760 768	features
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T5 Arg2:T3
+R2	Feature-of Arg1:T7 Arg2:T8
+R3	Compare Arg1:T10 Arg2:T11
+R4	Feature-of Arg1:T13 Arg2:T14
+R5	Compare Arg1:T15 Arg2:T16

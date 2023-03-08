@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 31 53	mixture language model
+T1	OtherScientificTerm 79 104	long distance constraints
+T2	OtherScientificTerm 110 118	sentence
+T3	OtherScientificTerm 122 131	paragraph
+T4	OtherScientificTerm 150 169	m-component mixture
+T5	OtherScientificTerm 173 186	digram models
+T6	OtherScientificTerm 225 238	SK vocabulary
+T7	OtherScientificTerm 275 306	Wall Street Journal text corpus
+T8	OtherScientificTerm 319 340	BU recognition system
+T9	OtherScientificTerm 381 401	recognition accuracy
+T10	OtherScientificTerm 411 432	mixture digram models
+T11	OtherScientificTerm 456 468	Digram model
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Evaluate-for Arg1:T8 Arg2:T9
+R2	Compare Arg1:T10 Arg2:T11

@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 30 42	proper names
+T1	OtherScientificTerm 46 50	text
+T2	OtherScientificTerm 82 93	NLP systems
+T3	OtherScientificTerm 107 124	unrestricted text
+T4	OtherScientificTerm 150 159	documents
+T5	OtherScientificTerm 173 188	name references
+T6	OtherScientificTerm 207 228	information retrieval
+T7	OtherScientificTerm 237 249	preprocessor
+T8	OtherScientificTerm 259 284	knowledge intensive tasks
+T9	OtherScientificTerm 293 312	database extraction
+T10	OtherScientificTerm 356 380	text skimming techniques
+T11	OtherScientificTerm 394 406	proper names
+T12	OtherScientificTerm 417 436	semantic attributes
+T13	OtherScientificTerm 456 469	newswire text
+T14	OtherScientificTerm 506 519	name elements
+T15	OtherScientificTerm 573 585	proper names
+T16	OtherScientificTerm 605 645	context-dependent linguistic expressions
+T17	OtherScientificTerm 669 680	information
+T18	OtherScientificTerm 688 701	local context
+T19	OtherScientificTerm 726 758	computational model of discourse
+T20	OtherScientificTerm 896 910	knowledge base
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Feature-of Arg1:T5 Arg2:T4
+R3	Feature-of Arg1:T12 Arg2:T11
+R4	Feature-of Arg1:T16 Arg2:T15
+R5	Part-of Arg1:T17 Arg2:T18

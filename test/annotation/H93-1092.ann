@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 63 86	high-performance parser
+T1	OtherScientificTerm 91 98	English
+T2	OtherScientificTerm 129 136	grammar
+T3	OtherScientificTerm 145 161	annotated corpus
+T4	OtherScientificTerm 165 184	bracketed sentences
+T5	OtherScientificTerm 198 206	Treebank
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3

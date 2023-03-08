@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 46 53	parsing
+T1	OtherScientificTerm 87 112	unification-based parsing
+T2	OtherScientificTerm 120 165	classification-based knowledge representation
+T3	OtherScientificTerm 171 211	unification-based grammatical frameworks
+T4	OtherScientificTerm 258 280	linguistic information
+T5	OtherScientificTerm 354 398	KL-ONE-like knowledge representation systems
+T6	OtherScientificTerm 444 490	classification-based representation techniques
+T7	OtherScientificTerm 509 550	unification-based linguistic descriptions
+T8	OtherScientificTerm 594 628	semantic and syntactic information
+T9	OtherScientificTerm 767 784	efficient parsing
+T10	OtherScientificTerm 847 874	KL-ONE style representation
+T11	OtherScientificTerm 879 886	parsing
+T12	OtherScientificTerm 891 914	semantic interpretation
+T13	OtherScientificTerm 941 957	PSI-KLONE system
+T14	OtherScientificTerm 975 982	parsing
+T15	OtherScientificTerm 1031 1065	incremental description refinement
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Compare Arg1:T3 Arg2:T5
+R2	Used-for Arg1:T6 Arg2:T7
+R3	Used-for Arg1:T10 Arg2:T11
+R4	Used-for Arg1:T15 Arg2:T14

@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 13 53	practically unsupervised learning method
+T1	OtherScientificTerm 65 87	single-snippet answers
+T2	OtherScientificTerm 91 111	definition questions
+T3	OtherScientificTerm 115 141	question answering systems
+T4	OtherScientificTerm 158 176	Web search engines
+T5	OtherScientificTerm 199 237	on-line encyclopedias and dictionaries
+T6	OtherScientificTerm 295 336	positive and negative definition examples
+T7	OtherScientificTerm 371 374	svm
+T8	OtherScientificTerm 517 523	system
+T9	OtherScientificTerm 527 536	questions
+T10	OtherScientificTerm 541 564	news articles from trec
+T11	OtherScientificTerm 589 602	search engine
+T12	OtherScientificTerm 610 630	definition questions
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T5 Arg2:T6

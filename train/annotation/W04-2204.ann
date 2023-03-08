@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 43 62	transfer dictionary
+T1	OtherScientificTerm 79 102	Dictionary construction
+T2	OtherScientificTerm 153 179	machine translation system
+T3	OtherScientificTerm 251 261	dictionary
+T4	OtherScientificTerm 277 297	linguistic resources
+T5	OtherScientificTerm 304 313	algorithm
+T6	OtherScientificTerm 336 350	language pairs
+T7	OtherScientificTerm 396 425	Korean-to-Japanese dictionary
+T8	OtherScientificTerm 432 439	English
+T9	OtherScientificTerm 445 450	pivot
+T10	OtherScientificTerm 478 500	automatic construction
+T11	OtherScientificTerm 534 548	directionality
+T12	OtherScientificTerm 552 564	dictionaries
+T13	OtherScientificTerm 588 606	" one-time look up
+T14	OtherScientificTerm 616 647	using a Korean-to-English and a
+T15	OtherScientificTerm 700 712	method using
+T16	OtherScientificTerm 727 739	constraint "
+T17	OtherScientificTerm 747 775	Korean-to-English dictionary
+T18	OtherScientificTerm 870 874	used
+T19	OtherScientificTerm 888 900	a dictionary
+T20	OtherScientificTerm 903 923	an English-to-Korean
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T4 Arg2:T3
+R2	Used-for Arg1:T5 Arg2:T6
+R3	Used-for Arg1:T9 Arg2:T7
+R4	Feature-of Arg1:T11 Arg2:T12
+R5	Used-for Arg1:T14 Arg2:T13

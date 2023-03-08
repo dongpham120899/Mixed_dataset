@@ -1,0 +1,34 @@
+T0	OtherScientificTerm 0 7	WordNet
+T1	OtherScientificTerm 56 87	Word Sense Disambiguation ( WSD
+T2	OtherScientificTerm 102 106	as a
+T3	OtherScientificTerm 123 126	and
+T4	OtherScientificTerm 129 142	repository of
+T5	OtherScientificTerm 235 267	for the Geographical Information
+T6	OtherScientificTerm 303 318	for the toponym
+T7	OtherScientificTerm 369 383	specialization
+T8	OtherScientificTerm 434 443	assign to
+T9	OtherScientificTerm 457 465	entities
+T10	OtherScientificTerm 517 551	to implement geometric shape-based
+T11	OtherScientificTerm 582 587	paper
+T12	OtherScientificTerm 609 613	, an
+T13	OtherScientificTerm 624 634	annotation
+T14	OtherScientificTerm 638 650	WordNet with
+T15	OtherScientificTerm 676 677	.
+T16	OtherScientificTerm 714 727	by extracting
+T17	OtherScientificTerm 741 748	synsets
+T18	OtherScientificTerm 773 777	with
+T19	OtherScientificTerm 784 792	holonyms
+T20	OtherScientificTerm 843 865	in the Wikipedia-World
+T21	OtherScientificTerm 888 889	.
+T22	OtherScientificTerm 923 929	of the
+T23	OtherScientificTerm 961 966	basis
+T24	OtherScientificTerm 984 995	between the
+T25	OtherScientificTerm 1005 1016	entries and
+T26	OtherScientificTerm 1024 1029	gloss
+T27	OtherScientificTerm 1032 1040	holonyms
+T28	OtherScientificTerm 1087 1129	used in Geographical Information Retrieval
+T29	OtherScientificTerm 1146 1160	especially for
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T8 Arg2:T9
+R2	Part-of Arg1:T16 Arg2:T17
+R3	Feature-of Arg1:T21 Arg2:T22

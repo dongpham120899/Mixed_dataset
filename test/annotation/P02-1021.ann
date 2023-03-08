@@ -1,0 +1,31 @@
+T0	OtherScientificTerm 0 18	Text normalization
+T1	OtherScientificTerm 56 77	information retrieval
+T2	OtherScientificTerm 83 100	medical documents
+T3	OtherScientificTerm 109 123	clinical notes
+T4	OtherScientificTerm 126 143	radiology reports
+T5	OtherScientificTerm 148 167	discharge summaries
+T6	OtherScientificTerm 177 191	medical domain
+T7	OtherScientificTerm 239 257	text normalization
+T8	OtherScientificTerm 261 300	abbreviation and acronym disambiguation
+T9	OtherScientificTerm 312 325	abbreviations
+T10	OtherScientificTerm 361 366	texts
+T11	OtherScientificTerm 408 422	data retrieval
+T12	OtherScientificTerm 432 440	document
+T13	OtherScientificTerm 488 526	automatically generating training data
+T14	OtherScientificTerm 531 551	Maximum Entropy ( ME
+T15	OtherScientificTerm 554 562	modeling
+T16	OtherScientificTerm 566 579	abbreviations
+T17	OtherScientificTerm 607 617	that using
+T18	OtherScientificTerm 645 675	technique for abbreviation and
+T19	OtherScientificTerm 762 771	number of
+T20	OtherScientificTerm 787 789	to
+T21	OtherScientificTerm 800 813	abbreviations
+T22	OtherScientificTerm 839 848	of 10,000
+T23	OtherScientificTerm 873 876	~89
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T8 Arg2:T7
+R2	Part-of Arg1:T9 Arg2:T10
+R3	Used-for Arg1:T11 Arg2:T12
+R4	Used-for Arg1:T13 Arg2:T14
+R5	Used-for Arg1:T17 Arg2:T18
+R6	Used-for Arg1:T19 Arg2:T20

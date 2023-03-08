@@ -1,0 +1,23 @@
+T0	OtherScientificTerm 31 91	generative probabilistic optical character recognition ( OCR
+T1	OtherScientificTerm 137 149	in the noisy
+T2	OtherScientificTerm 187 200	generation of
+T3	OtherScientificTerm 238 246	into the
+T4	OtherScientificTerm 260 265	of an
+T5	OtherScientificTerm 277 278	.
+T6	OtherScientificTerm 305 311	use in
+T7	OtherScientificTerm 338 343	focus
+T8	OtherScientificTerm 347 362	post-processing
+T9	OtherScientificTerm 374 386	of black-box
+T10	OtherScientificTerm 424 434	useful for
+T11	OtherScientificTerm 476 478	of
+T12	OtherScientificTerm 489 497	based on
+T13	OtherScientificTerm 520 531	demonstrate
+T14	OtherScientificTerm 556 595	significantly reduce character and word
+T15	OtherScientificTerm 632 649	results involving
+T16	OtherScientificTerm 660 673	extraction of
+T17	OtherScientificTerm 686 699	lexicons from
+R0	Used-for Arg1:T5 Arg2:T6
+R1	Used-for Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T12 Arg2:T11
+R3	Evaluate-for Arg1:T13 Arg2:T14
+R4	Used-for Arg1:T15 Arg2:T17

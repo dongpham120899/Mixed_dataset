@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 64 79	source language
+T1	OtherScientificTerm 113 128	EUROPARL corpus
+T2	OtherScientificTerm 145 161	frequency counts
+T3	OtherScientificTerm 165 177	word n-grams
+T4	OtherScientificTerm 193 201	accuracy
+T5	OtherScientificTerm 215 236	classification method
+T6	OtherScientificTerm 281 297	positive markers
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T2 Arg2:T3
+R2	Evaluate-for Arg1:T5 Arg2:T4

@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 35 76	computational analysis of move structures
+T1	OtherScientificTerm 80 89	abstracts
+T2	OtherScientificTerm 93 110	research articles
+T3	OtherScientificTerm 131 140	sentences
+T4	OtherScientificTerm 152 160	abstract
+T5	OtherScientificTerm 202 206	move
+T6	OtherScientificTerm 227 247	rhetorical functions
+T7	OtherScientificTerm 312 321	abstracts
+T8	OtherScientificTerm 331 334	Web
+T9	OtherScientificTerm 350 364	language model
+T10	OtherScientificTerm 368 382	abstract moves
+T11	OtherScientificTerm 413 425	concordancer
+T12	OtherScientificTerm 428 432	CARE
+T13	OtherScientificTerm 454 475	move-tagged abstracts
+T14	OtherScientificTerm 480 496	digital learning
+T15	OtherScientificTerm 544 588	Web-based computer-assisted academic writing
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T3 Arg2:T4
+R2	Part-of Arg1:T7 Arg2:T8
+R3	Feature-of Arg1:T9 Arg2:T10
+R4	Used-for Arg1:T13 Arg2:T14

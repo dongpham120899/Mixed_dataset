@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 23 66	characters-based Chinese collocation system
+T1	OtherScientificTerm 121 138	word-based system
+T2	OtherScientificTerm 147 157	wordbreaks
+T3	OtherScientificTerm 191 211	Chinese text corpora
+T4	OtherScientificTerm 216 250	character-based collocation system
+T5	OtherScientificTerm 287 312	pre-processing distortion
+T6	OtherScientificTerm 336 359	sub-lexical information
+T7	OtherScientificTerm 376 411	word-based collocational properties
+T8	OtherScientificTerm 459 481	automatic segmentation
+R0	Compare Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T8 Arg2:T7

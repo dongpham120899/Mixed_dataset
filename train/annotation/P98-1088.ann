@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 31 43	linear logic
+T1	OtherScientificTerm 82 107	computational linguistics
+T2	OtherScientificTerm 117 123	" glue
+T3	OtherScientificTerm 135 146	approach to
+T4	OtherScientificTerm 174 185	formulation
+T5	OtherScientificTerm 198 208	of various
+T6	OtherScientificTerm 320 346	methods for multiplicative
+T7	OtherScientificTerm 496 506	methods in
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3

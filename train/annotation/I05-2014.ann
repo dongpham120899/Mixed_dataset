@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 10 28	evaluation metrics
+T1	OtherScientificTerm 33 57	Machine Translation ( MT
+T2	OtherScientificTerm 70 74	such
+T3	OtherScientificTerm 78 82	BLEU
+T4	OtherScientificTerm 157 170	assessment of
+T5	OtherScientificTerm 180 185	pairs
+T6	OtherScientificTerm 191 206	English-Chinese
+T7	OtherScientificTerm 237 248	of the word
+T8	OtherScientificTerm 332 335	use
+T9	OtherScientificTerm 339 346	BLEU in
+T10	OtherScientificTerm 380 382	at
+T11	OtherScientificTerm 409 412	use
+T12	OtherScientificTerm 421 423	at
+T13	OtherScientificTerm 444 463	eliminates the word
+T14	OtherScientificTerm 539 557	systems outputting
+T15	OtherScientificTerm 587 609	instance , statistical
+T16	OtherScientificTerm 635 642	segment
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T7 Arg2:T6
+R2	Used-for Arg1:T8 Arg2:T9
+R3	Used-for Arg1:T11 Arg2:T12

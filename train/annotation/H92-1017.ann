@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 38 69	domain-independent capabilities
+T1	OtherScientificTerm 92 136	Paramax spoken language understanding system
+T2	OtherScientificTerm 139 162	non-monotonic reasoning
+T3	OtherScientificTerm 165 194	implicit reference resolution
+T4	OtherScientificTerm 201 226	database query paraphrase
+T5	OtherScientificTerm 273 307	February 1992 ATIS benchmark tests
+T6	OtherScientificTerm 341 367	standard evaluation metric
+T7	OtherScientificTerm 511 558	n-best speech/language integration architecture
+T8	OtherScientificTerm 572 575	OCR
+T9	OtherScientificTerm 576 584	accuracy
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Evaluate-for Arg1:T7 Arg2:T9

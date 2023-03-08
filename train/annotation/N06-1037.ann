@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 29 47	convolution kernel
+T1	OtherScientificTerm 53 64	parse trees
+T2	OtherScientificTerm 74 105	syntactic structure information
+T3	OtherScientificTerm 110 129	relation extraction
+T4	OtherScientificTerm 159 187	syntactic structure features
+T5	OtherScientificTerm 202 212	parse tree
+T6	OtherScientificTerm 236 255	relation extraction
+T7	OtherScientificTerm 303 326	convolution tree kernel
+T8	OtherScientificTerm 347 362	ACE 2003 corpus
+T9	OtherScientificTerm 378 396	convolution kernel
+T10	OtherScientificTerm 402 413	parse trees
+T11	OtherScientificTerm 513 534	ACE relation subtypes
+T12	OtherScientificTerm 610 633	dependency tree kernels
+T13	OtherScientificTerm 643 667	ACE relation major types
+R0	Feature-of Arg1:T0 Arg2:T2
+R1	Part-of Arg1:T4 Arg2:T5

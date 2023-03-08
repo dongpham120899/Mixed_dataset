@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 32 57	word sense disambiguation
+T1	OtherScientificTerm 67 83	parallel corpora
+T2	OtherScientificTerm 125 139	word alignment
+T3	OtherScientificTerm 144 159	word clustering
+T4	OtherScientificTerm 169 189	automatic extraction
+T5	OtherScientificTerm 193 216	translation equivalents
+T6	OtherScientificTerm 258 266	wordnets
+T7	OtherScientificTerm 275 284	languages
+T8	OtherScientificTerm 292 298	corpus
+T9	OtherScientificTerm 305 313	wordnets
+T10	OtherScientificTerm 333 350	Princeton Wordnet
+T11	OtherScientificTerm 396 407	EuroWordNet
+T12	OtherScientificTerm 432 442	WSD system
+T13	OtherScientificTerm 594 610	alignment errors
+T14	OtherScientificTerm 614 645	multilingually aligned wordnets
+T15	OtherScientificTerm 649 657	BalkaNet
+T16	OtherScientificTerm 662 673	EuroWordNet
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T4 Arg2:T3
+R2	Part-of Arg1:T13 Arg2:T14

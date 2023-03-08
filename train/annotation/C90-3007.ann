@@ -1,0 +1,6 @@
+T0	OtherScientificTerm 38 72	feature-based partial descriptions
+T1	OtherScientificTerm 89 109	Halliday 's systemic
+T2	OtherScientificTerm 156 170	of consistency
+T3	OtherScientificTerm 271 278	develop
+T4	OtherScientificTerm 351 355	this
+R0	Used-for Arg1:T3 Arg2:T4

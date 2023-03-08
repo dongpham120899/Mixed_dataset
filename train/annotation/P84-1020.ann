@@ -1,0 +1,4 @@
+T0	OtherScientificTerm 26 49	natural language system
+T1	OtherScientificTerm 76 95	ungrammatical input
+T2	OtherScientificTerm 158 197	computer aided second language learning
+R0	Used-for Arg1:T0 Arg2:T1

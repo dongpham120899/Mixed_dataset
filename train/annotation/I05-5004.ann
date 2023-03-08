@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 25 61	compositional classes of paraphrases
+T1	OtherScientificTerm 83 107	class-oriented framework
+T2	OtherScientificTerm 123 142	paraphrase examples
+T3	OtherScientificTerm 154 176	sentential paraphrases
+T4	OtherScientificTerm 200 216	paraphrase class
+T5	OtherScientificTerm 240 270	automatic candidate generation
+T6	OtherScientificTerm 275 291	manual judgement
+T7	OtherScientificTerm 336 353	paraphrase corpus
+T8	OtherScientificTerm 438 453	cost-efficiency
+T9	OtherScientificTerm 456 470	exhaustiveness
+T10	OtherScientificTerm 477 488	reliability
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T3 Arg2:T4

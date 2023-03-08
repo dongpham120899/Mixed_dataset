@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 13 31	corpus-based study
+T1	OtherScientificTerm 74 96	linguistics literature
+T2	OtherScientificTerm 115 141	semantically unmarked term
+T3	OtherScientificTerm 159 180	antonymous adjectives
+T4	OtherScientificTerm 275 279	term
+T5	OtherScientificTerm 302 330	automatically collected data
+T6	OtherScientificTerm 337 345	accuracy
+T7	OtherScientificTerm 401 421	statistical analysis
+T8	OtherScientificTerm 697 711	text frequency
+T9	OtherScientificTerm 755 791	generic statistical learning methods
+T10	OtherScientificTerm 927 950	complex learning method
+R0	Part-of Arg1:T2 Arg2:T3

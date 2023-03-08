@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 74 93	corpus distribution
+T1	OtherScientificTerm 97 109	prepositions
+T2	OtherScientificTerm 114 122	pronouns
+T3	OtherScientificTerm 130 169	Polish preposition-pronoun contractions
+T4	OtherScientificTerm 240 279	Polish preposition-pronoun contractions
+T5	OtherScientificTerm 306 332	morphosyntactic properties
+T6	OtherScientificTerm 452 474	inflectional paradigms
+T7	OtherScientificTerm 478 493	Polish pronouns
+T8	OtherScientificTerm 542 551	paradigms
+T9	OtherScientificTerm 569 596	corpus-based investigations
+T10	OtherScientificTerm 604 616	distribution
+T11	OtherScientificTerm 620 632	prepositions
+T12	OtherScientificTerm 640 672	preposition-pronoun contractions
+R0	Feature-of Arg1:T5 Arg2:T4
+R1	Feature-of Arg1:T10 Arg2:T11

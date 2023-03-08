@@ -1,0 +1,59 @@
+T0	OtherScientificTerm 31 60	theory of discourse structure
+T1	OtherScientificTerm 87 94	purpose
+T2	OtherScientificTerm 99 109	processing
+T3	OtherScientificTerm 113 122	discourse
+T4	OtherScientificTerm 142 161	discourse structure
+T5	OtherScientificTerm 255 265	utterances
+T6	OtherScientificTerm 279 299	linguistic structure
+T7	OtherScientificTerm 319 327	purposes
+T8	OtherScientificTerm 341 362	intentional structure
+T9	OtherScientificTerm 384 402	focus of attention
+T10	OtherScientificTerm 416 433	attentional state
+T11	OtherScientificTerm 442 462	linguistic structure
+T12	OtherScientificTerm 491 500	discourse
+T13	OtherScientificTerm 516 526	utterances
+T14	OtherScientificTerm 553 574	intentional structure
+T15	OtherScientificTerm 588 615	discourse-relevant purposes
+T16	OtherScientificTerm 643 662	linguistic segments
+T17	OtherScientificTerm 705 722	attentional state
+T18	OtherScientificTerm 748 766	focus of attention
+T19	OtherScientificTerm 774 786	participants
+T20	OtherScientificTerm 794 803	discourse
+T21	OtherScientificTerm 818 835	attentional state
+T22	OtherScientificTerm 941 950	discourse
+T23	OtherScientificTerm 1048 1067	discourse phenomena
+T24	OtherScientificTerm 1071 1082	cue phrases
+T25	OtherScientificTerm 1085 1106	referring expressions
+T26	OtherScientificTerm 1113 1126	interruptions
+T27	OtherScientificTerm 1133 1182	theory of attention , intention , and aggregation
+T28	OtherScientificTerm 1239 1241	of
+T29	OtherScientificTerm 1271 1281	properties
+T30	OtherScientificTerm 1336 1348	behaviour of
+T31	OtherScientificTerm 1353 1362	phrases ,
+T32	OtherScientificTerm 1385 1386	,
+T33	OtherScientificTerm 1418 1419	.
+T34	OtherScientificTerm 1472 1482	processing
+T35	OtherScientificTerm 1497 1499	in
+T36	OtherScientificTerm 1502 1513	discourse .
+T37	OtherScientificTerm 1556 1559	how
+T38	OtherScientificTerm 1575 1577	of
+T39	OtherScientificTerm 1592 1601	aggregate
+T40	OtherScientificTerm 1618 1629	recognizing
+T41	OtherScientificTerm 1655 1657	in
+T42	OtherScientificTerm 1680 1693	relationships
+T43	OtherScientificTerm 1717 1725	tracking
+T44	OtherScientificTerm 1780 1795	associated with
+T45	OtherScientificTerm 1854 1862	in these
+T46	OtherScientificTerm 1905 1909	from
+T47	OtherScientificTerm 1928 1932	from
+R0	Evaluate-for Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T6 Arg2:T5
+R2	Feature-of Arg1:T8 Arg2:T7
+R3	Feature-of Arg1:T10 Arg2:T9
+R4	Part-of Arg1:T13 Arg2:T12
+R5	Feature-of Arg1:T14 Arg2:T15
+R6	Feature-of Arg1:T17 Arg2:T18
+R7	Feature-of Arg1:T27 Arg2:T28
+R8	Part-of Arg1:T34 Arg2:T35
+R9	Part-of Arg1:T37 Arg2:T38
+R10	Part-of Arg1:T40 Arg2:T41

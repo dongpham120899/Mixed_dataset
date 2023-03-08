@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 38 56	structured content
+T1	OtherScientificTerm 60 80	semantic constraints
+T2	OtherScientificTerm 126 155	term-based document retrieval
+T3	OtherScientificTerm 210 230	automatic extraction
+T4	OtherScientificTerm 234 250	semantic content
+T5	OtherScientificTerm 266 286	attribute-value ( AV
+T6	OtherScientificTerm 289 307	pairs from natural
+T7	OtherScientificTerm 323 331	based on
+T8	OtherScientificTerm 358 380	from a semi-structured
+T9	OtherScientificTerm 428 467	combining a state-of-the-art term-based
+T10	OtherScientificTerm 482 507	a simple constraint-based
+T11	OtherScientificTerm 532 545	the extracted
+T12	OtherScientificTerm 627 641	improvement in
+T13	OtherScientificTerm 657 676	over the term-based
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T7 Arg2:T8
+R3	Used-for Arg1:T11 Arg2:T10
+R4	Compare Arg1:T12 Arg2:T13

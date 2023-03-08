@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 71 89	segment boundaries
+T1	OtherScientificTerm 93 119	spoken multiparty dialogue
+T2	OtherScientificTerm 211 244	predicting top-level topic shifts
+T3	OtherScientificTerm 263 294	identifying subtopic boundaries
+T4	OtherScientificTerm 327 338	performance
+T5	OtherScientificTerm 348 358	ASR output
+T6	OtherScientificTerm 373 392	human transcription
+T7	OtherScientificTerm 424 432	features
+T8	OtherScientificTerm 444 499	predicting top-level and predicting subtopic boundaries
+T9	OtherScientificTerm 546 565	subtopic boundaries
+T10	OtherScientificTerm 572 603	lexical cohesion-based approach
+T11	OtherScientificTerm 654 685	predicting top-level boundaries
+T12	OtherScientificTerm 692 717	machine learning approach
+T13	OtherScientificTerm 732 776	lexical-cohesion and conversational features
+T14	OtherScientificTerm 803 822	conversational cues
+T15	OtherScientificTerm 833 844	cue phrases
+T16	OtherScientificTerm 849 867	overlapping speech
+T17	OtherScientificTerm 950 970	transcription errors
+T18	OtherScientificTerm 985 995	ASR output
+T19	OtherScientificTerm 1042 1086	lexical-cohesion and conversational features
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Compare Arg1:T5 Arg2:T6
+R2	Used-for Arg1:T12 Arg2:T11
+R3	Feature-of Arg1:T17 Arg2:T18

@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 51 64	n-gram models
+T1	OtherScientificTerm 69 91	error-correction rules
+T2	OtherScientificTerm 96 115	Thai key prediction
+T3	OtherScientificTerm 120 156	Thai-English language identification
+T4	OtherScientificTerm 183 207	rule-reduction algorithm
+T5	OtherScientificTerm 217 235	mutual information
+T6	OtherScientificTerm 250 272	error-correction rules
+T7	OtherScientificTerm 313 321	accuracy
+T8	OtherScientificTerm 330 353	language identification
+T9	OtherScientificTerm 358 372	key prediction
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T5 Arg2:T6
+R2	Evaluate-for Arg1:T8 Arg2:T7

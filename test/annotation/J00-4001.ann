@@ -1,0 +1,41 @@
+T0	OtherScientificTerm 41 45	text
+T1	OtherScientificTerm 54 61	content
+T2	OtherScientificTerm 70 75	style
+T3	OtherScientificTerm 113 127	categorization
+T4	OtherScientificTerm 170 189	text categorization
+T5	OtherScientificTerm 202 207	genre
+T6	OtherScientificTerm 223 235	Modern Greek
+T7	OtherScientificTerm 262 284	stylometric approaches
+T8	OtherScientificTerm 333 366	natural language processing ( NLP
+T9	OtherScientificTerm 404 410	set of
+T10	OtherScientificTerm 417 434	markers including
+T11	OtherScientificTerm 485 494	which the
+T12	OtherScientificTerm 528 542	capture useful
+T13	OtherScientificTerm 638 657	experiments in text
+T14	OtherScientificTerm 664 675	detection ,
+T15	OtherScientificTerm 698 703	, and
+T16	OtherScientificTerm 739 747	that the
+T17	OtherScientificTerm 789 816	most popular distributional
+T18	OtherScientificTerm 843 855	functions of
+T19	OtherScientificTerm 867 891	richness and frequencies
+T20	OtherScientificTerm 913 917	most
+T21	OtherScientificTerm 969 977	based on
+T22	OtherScientificTerm 1007 1021	from the World
+T23	OtherScientificTerm 1031 1049	without any manual
+T24	OtherScientificTerm 1055 1071	preprocessing or
+T25	OtherScientificTerm 1115 1128	regarding the
+T26	OtherScientificTerm 1171 1183	the proposed
+T27	OtherScientificTerm 1212 1213	.
+T28	OtherScientificTerm 1237 1239	in
+T29	OtherScientificTerm 1279 1295	easily adaptable
+T30	OtherScientificTerm 1319 1341	terms of stylistically
+T31	OtherScientificTerm 1392 1403	of defining
+T32	OtherScientificTerm 1455 1469	extract useful
+T33	OtherScientificTerm 1492 1511	using existing text
+R0	Used-for Arg1:T3 Arg2:T0
+R1	Used-for Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T10 Arg2:T9
+R3	Compare Arg1:T16 Arg2:T17
+R4	Feature-of Arg1:T19 Arg2:T20
+R5	Part-of Arg1:T21 Arg2:T22
+R6	Used-for Arg1:T27 Arg2:T28

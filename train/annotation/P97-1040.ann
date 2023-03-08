@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 22 51	primitive Optimality Theory (
+T1	OtherScientificTerm 87 100	formalization
+T2	OtherScientificTerm 104 106	OT
+T3	OtherScientificTerm 113 135	specifies the class of
+T4	OtherScientificTerm 166 181	, the universal
+T5	OtherScientificTerm 217 228	families of
+T6	OtherScientificTerm 270 274	less
+T7	OtherScientificTerm 286 300	theories using
+T8	OtherScientificTerm 313 322	Alignment
+T9	OtherScientificTerm 329 339	's optimal
+T10	OtherScientificTerm 361 375	generated with
+T11	OtherScientificTerm 431 444	Unfortunately
+T12	OtherScientificTerm 451 495	methods take time exponential on the size of
+T13	OtherScientificTerm 510 520	Indeed the
+T14	OtherScientificTerm 540 542	is
+T15	OtherScientificTerm 612 622	for making
+T16	OtherScientificTerm 726 733	speedup
+T17	OtherScientificTerm 810 814	is a
+T18	OtherScientificTerm 819 838	finite-state notion
+T19	OtherScientificTerm 850 860	automata ,
+T20	OtherScientificTerm 889 921	represented compactly via formal
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T7 Arg2:T6
+R2	Used-for Arg1:T10 Arg2:T9
+R3	Feature-of Arg1:T12 Arg2:T11
+R4	Feature-of Arg1:T14 Arg2:T13
+R5	Feature-of Arg1:T20 Arg2:T19

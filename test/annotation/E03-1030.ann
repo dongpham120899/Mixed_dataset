@@ -1,0 +1,5 @@
+T0	OtherScientificTerm 13 41	semantic construction method
+T1	OtherScientificTerm 46 82	Feature-Based Tree Adjoining Grammar
+T2	OtherScientificTerm 105 117	derived tree
+T3	OtherScientificTerm 179 207	implementation possibilities
+R0	Used-for Arg1:T2 Arg2:T0

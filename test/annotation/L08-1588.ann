@@ -1,0 +1,38 @@
+T0	OtherScientificTerm 16 42	Machine Translation ( MT )
+T1	OtherScientificTerm 64 80	particularly for
+T2	OtherScientificTerm 106 108	is
+T3	OtherScientificTerm 131 149	. Acquiring source
+T4	OtherScientificTerm 181 191	, creating
+T5	OtherScientificTerm 201 224	datasets for customized
+T6	OtherScientificTerm 239 251	and building
+T7	OtherScientificTerm 261 272	corpora for
+T8	OtherScientificTerm 276 286	evaluation
+T9	OtherScientificTerm 295 321	translators and non-native
+T10	OtherScientificTerm 343 355	handle large
+T11	OtherScientificTerm 439 445	format
+T12	OtherScientificTerm 448 458	encoding ,
+T13	OtherScientificTerm 478 484	access
+T14	OtherScientificTerm 497 507	describing
+T15	OtherScientificTerm 540 550	that allow
+T16	OtherScientificTerm 608 628	and evaluate foreign
+T17	OtherScientificTerm 662 664	to
+T18	OtherScientificTerm 760 762	to
+T19	OtherScientificTerm 776 805	through pre-processing source
+T20	OtherScientificTerm 879 882	use
+T21	OtherScientificTerm 928 935	enables
+T22	OtherScientificTerm 951 953	to
+T23	OtherScientificTerm 961 970	documents
+T24	OtherScientificTerm 976 1008	metadata for MT parameterization
+T25	OtherScientificTerm 1027 1030	use
+T26	OtherScientificTerm 1042 1058	as a web-enabled
+T27	OtherScientificTerm 1069 1080	to multiple
+T28	OtherScientificTerm 1123 1129	of our
+T29	OtherScientificTerm 1148 1151	for
+T30	OtherScientificTerm 1161 1178	lexicons from NFW
+T31	OtherScientificTerm 1196 1203	) lists
+T32	OtherScientificTerm 1224 1238	translations ,
+T33	OtherScientificTerm 1243 1251	creating
+R0	Used-for Arg1:T3 Arg2:T4
+R1	Feature-of Arg1:T23 Arg2:T22
+R2	Part-of Arg1:T29 Arg2:T30
+R3	Used-for Arg1:T32 Arg2:T33

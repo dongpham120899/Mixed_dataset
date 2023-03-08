@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 0 17	Graph unification
+T1	OtherScientificTerm 53 86	unification-based grammar parsing
+T2	OtherScientificTerm 139 161	unification algorithms
+T3	OtherScientificTerm 177 184	copying
+T4	OtherScientificTerm 188 208	unmodified subgraphs
+T5	OtherScientificTerm 278 295	structure-sharing
+T6	OtherScientificTerm 309 316	log(d )
+T7	OtherScientificTerm 344 369	with structure-sharing of
+T8	OtherScientificTerm 396 413	costly dependency
+T9	OtherScientificTerm 445 465	eliminates redundant
+T10	OtherScientificTerm 492 520	the quasi-destructive scheme
+T11	OtherScientificTerm 532 540	to avoid
+T12	OtherScientificTerm 546 557	copying and
+T13	OtherScientificTerm 598 607	to handle
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T6 Arg2:T7

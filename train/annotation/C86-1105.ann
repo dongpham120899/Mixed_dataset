@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 14 36	hierarchical relations
+T1	OtherScientificTerm 44 75	superordinate -hyponym relation
+T2	OtherScientificTerm 78 94	synonym relation
+T3	OtherScientificTerm 139 161	thesaurus construction
+T4	OtherScientificTerm 200 209	relations
+T5	OtherScientificTerm 241 269	Japanese language dictionary
+T6	OtherScientificTerm 380 400	definition sentences
+T7	OtherScientificTerm 408 418	dictionary
+T8	OtherScientificTerm 454 476	hierarchical relations
+R0	Part-of Arg1:T0 Arg2:T3
+R1	Part-of Arg1:T4 Arg2:T5
+R2	Part-of Arg1:T6 Arg2:T7

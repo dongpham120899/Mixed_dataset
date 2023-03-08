@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 53 79	reading comprehension task
+T1	OtherScientificTerm 126 131	facts
+T2	OtherScientificTerm 167 173	levels
+T3	OtherScientificTerm 187 192	level
+T4	OtherScientificTerm 215 235	degree of difficulty
+T5	OtherScientificTerm 252 256	fact
+T6	OtherScientificTerm 273 277	text
+T7	OtherScientificTerm 339 344	model
+T8	OtherScientificTerm 361 371	complexity
+T9	OtherScientificTerm 379 405	reading comprehension task
+T10	OtherScientificTerm 444 471	reading comprehension tasks
+T11	OtherScientificTerm 502 510	analysis
+R0	Feature-of Arg1:T3 Arg2:T4
+R1	Part-of Arg1:T5 Arg2:T6

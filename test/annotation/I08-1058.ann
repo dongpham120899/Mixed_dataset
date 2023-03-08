@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 0 14	Computer users
+T1	OtherScientificTerm 44 48	text
+T2	OtherScientificTerm 60 78	multiple languages
+T3	OtherScientificTerm 99 118	computer interfaces
+T4	OtherScientificTerm 150 169	text entry software
+T5	OtherScientificTerm 192 200	language
+T6	OtherScientificTerm 248 264	language changes
+T7	OtherScientificTerm 315 322	TypeAny
+T8	OtherScientificTerm 333 352	front-end interface
+T9	OtherScientificTerm 370 378	language
+T10	OtherScientificTerm 386 397	user 's key
+T11	OtherScientificTerm 433 436	the
+T12	OtherScientificTerm 450 472	appropriate text entry
+T13	OtherScientificTerm 517 518	,
+T14	OtherScientificTerm 548 551	two
+T15	OtherScientificTerm 591 594	new
+T16	OtherScientificTerm 616 625	available
+T17	OtherScientificTerm 677 704	obtained language detection
+T18	OtherScientificTerm 732 743	appropriate
+T19	OtherScientificTerm 781 786	three
+T20	OtherScientificTerm 810 820	of control
+T21	OtherScientificTerm 839 845	switch
+T22	OtherScientificTerm 885 890	using
+T23	OtherScientificTerm 911 925	a conventional
+R0	Compare Arg1:T22 Arg2:T23

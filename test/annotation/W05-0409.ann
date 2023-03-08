@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 41 49	features
+T1	OtherScientificTerm 63 83	data representations
+T2	OtherScientificTerm 94 107	surface texts
+T3	OtherScientificTerm 112 123	parse trees
+T4	OtherScientificTerm 130 147	answer extraction
+T5	OtherScientificTerm 162 170	features
+T6	OtherScientificTerm 190 203	surface texts
+T7	OtherScientificTerm 228 246	feature generation
+T8	OtherScientificTerm 254 265	parse trees
+T9	OtherScientificTerm 317 331	feature vector
+T10	OtherScientificTerm 334 347	string kernel
+T11	OtherScientificTerm 352 363	tree kernel
+T12	OtherScientificTerm 383 401	syntactic features
+T13	OtherScientificTerm 405 428	Support Vector Machines
+T14	OtherScientificTerm 453 481	TREC question answering task
+T15	OtherScientificTerm 497 505	features
+T16	OtherScientificTerm 541 561	data representations
+T17	OtherScientificTerm 613 621	features
+T18	OtherScientificTerm 641 654	surface texts
+T19	OtherScientificTerm 706 713	feature
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T5 Arg2:T6
+R2	Used-for Arg1:T12 Arg2:T13
+R3	Part-of Arg1:T15 Arg2:T16
+R4	Part-of Arg1:T17 Arg2:T18

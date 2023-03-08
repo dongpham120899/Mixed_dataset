@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 57 75	tagged text corpus
+T1	OtherScientificTerm 112 136	subcategorization frames
+T2	OtherScientificTerm 151 155	verb
+T3	OtherScientificTerm 240 251	occurrences
+T4	OtherScientificTerm 260 264	verb
+T5	OtherScientificTerm 272 287	training corpus
+T6	OtherScientificTerm 290 310	False positive rates
+T7	OtherScientificTerm 343 367	subcategorization frames
+T8	OtherScientificTerm 487 515	subcategorization dictionary
+T9	OtherScientificTerm 523 536	NLP community
+T10	OtherScientificTerm 550 562	dictionaries
+T11	OtherScientificTerm 576 583	corpora
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T4 Arg2:T5

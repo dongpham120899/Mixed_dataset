@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 11 24	training data
+T1	OtherScientificTerm 38 55	language modeling
+T2	OtherScientificTerm 59 80	conversational speech
+T3	OtherScientificTerm 123 136	training data
+T4	OtherScientificTerm 162 166	text
+T5	OtherScientificTerm 176 179	web
+T6	OtherScientificTerm 202 207	style
+T7	OtherScientificTerm 215 220	topic
+T8	OtherScientificTerm 235 251	recognition task
+T9	OtherScientificTerm 324 328	data
+T10	OtherScientificTerm 338 367	class-dependent interpolation
+T11	OtherScientificTerm 371 378	N-grams
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T4 Arg2:T5

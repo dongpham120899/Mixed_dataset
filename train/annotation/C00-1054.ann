@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 40 47	parsing
+T1	OtherScientificTerm 69 79	utterances
+T2	OtherScientificTerm 198 220	multimodal integration
+T3	OtherScientificTerm 254 279	unification-based grammar
+T4	OtherScientificTerm 298 327	multidimensional chart parser
+T5	OtherScientificTerm 413 423	interfaces
+T6	OtherScientificTerm 728 764	multimodal parsing and understanding
+T7	OtherScientificTerm 786 814	weighted finite-state device
+T8	OtherScientificTerm 827 853	speech and gesture streams
+T9	OtherScientificTerm 1009 1027	speech recognition
+T10	OtherScientificTerm 1081 1112	multimodal ambiguity resolution
+R0	Used-for Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T7 Arg2:T6

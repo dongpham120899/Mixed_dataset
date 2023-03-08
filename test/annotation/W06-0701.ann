@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 17 34	extraction system
+T1	OtherScientificTerm 39 82	query-oriented multi-document summarisation
+T2	OtherScientificTerm 109 118	relevance
+T3	OtherScientificTerm 123 133	redundancy
+T4	OtherScientificTerm 149 163	text semantics
+T5	OtherScientificTerm 173 185	Embra system
+T6	OtherScientificTerm 197 211	representation
+T7	OtherScientificTerm 229 257	singular value decomposition
+T8	OtherScientificTerm 263 288	term co-occurrence matrix
+T9	OtherScientificTerm 337 361	performance improvements
+T10	OtherScientificTerm 377 382	Embra
+T11	OtherScientificTerm 404 428	dimensionality reduction
+R0	Used-for Arg1:T0 Arg2:T1

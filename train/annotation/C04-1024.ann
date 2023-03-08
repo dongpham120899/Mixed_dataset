@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 13 46	bit-vector-based CKY-style parser
+T1	OtherScientificTerm 51 71	context-free parsing
+T2	OtherScientificTerm 91 97	parser
+T3	OtherScientificTerm 117 144	parse forest representation
+T4	OtherScientificTerm 177 213	analyses for large treebank grammars
+T5	OtherScientificTerm 223 238	input sentences
+T6	OtherScientificTerm 245 251	parser
+T7	OtherScientificTerm 257 278	bit-vector operations
+T8	OtherScientificTerm 298 322	basic parsing operations
+T9	OtherScientificTerm 329 335	parser
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T7 Arg2:T6

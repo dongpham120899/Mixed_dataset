@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 51 61	initiative
+T1	OtherScientificTerm 65 94	human-human tutorial dialogue
+T2	OtherScientificTerm 108 129	initiative management
+T3	OtherScientificTerm 137 156	dialogue strategies
+T4	OtherScientificTerm 159 176	didactic tutoring
+T5	OtherScientificTerm 181 198	Socratic tutoring
+T6	OtherScientificTerm 222 239	didactic tutoring
+T7	OtherScientificTerm 256 272	tutor-initiative
+T8	OtherScientificTerm 279 296	Socratic tutoring
+T9	OtherScientificTerm 306 322	mixed-initiative
+T10	OtherScientificTerm 339 357	student initiative
+T11	OtherScientificTerm 377 385	learning
+T12	OtherScientificTerm 454 464	initiative
+T13	OtherScientificTerm 489 507	didactic dialogues
+T14	OtherScientificTerm 542 560	Socratic dialogues
+T15	OtherScientificTerm 630 648	student initiative
+T16	OtherScientificTerm 653 661	learning
+T17	OtherScientificTerm 674 692	Socratic dialogues
+T18	OtherScientificTerm 720 738	didactic dialogues
+T19	OtherScientificTerm 768 784	tutor utterances
+T20	OtherScientificTerm 823 828	words
+T21	OtherScientificTerm 836 844	dialogue
+T22	OtherScientificTerm 874 887	interactivity
+T23	OtherScientificTerm 920 928	learning
+R0	Feature-of Arg1:T12 Arg2:T13
+R1	Compare Arg1:T17 Arg2:T18

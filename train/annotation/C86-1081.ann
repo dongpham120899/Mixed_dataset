@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 0 11	Determiners
+T1	OtherScientificTerm 52 59	meaning
+T2	OtherScientificTerm 66 75	utterance
+T3	OtherScientificTerm 189 203	global meaning
+T4	OtherScientificTerm 209 210	a
+T5	OtherScientificTerm 269 273	with
+T6	OtherScientificTerm 295 303	inherent
+T7	OtherScientificTerm 341 350	a logical
+T8	OtherScientificTerm 408 420	representing
+T9	OtherScientificTerm 451 461	particular
+T10	OtherScientificTerm 482 487	their
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Feature-of Arg1:T6 Arg2:T5
+R3	Feature-of Arg1:T9 Arg2:T10

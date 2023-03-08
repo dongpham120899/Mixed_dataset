@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 54 98	Korean-to-English machine translation system
+T1	OtherScientificTerm 99 151	CCLINC ( Common Coalition Language System at Lincoln
+T2	OtherScientificTerm 165 195	. The CCLINC Korean-to-English
+T3	OtherScientificTerm 224 230	of two
+T4	OtherScientificTerm 236 272	modules , language understanding and
+T5	OtherScientificTerm 301 322	by a language neutral
+T6	OtherScientificTerm 346 354	called a
+T7	OtherScientificTerm 419 425	Robust
+T8	OtherScientificTerm 436 443	parsing
+T9	OtherScientificTerm 454 462	( a verb
+T10	OtherScientificTerm 469 488	language with overt
+T11	OtherScientificTerm 502 519	, relatively free
+T12	OtherScientificTerm 546 555	omissions
+T13	OtherScientificTerm 580 584	High
+T14	OtherScientificTerm 593 613	translation via word
+T15	OtherScientificTerm 635 652	and accurate word
+T16	OtherScientificTerm 670 676	of the
+T17	OtherScientificTerm 697 708	iii ) Rapid
+T18	OtherScientificTerm 740 742	to
+T19	OtherScientificTerm 747 796	domains via knowledge-based automated acquisition
+T20	OtherScientificTerm 823 840	trained on Korean
+T21	OtherScientificTerm 917 929	produces the
+T22	OtherScientificTerm 986 992	of the
+R0	Part-of Arg1:T3 Arg2:T2
+R1	Used-for Arg1:T7 Arg2:T8
+R2	Feature-of Arg1:T10 Arg2:T9
+R3	Used-for Arg1:T14 Arg2:T13

@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 4 14	verb forms
+T1	OtherScientificTerm 56 67	information
+T2	OtherScientificTerm 86 91	event
+T3	OtherScientificTerm 107 115	sentence
+T4	OtherScientificTerm 119 126	present
+T5	OtherScientificTerm 129 133	past
+T6	OtherScientificTerm 137 143	future
+T7	OtherScientificTerm 147 166	deictic information
+T8	OtherScientificTerm 185 190	event
+T9	OtherScientificTerm 206 214	sentence
+T10	OtherScientificTerm 289 310	aspectual information
+T11	OtherScientificTerm 410 428	verb form meanings
+T12	OtherScientificTerm 466 477	habituality
+T13	OtherScientificTerm 513 538	model-theoretic semantics
+R0	Feature-of Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T2 Arg2:T3
+R2	Part-of Arg1:T8 Arg2:T9
+R3	Feature-of Arg1:T12 Arg2:T11

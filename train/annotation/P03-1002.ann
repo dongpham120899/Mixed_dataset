@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 50 61	IE paradigm
+T1	OtherScientificTerm 86 115	predicate-argument structures
+T2	OtherScientificTerm 175 204	predicate argument structures
+T3	OtherScientificTerm 231 242	IE paradigm
+T4	OtherScientificTerm 287 295	features
+T5	OtherScientificTerm 308 340	inductive decision tree learning
+T6	OtherScientificTerm 398 427	predicate-argument structures
+T7	OtherScientificTerm 448 450	IE
+R0	Used-for Arg1:T1 Arg2:T0

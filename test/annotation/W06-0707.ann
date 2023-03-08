@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 4 45	Document Understanding Conference ( DUC )
+T1	OtherScientificTerm 66 90	a single user-oriented ,
+T2	OtherScientificTerm 167 169	25
+T3	OtherScientificTerm 185 201	a well-organized
+T4	OtherScientificTerm 211 220	answer to
+T5	OtherScientificTerm 263 271	that the
+T6	OtherScientificTerm 291 314	systems have difficulty
+T7	OtherScientificTerm 345 356	in response
+T8	OtherScientificTerm 380 390	as opposed
+T9	OtherScientificTerm 433 447	appropriate to
+T10	OtherScientificTerm 494 503	allowance
+T11	OtherScientificTerm 511 516	words
+T12	OtherScientificTerm 563 569	is for
+T13	OtherScientificTerm 592 602	systems to
+T14	OtherScientificTerm 611 622	fluent text
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T5 Arg2:T6

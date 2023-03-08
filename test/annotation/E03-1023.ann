@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 24 57	translation knowledge acquisition
+T1	OtherScientificTerm 63 77	WWW news sites
+T2	OtherScientificTerm 123 147	cross-language retrieval
+T3	OtherScientificTerm 160 165	texts
+T4	OtherScientificTerm 169 198	bilingual lexicon acquisition
+T5	OtherScientificTerm 204 222	comparable corpora
+T6	OtherScientificTerm 289 319	candidate bilingual term pairs
+T7	OtherScientificTerm 334 364	bilingual term correspondences
+T8	OtherScientificTerm 398 422	computational complexity
+T9	OtherScientificTerm 454 464	estimation
+T10	OtherScientificTerm 468 498	bilingual term correspondences
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T3 Arg2:T5
+R2	Feature-of Arg1:T9 Arg2:T10

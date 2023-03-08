@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 20 46	GPSG grammatical formalism
+T1	OtherScientificTerm 70 83	non-terminals
+T2	OtherScientificTerm 118 133	category labels
+T3	OtherScientificTerm 149 168	schematic variables
+T4	OtherScientificTerm 271 278	grammar
+T5	OtherScientificTerm 283 310	crossed serial dependencies
+T6	OtherScientificTerm 330 355	Dutch subordinate clauses
+T7	OtherScientificTerm 390 403	constructions
+T8	OtherScientificTerm 456 467	conjunction
+T9	OtherScientificTerm 585 599	parsing method
+T10	OtherScientificTerm 604 608	GPSG
+R0	Part-of Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T9 Arg2:T10

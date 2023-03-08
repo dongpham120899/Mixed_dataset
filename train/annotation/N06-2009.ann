@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 17 40	Question Answering ( QA
+T1	OtherScientificTerm 100 105	of an
+T2	OtherScientificTerm 133 136	the
+T3	OtherScientificTerm 160 164	such
+T4	OtherScientificTerm 231 248	a simple MT-based
+T5	OtherScientificTerm 272 286	and evaluating
+T6	OtherScientificTerm 297 311	performance on
+T7	OtherScientificTerm 372 373	%
+T8	OtherScientificTerm 397 400	the
+R0	Used-for Arg1:T4 Arg2:T5

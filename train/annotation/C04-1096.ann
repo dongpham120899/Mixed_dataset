@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 24 45	referring expressions
+T1	OtherScientificTerm 76 83	objects
+T2	OtherScientificTerm 88 104	binary relations
+T3	OtherScientificTerm 113 120	objects
+T4	OtherScientificTerm 214 221	objects
+T5	OtherScientificTerm 318 325	objects
+T6	OtherScientificTerm 330 345	n-ary relations
+T7	OtherScientificTerm 392 399	objects
+T8	OtherScientificTerm 509 530	referring expressions
+T9	OtherScientificTerm 564 584	generation algorithm
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T2 Arg2:T3
+R2	Feature-of Arg1:T6 Arg2:T5

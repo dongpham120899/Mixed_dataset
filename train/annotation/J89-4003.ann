@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 2 7	model
+T1	OtherScientificTerm 41 59	class of languages
+T2	OtherScientificTerm 79 92	reduplication
+T3	OtherScientificTerm 96 118	context-free languages
+T4	OtherScientificTerm 125 130	model
+T5	OtherScientificTerm 136 154	pushdown automaton
+T6	OtherScientificTerm 191 204	reduplication
+T7	OtherScientificTerm 218 223	stack
+T8	OtherScientificTerm 243 261	class of languages
+T9	OtherScientificTerm 309 331	context-free languages
+T10	OtherScientificTerm 340 357	indexed languages
+T11	OtherScientificTerm 364 369	model
+T12	OtherScientificTerm 415 429	reduplications
+T13	OtherScientificTerm 466 483	natural languages
+T14	OtherScientificTerm 524 537	constructions
+T15	OtherScientificTerm 549 562	formal models
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T7 Arg2:T5
+R3	Part-of Arg1:T12 Arg2:T13

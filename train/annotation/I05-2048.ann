@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 0 33	Statistical machine translation (
+T1	OtherScientificTerm 68 84	spots in natural
+T2	OtherScientificTerm 221 222	,
+T3	OtherScientificTerm 250 271	results to rule-based
+T4	OtherScientificTerm 373 386	when building
+T5	OtherScientificTerm 407 414	for new
+T6	OtherScientificTerm 430 432	or
+T7	OtherScientificTerm 484 511	introduction to statistical
+T8	OtherScientificTerm 648 659	building an
+T9	OtherScientificTerm 686 700	achieving good
+T10	OtherScientificTerm 764 770	basics
+T11	OtherScientificTerm 804 812	practice
+T12	OtherScientificTerm 820 855	, a statistical machine translation
+T13	OtherScientificTerm 904 913	a working
+T14	OtherScientificTerm 926 932	system
+T15	OtherScientificTerm 1043 1055	basis of CMU
+T16	OtherScientificTerm 1097 1143	been coupled with rule-based and example based
+T17	OtherScientificTerm 1172 1195	to build a multi engine
+T18	OtherScientificTerm 1216 1224	system .
+T19	OtherScientificTerm 1236 1243	code of
+R0	Compare Arg1:T2 Arg2:T3

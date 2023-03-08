@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 15 38	analogies between words
+T1	OtherScientificTerm 179 202	computational linguists
+T2	OtherScientificTerm 234 261	analogies between sentences
+T3	OtherScientificTerm 354 373	multilingual corpus
+T4	OtherScientificTerm 400 409	analogies
+T5	OtherScientificTerm 420 429	sentences
+T6	OtherScientificTerm 510 517	analogy
+T7	OtherScientificTerm 548 552	form
+T8	OtherScientificTerm 580 587	meaning
+T9	OtherScientificTerm 617 628	translation
+T10	OtherScientificTerm 645 652	meaning
+T11	OtherScientificTerm 673 681	meanings
+R0	Feature-of Arg1:T4 Arg2:T5

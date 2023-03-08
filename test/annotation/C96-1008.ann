@@ -1,0 +1,7 @@
+T0	OtherScientificTerm 60 80	communication system
+T1	OtherScientificTerm 91 93	AI
+T2	OtherScientificTerm 267 283	channel approach
+T3	OtherScientificTerm 323 345	three-layered approach
+T4	OtherScientificTerm 522 540	complex data types
+T5	OtherScientificTerm 791 826	speech-to-speech translation system
+R0	Used-for Arg1:T0 Arg2:T1

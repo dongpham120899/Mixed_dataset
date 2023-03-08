@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 22 46	word segmentation system
+T1	OtherScientificTerm 112 125	word breaking
+T2	OtherScientificTerm 130 148	OOV identification
+T3	OtherScientificTerm 155 161	output
+T4	OtherScientificTerm 198 220	segmentation standards
+T5	OtherScientificTerm 288 294	system
+T6	OtherScientificTerm 333 353	segmentation bakeoff
+T7	OtherScientificTerm 357 364	PK-open
+T8	OtherScientificTerm 367 376	PK-closed
+T9	OtherScientificTerm 379 386	AS-open
+T10	OtherScientificTerm 389 398	AS-closed
+T11	OtherScientificTerm 401 408	HK-open
+T12	OtherScientificTerm 411 420	HK-closed
+T13	OtherScientificTerm 423 431	MSR-open
+T14	OtherScientificTerm 436 447	MSR- closed
+T15	OtherScientificTerm 468 496	state-of-the-art performance
+T16	OtherScientificTerm 500 508	MSR-open
+T17	OtherScientificTerm 511 520	MSR-close
+T18	OtherScientificTerm 525 532	PK-open
+T19	OtherScientificTerm 625 631	scores
+R0	Feature-of Arg1:T4 Arg2:T3
+R1	Evaluate-for Arg1:T5 Arg2:T15

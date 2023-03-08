@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 30 76	full scale two-level morphological description
+T1	OtherScientificTerm 122 145	Turkish word structures
+T2	OtherScientificTerm 195 215	PC-KIMMO environment
+T3	OtherScientificTerm 254 271	root word lexicon
+T4	OtherScientificTerm 288 299	roots words
+T5	OtherScientificTerm 352 388	phonological and morphological rules
+T6	OtherScientificTerm 413 420	Turkish
+T7	OtherScientificTerm 427 449	agglutinative language
+T8	OtherScientificTerm 455 470	word structures
+T9	OtherScientificTerm 481 545	productive affixations of derivational and inflectional suffixes
+T10	OtherScientificTerm 549 559	root words
+T11	OtherScientificTerm 562 569	Turkish
+T12	OtherScientificTerm 574 586	finite-state
+T13	OtherScientificTerm 635 644	Morphemes
+T14	OtherScientificTerm 656 665	root word
+T15	OtherScientificTerm 671 675	stem
+T16	OtherScientificTerm 692 696	word
+T17	OtherScientificTerm 704 711	nominal
+T18	OtherScientificTerm 717 733	verbal structure
+T19	OtherScientificTerm 764 784	adverbial constructs
+T20	OtherScientificTerm 791 811	surface realizations
+T21	OtherScientificTerm 815 842	morphological constructions
+T22	OtherScientificTerm 887 901	phonetic rules
+T23	OtherScientificTerm 910 923	vowel harmony
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T4 Arg2:T3
+R2	Feature-of Arg1:T6 Arg2:T7
+R3	Feature-of Arg1:T20 Arg2:T21

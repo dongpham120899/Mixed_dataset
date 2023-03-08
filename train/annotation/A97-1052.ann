@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 72 100	subcategorization dictionary
+T1	OtherScientificTerm 106 121	textual corpora
+T2	OtherScientificTerm 129 145	dictionary entry
+T3	OtherScientificTerm 158 190	relative frequency of occurrence
+T4	OtherScientificTerm 217 242	subcategorization classes
+T5	OtherScientificTerm 247 254	English
+T6	OtherScientificTerm 299 304	verbs
+T7	OtherScientificTerm 319 352	multiple complementation patterns
+T8	OtherScientificTerm 396 404	accuracy
+T9	OtherScientificTerm 493 518	subcategorization classes
+T10	OtherScientificTerm 548 576	subcategorization dictionary
+T11	OtherScientificTerm 612 620	accuracy
+T12	OtherScientificTerm 626 632	parser
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Feature-of Arg1:T7 Arg2:T6
+R3	Evaluate-for Arg1:T10 Arg2:T11

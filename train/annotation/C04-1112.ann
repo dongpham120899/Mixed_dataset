@@ -1,0 +1,23 @@
+T0	OtherScientificTerm 29 84	corpus-based supervised word sense disambiguation ( WSD
+T1	OtherScientificTerm 87 93	system
+T2	OtherScientificTerm 104 118	which combines
+T3	OtherScientificTerm 131 147	classification (
+T4	OtherScientificTerm 164 170	) with
+T5	OtherScientificTerm 207 215	building
+T6	OtherScientificTerm 227 242	classifiers per
+T7	OtherScientificTerm 267 278	introduce a
+T8	OtherScientificTerm 348 360	clusters all
+T9	OtherScientificTerm 377 382	of an
+T10	OtherScientificTerm 398 400	in
+T11	OtherScientificTerm 428 442	augmenting the
+T12	OtherScientificTerm 471 473	to
+T13	OtherScientificTerm 490 501	Testing the
+T14	OtherScientificTerm 520 543	on the Dutch Senseval-2
+T15	OtherScientificTerm 581 589	increase
+T16	OtherScientificTerm 602 610	over the
+T17	OtherScientificTerm 633 655	, the WSD system based
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Compare Arg1:T5 Arg2:T7
+R2	Feature-of Arg1:T8 Arg2:T9
+R3	Used-for Arg1:T11 Arg2:T12
+R4	Used-for Arg1:T13 Arg2:T14

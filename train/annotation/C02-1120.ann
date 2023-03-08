@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 24 52	unsupervised learning method
+T1	OtherScientificTerm 57 103	associative relationships between verb phrases
+T2	OtherScientificTerm 148 159	Q&A systems
+T3	OtherScientificTerm 205 210	query
+T4	OtherScientificTerm 278 288	Q&A system
+T5	OtherScientificTerm 299 303	text
+T6	OtherScientificTerm 342 353	description
+T7	OtherScientificTerm 437 448	description
+T8	OtherScientificTerm 491 496	query
+T9	OtherScientificTerm 530 550	large-scale database
+T10	OtherScientificTerm 569 593	associative relationship
+T11	OtherScientificTerm 659 687	unsupervised learning method
+T12	OtherScientificTerm 712 736	associative relationship
+T13	OtherScientificTerm 753 773	scenario consistency
+T14	OtherScientificTerm 823 860	expectation-maximization ( EM ) based
+T15	OtherScientificTerm 937 958	method using Japanese
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T11 Arg2:T12
+R2	Used-for Arg1:T14 Arg2:T15

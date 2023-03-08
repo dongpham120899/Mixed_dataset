@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 29 87	ambiguity packing and stochastic disambiguation techniques
+T1	OtherScientificTerm 92 121	Lexical-Functional Grammars (
+T2	OtherScientificTerm 135 144	domain of
+T3	OtherScientificTerm 180 194	incorporates a
+T4	OtherScientificTerm 206 222	parser/generator
+T5	OtherScientificTerm 231 234	, a
+T6	OtherScientificTerm 244 257	component for
+T7	OtherScientificTerm 274 293	operating on packed
+T8	OtherScientificTerm 310 315	and a
+T9	OtherScientificTerm 332 352	model for stochastic
+T10	OtherScientificTerm 405 423	of standard parser
+T11	OtherScientificTerm 461 471	evaluating
+T12	OtherScientificTerm 490 509	quality of sentence
+T13	OtherScientificTerm 531 535	. An
+T14	OtherScientificTerm 549 559	evaluation
+T15	OtherScientificTerm 611 632	between the automatic
+T16	OtherScientificTerm 656 661	and a
+T17	OtherScientificTerm 680 682	of
+T18	OtherScientificTerm 701 702	.
+T19	OtherScientificTerm 778 782	with
+T20	OtherScientificTerm 809 815	of the
+T21	OtherScientificTerm 845 849	of a
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T5 Arg2:T6
+R3	Used-for Arg1:T9 Arg2:T8
+R4	Conjunction Arg1:T13 Arg2:T14
+R5	Feature-of Arg1:T19 Arg2:T20

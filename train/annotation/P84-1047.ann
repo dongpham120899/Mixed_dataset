@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 3 56	entity-oriented approach to restricted-domain parsing
+T1	OtherScientificTerm 113 122	structure
+T2	OtherScientificTerm 127 149	surface representation
+T3	OtherScientificTerm 153 168	domain entities
+T4	OtherScientificTerm 197 213	semantic grammar
+T5	OtherScientificTerm 249 273	limited domain semantics
+T6	OtherScientificTerm 305 328	fragmentary recognition
+T7	OtherScientificTerm 344 371	multiple parsing strategies
+T8	OtherScientificTerm 415 453	recognition of extra-grammatical input
+T9	OtherScientificTerm 501 520	language definition
+T10	OtherScientificTerm 569 604	entity-oriented language definition
+T11	OtherScientificTerm 634 651	control structure
+T12	OtherScientificTerm 659 681	entity-oriented parser
+T13	OtherScientificTerm 689 707	parsing strategies
+T14	OtherScientificTerm 721 738	control structure
+T15	OtherScientificTerm 764 770	parses
+T16	OtherScientificTerm 775 781	parser
+T17	OtherScientificTerm 800 817	control structure
+T18	OtherScientificTerm 826 844	parsing strategies
+T19	OtherScientificTerm 864 878	implementation
+R0	Feature-of Arg1:T2 Arg2:T3
+R1	Used-for Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T11 Arg2:T12
+R3	Used-for Arg1:T14 Arg2:T13
+R4	Part-of Arg1:T17 Arg2:T16

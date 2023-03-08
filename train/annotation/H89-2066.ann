@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 42 64	spoken language system
+T1	OtherScientificTerm 105 116	voice input
+T2	OtherScientificTerm 121 148	interactive problem solving
+T3	OtherScientificTerm 174 191	continuous speech
+T4	OtherScientificTerm 210 227	multiple speakers
+T5	OtherScientificTerm 236 263	explicit speaker enrollment
+T6	OtherScientificTerm 276 294	speech recognition
+T7	OtherScientificTerm 299 326	natural language processing
+T8	OtherScientificTerm 338 358	speech understanding
+T9	OtherScientificTerm 399 417	application domain
+T10	OtherScientificTerm 485 538	robust and high-performance speech recognition system
+T11	OtherScientificTerm 547 569	segment-based approach
+T12	OtherScientificTerm 573 593	phonetic recognition
+T13	OtherScientificTerm 600 618	recognition system
+T14	OtherScientificTerm 654 681	natural language processing
+T15	OtherScientificTerm 693 722	spoken language understanding
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T11 Arg2:T12
+R3	Used-for Arg1:T14 Arg2:T15

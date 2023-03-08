@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 26 65	bidirectional grammar generation system
+T1	OtherScientificTerm 73 110	feature structure-directed generation
+T2	OtherScientificTerm 129 156	dialogue translation system
+T3	OtherScientificTerm 179 203	typed feature structures
+T4	OtherScientificTerm 219 238	top-down derivation
+T5	OtherScientificTerm 267 284	generation system
+T6	OtherScientificTerm 295 325	disjunctive feature structures
+T7	OtherScientificTerm 364 379	derivation tree
+T8	OtherScientificTerm 386 393	grammar
+T9	OtherScientificTerm 403 412	generator
+T10	OtherScientificTerm 450 460	speaker 's
+T11	OtherScientificTerm 474 485	a telephone
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T6 Arg2:T5
+R3	Used-for Arg1:T8 Arg2:T9

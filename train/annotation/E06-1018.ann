@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 48 83	unsupervised word sense induction (
+T1	OtherScientificTerm 137 157	of the one sense per
+T2	OtherScientificTerm 237 262	it utilizes clustering of
+T3	OtherScientificTerm 318 328	approaches
+T4	OtherScientificTerm 367 387	of the one sense per
+T5	OtherScientificTerm 421 429	triplets
+T6	OtherScientificTerm 474 489	with a two-step
+T7	OtherScientificTerm 501 514	process using
+T8	OtherScientificTerm 524 538	co-occurrences
+T9	OtherScientificTerm 617 643	automatic and unsupervised
+T10	OtherScientificTerm 702 726	evaluation of word sense
+T11	OtherScientificTerm 830 842	given biased
+T12	OtherScientificTerm 860 882	also enables automatic
+T13	OtherScientificTerm 906 912	of the
+R0	Used-for Arg1:T7 Arg2:T6

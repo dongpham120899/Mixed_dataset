@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 30 50	unlexicalized parser
+T1	OtherScientificTerm 55 61	German
+T2	OtherScientificTerm 76 85	smoothing
+T3	OtherScientificTerm 90 105	suffix analysis
+T4	OtherScientificTerm 119 143	labelled bracket F-score
+T5	OtherScientificTerm 201 213	NEGRA corpus
+T6	OtherScientificTerm 240 248	accuracy
+T7	OtherScientificTerm 275 284	smoothing
+T8	OtherScientificTerm 291 311	unlexicalized parser
+T9	OtherScientificTerm 362 371	smoothing
+T10	OtherScientificTerm 376 383	parsing
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Evaluate-for Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T7 Arg2:T8

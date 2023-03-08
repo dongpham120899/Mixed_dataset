@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 49 75	dialogue management module
+T1	OtherScientificTerm 81 125	voice operated car-driver information system
+T2	OtherScientificTerm 132 142	literature
+T3	OtherScientificTerm 165 180	user interfaces
+T4	OtherScientificTerm 191 216	natural language dialogue
+T5	OtherScientificTerm 232 238	speech
+T6	OtherScientificTerm 362 381	' meta-guidelines '
+T7	OtherScientificTerm 402 430	Even though state-of-the-art
+T8	OtherScientificTerm 458 472	perform well ,
+T9	OtherScientificTerm 570 579	car is an
+T10	OtherScientificTerm 684 688	paid
+T11	OtherScientificTerm 710 727	to compensate for
+T12	OtherScientificTerm 856 860	show
+T13	OtherScientificTerm 919 940	implementation of the
+T14	OtherScientificTerm 1010 1014	with
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Evaluate-for Arg1:T12 Arg2:T13

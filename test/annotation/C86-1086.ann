@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 6 38	Theory of Names and Descriptions
+T1	OtherScientificTerm 89 110	non-singular concepts
+T2	OtherScientificTerm 120 146	natural language discourse
+T3	OtherScientificTerm 177 190	layered model
+T4	OtherScientificTerm 198 224	language denotational base
+T5	OtherScientificTerm 284 291	layer (
+T6	OtherScientificTerm 311 314	its
+T7	OtherScientificTerm 398 407	notion of
+T8	OtherScientificTerm 470 476	of the
+R0	Part-of Arg1:T1 Arg2:T2

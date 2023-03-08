@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 26 50	query translation method
+T1	OtherScientificTerm 64 91	mutual information matrices
+T2	OtherScientificTerm 95 100	terms
+T3	OtherScientificTerm 108 135	Chinese and English corpora
+T4	OtherScientificTerm 162 189	bilingual phrase dictionary
+T5	OtherScientificTerm 196 216	compositional phrase
+T6	OtherScientificTerm 223 234	translation
+T7	OtherScientificTerm 238 244	phrase
+T8	OtherScientificTerm 269 280	translation
+T9	OtherScientificTerm 288 298	components
+T10	OtherScientificTerm 308 313	query
+T11	OtherScientificTerm 349 410	general-purpose Chinese- English dictionary look-up procedure
+T12	OtherScientificTerm 421 437	selection method
+T13	OtherScientificTerm 442 454	translations
+T14	OtherScientificTerm 458 469	query terms
+T15	OtherScientificTerm 504 528	query translation method
+T16	OtherScientificTerm 554 567	English query
+T17	OtherScientificTerm 582 592	query term
+T18	OtherScientificTerm 599 605	weight
+T19	OtherScientificTerm 645 666	retrieval performance
+T20	OtherScientificTerm 683 707	query translation method
+T21	OtherScientificTerm 725 758	monolingual information retrieval
+T22	OtherScientificTerm 804 828	word-by-word translation
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T12 Arg2:T13
+R2	Evaluate-for Arg1:T20 Arg2:T19

@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 23 36	user modeling
+T1	OtherScientificTerm 58 79	cooperative responses
+T2	OtherScientificTerm 88 92	user
+T3	OtherScientificTerm 96 119	spoken dialogue systems
+T4	OtherScientificTerm 160 164	user
+T5	OtherScientificTerm 168 177	knowledge
+T6	OtherScientificTerm 198 203	users
+T7	OtherScientificTerm 210 220	user model
+T8	OtherScientificTerm 301 312	user models
+T9	OtherScientificTerm 315 326	skill level
+T10	OtherScientificTerm 343 358	knowledge level
+T11	OtherScientificTerm 366 379	target domain
+T12	OtherScientificTerm 398 407	hastiness
+T13	OtherScientificTerm 425 431	models
+T14	OtherScientificTerm 461 483	decision tree learning
+T15	OtherScientificTerm 495 508	dialogue data
+T16	OtherScientificTerm 558 581	classification accuracy
+T17	OtherScientificTerm 603 622	Dialogue strategies
+T18	OtherScientificTerm 636 649	user modeling
+T19	OtherScientificTerm 669 702	Kyoto city bus information system
+T20	OtherScientificTerm 786 807	cooperative responses
+T21	OtherScientificTerm 820 836	individual users
+T22	OtherScientificTerm 864 876	novice users
+T23	OtherScientificTerm 900 917	dialogue duration
+T24	OtherScientificTerm 922 935	skilled users
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T14 Arg2:T13
+R2	Used-for Arg1:T18 Arg2:T17

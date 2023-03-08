@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 32 69	pronominal anaphora resolution module
+T1	OtherScientificTerm 73 77	Lucy
+T2	OtherScientificTerm 91 119	English understanding system
+T3	OtherScientificTerm 226 245	anaphora resolution
+T4	OtherScientificTerm 314 342	blackboard-like architecture
+T5	OtherScientificTerm 363 379	partial theories
+T6	OtherScientificTerm 454 465	antecedents
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T5 Arg2:T4

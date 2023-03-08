@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 0 21	Example-based parsing
+T1	OtherScientificTerm 130 144	language pairs
+T2	OtherScientificTerm 155 161	source
+T3	OtherScientificTerm 166 182	target languages
+T4	OtherScientificTerm 204 231	Direct Projection Algorithm
+T5	OtherScientificTerm 284 297	parsed corpus
+T6	OtherScientificTerm 302 318	target languages
+T7	OtherScientificTerm 332 348	linguistic tools
+T8	OtherScientificTerm 368 397	resource-rich source language
+T9	OtherScientificTerm 404 417	DPA algorithm
+T10	OtherScientificTerm 431 466	assumption of Direct Correspondence
+T11	OtherScientificTerm 514 517	two
+T12	OtherScientificTerm 527 546	the source language
+T13	OtherScientificTerm 594 607	corresponding
+T14	OtherScientificTerm 617 645	the parallel target language
+T15	OtherScientificTerm 744 756	wrong parsed
+T16	OtherScientificTerm 769 782	of the target
+T17	OtherScientificTerm 831 854	algorithm called pseudo
+T18	OtherScientificTerm 873 886	can work even
+T19	OtherScientificTerm 994 1008	by considering
+T20	OtherScientificTerm 1084 1096	present work
+T21	OtherScientificTerm 1144 1159	it with respect
+T22	OtherScientificTerm 1163 1192	English-Hindi language pair .
+T23	OtherScientificTerm 1229 1242	considered as
+R0	Used-for Arg1:T10 Arg2:T9
+R1	Feature-of Arg1:T15 Arg2:T16

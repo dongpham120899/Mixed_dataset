@@ -1,0 +1,32 @@
+T0	OtherScientificTerm 0 20	Automatic estimation
+T1	OtherScientificTerm 24 41	word significance
+T2	OtherScientificTerm 55 91	speech-based Information Retrieval (
+T3	OtherScientificTerm 112 117	Since
+T4	OtherScientificTerm 122 134	significance
+T5	OtherScientificTerm 144 151	differs
+T6	OtherScientificTerm 155 188	IR , automatic speech recognition
+T7	OtherScientificTerm 213 245	been evaluated based on weighted
+T8	OtherScientificTerm 264 268	WWER
+T9	OtherScientificTerm 294 296	on
+T10	OtherScientificTerm 313 330	viewpoint of IR ,
+T11	OtherScientificTerm 353 357	rate
+T12	OtherScientificTerm 366 373	, which
+T13	OtherScientificTerm 385 390	words
+T14	OtherScientificTerm 405 427	decoding strategy that
+T15	OtherScientificTerm 498 499	,
+T16	OtherScientificTerm 504 507	the
+T17	OtherScientificTerm 565 574	. In this
+T18	OtherScientificTerm 581 593	, we propose
+T19	OtherScientificTerm 629 633	word
+T20	OtherScientificTerm 657 658	)
+T21	OtherScientificTerm 682 687	on IR
+T22	OtherScientificTerm 690 702	Specifically
+T23	OtherScientificTerm 705 712	weights
+T24	OtherScientificTerm 769 788	are equivalent . We
+T25	OtherScientificTerm 818 832	a speech-based
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Compare Arg1:T8 Arg2:T10
+R3	Used-for Arg1:T14 Arg2:T12
+R4	Compare Arg1:T15 Arg2:T16
+R5	Used-for Arg1:T17 Arg2:T18

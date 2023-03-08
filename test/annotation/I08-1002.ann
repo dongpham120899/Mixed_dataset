@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 78 95	goodness measures
+T1	OtherScientificTerm 100 125	unsupervised segmentation
+T2	OtherScientificTerm 129 142	Chinese texts
+T3	OtherScientificTerm 149 168	Bakeoff-3 data sets
+T4	OtherScientificTerm 214 223	knowledge
+T5	OtherScientificTerm 230 237	Chinese
+T6	OtherScientificTerm 267 283	goodness measure
+T7	OtherScientificTerm 296 311	word candidates
+T8	OtherScientificTerm 317 332	unlabeled texts
+T9	OtherScientificTerm 364 382	decoding algorithm
+T10	OtherScientificTerm 403 415	segmentation
+T11	OtherScientificTerm 421 429	sentence
+T12	OtherScientificTerm 440 450	candidates
+T13	OtherScientificTerm 476 491	goodness scores
+T14	OtherScientificTerm 607 618	short words
+T15	OtherScientificTerm 684 708	proper candidate pruning
+T16	OtherScientificTerm 725 737	segmentation
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T9 Arg2:T10
+R3	Feature-of Arg1:T13 Arg2:T12

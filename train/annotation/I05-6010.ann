@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 42 65	quantifying noun groups
+T1	OtherScientificTerm 69 75	German
+T2	OtherScientificTerm 141 168	corpus-based investigations
+T3	OtherScientificTerm 300 321	grammar sensu stricto
+T4	OtherScientificTerm 331 339	treebank
+T5	OtherScientificTerm 394 404	annotation
+T6	OtherScientificTerm 412 421	tree-bank
+T7	OtherScientificTerm 457 475	stochastic parsers
+T8	OtherScientificTerm 491 500	tree-bank
+T9	OtherScientificTerm 508 516	grammars
+T10	OtherScientificTerm 534 542	treebank
+T11	OtherScientificTerm 567 575	treebank
+T12	OtherScientificTerm 595 609	source of data
+T13	OtherScientificTerm 614 651	theoretical linguistic investigations
+T14	OtherScientificTerm 682 697	corpus research
+T15	OtherScientificTerm 766 771	SILVA
+T16	OtherScientificTerm 776 783	parsing
+T17	OtherScientificTerm 788 803	extraction tool
+T18	OtherScientificTerm 808 827	German text corpora
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T3
+R2	Part-of Arg1:T5 Arg2:T6
+R3	Used-for Arg1:T11 Arg2:T13
+R4	Used-for Arg1:T17 Arg2:T18

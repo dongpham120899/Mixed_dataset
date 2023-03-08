@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 34 54	word-sense ambiguity
+T1	OtherScientificTerm 74 100	machine-readable resources
+T2	OtherScientificTerm 125 154	large-scale knowledge sources
+T3	OtherScientificTerm 205 228	word-sense distinctions
+T4	OtherScientificTerm 263 286	semantic classification
+T5	OtherScientificTerm 290 295	verbs
+T6	OtherScientificTerm 348 371	word-sense distinctions
+T7	OtherScientificTerm 526 540	verb semantics
+T8	OtherScientificTerm 545 563	syntactic behavior
+T9	OtherScientificTerm 666 686	semantic information
+T10	OtherScientificTerm 692 706	syntactic cues
+T11	OtherScientificTerm 730 744	syntactic cues
+T12	OtherScientificTerm 799 810	word senses
+T13	OtherScientificTerm 894 905	word senses
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Compare Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T10 Arg2:T9
+R3	Compare Arg1:T11 Arg2:T12

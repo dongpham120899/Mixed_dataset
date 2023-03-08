@@ -1,0 +1,23 @@
+T0	OtherScientificTerm 0 27	Sentence boundary detection
+T1	OtherScientificTerm 31 37	speech
+T2	OtherScientificTerm 65 83	speech recognition
+T3	OtherScientificTerm 202 249	hidden Markov model ( HMM ) and maximum entropy
+T4	OtherScientificTerm 278 295	integrate textual
+T5	OtherScientificTerm 309 326	knowledge sources
+T6	OtherScientificTerm 391 403	the use of a
+T7	OtherScientificTerm 509 524	evaluate across
+T8	OtherScientificTerm 529 553	corpora ( conversational
+T9	OtherScientificTerm 575 589	broadcast news
+T10	OtherScientificTerm 597 601	) on
+T11	OtherScientificTerm 651 657	output
+T12	OtherScientificTerm 694 712	a lower error rate
+T13	OtherScientificTerm 722 747	HMM and Max-ent models on
+T14	OtherScientificTerm 752 756	NIST
+T15	OtherScientificTerm 842 850	the best
+T16	OtherScientificTerm 863 871	achieved
+T17	OtherScientificTerm 914 915	.
+T18	OtherScientificTerm 970 983	strengths and
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Used-for Arg1:T4 Arg2:T3
+R2	Compare Arg1:T9 Arg2:T10
+R3	Compare Arg1:T11 Arg2:T12

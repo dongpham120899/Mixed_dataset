@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 10 43	Natural Language Processing ( NLP
+T1	OtherScientificTerm 53 57	to a
+T2	OtherScientificTerm 88 102	bottlenecks in
+T3	OtherScientificTerm 176 178	in
+T4	OtherScientificTerm 200 210	attune the
+T5	OtherScientificTerm 250 256	of the
+T6	OtherScientificTerm 311 320	fitting a
+T7	OtherScientificTerm 341 343	to
+T8	OtherScientificTerm 391 398	using a
+T9	OtherScientificTerm 413 438	that combines traditional
+T10	OtherScientificTerm 466 472	with a
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T6 Arg2:T7
+R3	Compare Arg1:T9 Arg2:T10

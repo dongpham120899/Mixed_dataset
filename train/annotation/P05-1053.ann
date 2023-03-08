@@ -1,0 +1,30 @@
+T0	OtherScientificTerm 0 50	Extracting semantic relationships between entities
+T1	OtherScientificTerm 121 153	lexical , syntactic and semantic
+T2	OtherScientificTerm 164 189	in feature-based relation
+T3	OtherScientificTerm 201 206	using
+T4	OtherScientificTerm 244 255	base phrase
+T5	OtherScientificTerm 295 307	for relation
+T6	OtherScientificTerm 346 361	the performance
+T7	OtherScientificTerm 374 378	from
+T8	OtherScientificTerm 425 434	from full
+T9	OtherScientificTerm 525 538	in full parse
+T10	OtherScientificTerm 545 557	for relation
+T11	OtherScientificTerm 600 602	by
+T12	OtherScientificTerm 634 646	how semantic
+T13	OtherScientificTerm 664 666	as
+T14	OtherScientificTerm 675 683	and Name
+T15	OtherScientificTerm 703 728	in feature-based relation
+T16	OtherScientificTerm 759 762	the
+T17	OtherScientificTerm 775 776	.
+T18	OtherScientificTerm 791 798	the ACE
+T19	OtherScientificTerm 844 851	diverse
+T20	OtherScientificTerm 869 872	our
+T21	OtherScientificTerm 902 915	best-reported
+T22	OtherScientificTerm 927 946	the 24 ACE relation
+T23	OtherScientificTerm 974 1003	outperforms tree kernel-based
+T24	OtherScientificTerm 1023 1025	in
+T25	OtherScientificTerm 1039 1057	the 5 ACE relation
+R0	Used-for Arg1:T3 Arg2:T2
+R1	Evaluate-for Arg1:T4 Arg2:T6
+R2	Evaluate-for Arg1:T12 Arg2:T16
+R3	Compare Arg1:T20 Arg2:T21

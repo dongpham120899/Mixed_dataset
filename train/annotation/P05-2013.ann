@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 60 96	Combinatory Categorial Grammar ( CCG
+T1	OtherScientificTerm 107 121	from a Turkish
+T2	OtherScientificTerm 148 152	fact
+T3	OtherScientificTerm 166 195	is an agglutinating free word
+T4	OtherScientificTerm 222 235	challenge for
+T5	OtherScientificTerm 285 293	obtain a
+T6	OtherScientificTerm 312 327	consistent with
+T7	OtherScientificTerm 345 349	from
+T8	OtherScientificTerm 392 404	smaller than
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T3 Arg2:T2
+R2	Compare Arg1:T7 Arg2:T8

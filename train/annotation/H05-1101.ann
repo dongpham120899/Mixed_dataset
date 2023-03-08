@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 29 51	computational problems
+T1	OtherScientificTerm 68 100	probabilistic translation models
+T2	OtherScientificTerm 154 173	machine translation
+T3	OtherScientificTerm 182 188	models
+T4	OtherScientificTerm 215 250	probabilistic context-free grammars
+T5	OtherScientificTerm 290 298	hardness
+T6	OtherScientificTerm 321 323	NP
+T7	OtherScientificTerm 353 381	exponential time lower-bound
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T3
+R2	Feature-of Arg1:T6 Arg2:T5

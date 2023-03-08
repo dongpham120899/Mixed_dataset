@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 22 41	evaluation measures
+T1	OtherScientificTerm 46 65	machine translation
+T2	OtherScientificTerm 78 83	costs
+T3	OtherScientificTerm 100 104	word
+T4	OtherScientificTerm 192 201	sentences
+T5	OtherScientificTerm 242 260	evaluation measure
+T6	OtherScientificTerm 285 301	block reordering
+T7	OtherScientificTerm 308 322	edit operation
+T8	OtherScientificTerm 329 336	measure
+T9	OtherScientificTerm 366 380	quadratic time
+T10	OtherScientificTerm 419 438	evaluation measures
+T11	OtherScientificTerm 478 511	word-dependent substitution costs
+T12	OtherScientificTerm 541 548	measure
+T13	OtherScientificTerm 554 568	human judgment
+T14	OtherScientificTerm 623 637	language pairs
+T15	OtherScientificTerm 740 766	sentence-level correlation
+T16	OtherScientificTerm 799 832	word dependent substitution costs
+T17	OtherScientificTerm 896 925	automatic evaluation measures
+T18	OtherScientificTerm 930 944	human judgment
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T5 Arg2:T6
+R2	Evaluate-for Arg1:T11 Arg2:T10
+R3	Compare Arg1:T12 Arg2:T13
+R4	Compare Arg1:T17 Arg2:T18

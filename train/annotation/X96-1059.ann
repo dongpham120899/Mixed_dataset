@@ -1,0 +1,30 @@
+T0	OtherScientificTerm 0 27	Recognition of proper nouns
+T1	OtherScientificTerm 31 44	Japanese text
+T2	OtherScientificTerm 103 125	morphological analysis
+T3	OtherScientificTerm 129 153	Japanese text processing
+T4	OtherScientificTerm 217 248	Japanese information extraction
+T5	OtherScientificTerm 339 352	Japanese text
+T6	OtherScientificTerm 388 418	morphological analysis problem
+T7	OtherScientificTerm 422 430	Japanese
+T8	OtherScientificTerm 437 459	morphological analyzer
+T9	OtherScientificTerm 500 603	recognition and classification of proper names , numerical and temporal expressions , i.e. Named Entity
+T10	OtherScientificTerm 609 616	) items
+T11	OtherScientificTerm 624 632	Japanese
+T12	OtherScientificTerm 672 675	" .
+T13	OtherScientificTerm 703 709	in two
+T14	OtherScientificTerm 717 729	: dictionary
+T15	OtherScientificTerm 771 775	uses
+T16	OtherScientificTerm 806 820	to segment and
+T17	OtherScientificTerm 876 902	information resulting from
+T18	OtherScientificTerm 931 932	,
+T19	OtherScientificTerm 948 958	is applied
+T20	OtherScientificTerm 984 992	in order
+T21	OtherScientificTerm 1008 1013	items
+T22	OtherScientificTerm 1034 1042	found to
+T23	OtherScientificTerm 1076 1078	is
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T6 Arg2:T7
+R3	Used-for Arg1:T8 Arg2:T9
+R4	Used-for Arg1:T15 Arg2:T16
+R5	Used-for Arg1:T18 Arg2:T19

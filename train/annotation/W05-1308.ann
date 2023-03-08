@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 29 62	fully automated extraction system
+T1	OtherScientificTerm 71 76	IntEx
+T2	OtherScientificTerm 91 120	gene and protein interactions
+T3	OtherScientificTerm 124 139	biomedical text
+T4	OtherScientificTerm 183 200	complex sentences
+T5	OtherScientificTerm 206 231	simple clausal structures
+T6	OtherScientificTerm 243 258	syntactic roles
+T7	OtherScientificTerm 276 295	biological entities
+T8	OtherScientificTerm 313 349	biomedical and linguistic ontologies
+T9	OtherScientificTerm 373 394	complete interactions
+T10	OtherScientificTerm 433 448	syntactic roles
+T11	OtherScientificTerm 505 522	extraction system
+T12	OtherScientificTerm 531 548	complex sentences
+T13	OtherScientificTerm 562 594	multiple and nested interactions
+T14	OtherScientificTerm 610 618	sentence
+T15	OtherScientificTerm 678 696	extraction systems
+T16	OtherScientificTerm 715 727	IntEx system
+T17	OtherScientificTerm 744 755	performance
+T18	OtherScientificTerm 784 815	pattern engineering requirement
+R0	Part-of Arg1:T2 Arg2:T3
+R1	Part-of Arg1:T5 Arg2:T4
+R2	Feature-of Arg1:T8 Arg2:T7
+R3	Used-for Arg1:T11 Arg2:T12
+R4	Part-of Arg1:T13 Arg2:T14
+R5	Evaluate-for Arg1:T16 Arg2:T17

@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 19 58	Automatic Speech Recognition technology
+T1	OtherScientificTerm 99 113	dialog systems
+T2	OtherScientificTerm 152 170	speech recognition
+T3	OtherScientificTerm 211 225	dialog systems
+T4	OtherScientificTerm 254 258	user
+T5	OtherScientificTerm 328 332	user
+T6	OtherScientificTerm 348 363	system response
+T7	OtherScientificTerm 367 372	users
+T8	OtherScientificTerm 409 446	natural language generation community
+T9	OtherScientificTerm 481 495	dialog systems
+T10	OtherScientificTerm 522 532	generation
+T11	OtherScientificTerm 551 565	dialog systems
+T12	OtherScientificTerm 607 641	knowledge-based generation systems
+T13	OtherScientificTerm 671 698	machine learning techniques
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Conjunction Arg1:T8 Arg2:T6
+R2	Used-for Arg1:T10 Arg2:T11
+R3	Used-for Arg1:T13 Arg2:T12

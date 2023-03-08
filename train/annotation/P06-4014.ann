@@ -1,0 +1,7 @@
+T0	OtherScientificTerm 4 25	LOGON MT demonstrator
+T1	OtherScientificTerm 59 89	general-purpose NLP components
+T2	OtherScientificTerm 97 125	machine translation pipeline
+T3	OtherScientificTerm 146 160	output quality
+T4	OtherScientificTerm 219 240	hand-built , symbolic
+T5	OtherScientificTerm 251 265	and stochastic
+R0	Part-of Arg1:T1 Arg2:T2

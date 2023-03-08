@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 13 26	feature terms
+T1	OtherScientificTerm 46 55	variables
+T2	OtherScientificTerm 58 66	negation
+T3	OtherScientificTerm 71 88	named disjunction
+T4	OtherScientificTerm 114 132	feature structures
+T5	OtherScientificTerm 191 196	names
+T6	OtherScientificTerm 238 251	feature logic
+T7	OtherScientificTerm 255 280	computational linguistics
+T8	OtherScientificTerm 317 337	open world semantics
+T9	OtherScientificTerm 342 355	feature terms
+T10	OtherScientificTerm 368 378	denotation
+T11	OtherScientificTerm 384 388	term
+T12	OtherScientificTerm 424 443	disjunctive context
+T13	OtherScientificTerm 477 489	disjunctions
+T14	OtherScientificTerm 502 537	context-unique feature descriptions
+T15	OtherScientificTerm 542 586	relational , constraint-based representation
+T16	OtherScientificTerm 605 620	a normalization
+T17	OtherScientificTerm 646 650	test
+T18	OtherScientificTerm 663 673	of feature
+T19	OtherScientificTerm 727 748	to disjunctive normal
+T20	OtherScientificTerm 768 782	also structure
+T21	OtherScientificTerm 791 798	between
+T22	OtherScientificTerm 824 833	different
+T23	OtherScientificTerm 864 888	. Context-unique feature
+T24	OtherScientificTerm 949 965	support ordinary
+T25	OtherScientificTerm 985 987	as
+R0	Used-for Arg1:T6 Arg2:T7
+R1	Feature-of Arg1:T10 Arg2:T11

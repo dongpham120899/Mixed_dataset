@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 40 77	head-driven statistical parsing model
+T1	OtherScientificTerm 103 130	simultaneous language model
+T2	OtherScientificTerm 135 141	parser
+T3	OtherScientificTerm 146 181	large-vocabulary speech recognition
+T4	OtherScientificTerm 211 244	online left to right chart-parser
+T5	OtherScientificTerm 249 262	word lattices
+T6	OtherScientificTerm 328 334	parser
+T7	OtherScientificTerm 340 375	structural and lexical dependencies
+T8	OtherScientificTerm 394 407	n-gram models
+T9	OtherScientificTerm 502 530	Wall Street Journal treebank
+T10	OtherScientificTerm 556 572	word error rates
+T11	OtherScientificTerm 594 624	standard n-gram language model
+T12	OtherScientificTerm 653 675	structural information
+T13	OtherScientificTerm 687 707	speech understanding
+R0	Used-for Arg1:T2 Arg2:T3
+R1	Used-for Arg1:T7 Arg2:T6
+R2	Used-for Arg1:T12 Arg2:T13

@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 49 59	paraphrase
+T1	OtherScientificTerm 70 84	seed sentences
+T2	OtherScientificTerm 99 113	reference sets
+T3	OtherScientificTerm 127 166	machine translation evaluation measures
+T4	OtherScientificTerm 172 176	BLEU
+T5	OtherScientificTerm 181 185	NIST
+T6	OtherScientificTerm 219 230	paraphrases
+T7	OtherScientificTerm 278 292	grammaticality
+T8	OtherScientificTerm 317 326	sentences
+T9	OtherScientificTerm 342 364	equivalence in meaning
+T10	OtherScientificTerm 389 400	paraphrases
+T11	OtherScientificTerm 411 430	meaning equivalence
+T12	OtherScientificTerm 434 444	entailment
+T13	OtherScientificTerm 484 517	lexical and syntactical variation
+T14	OtherScientificTerm 530 541	paraphrases
+T15	OtherScientificTerm 573 591	hand-produced sets
+T16	OtherScientificTerm 598 608	paraphrase
+T17	OtherScientificTerm 660 674	reference sets
+T18	OtherScientificTerm 690 703	MT evaluation
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T13 Arg2:T14
+R2	Used-for Arg1:T17 Arg2:T18

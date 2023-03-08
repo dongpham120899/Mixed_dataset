@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 37 55	language variation
+T1	OtherScientificTerm 81 93	dialectology
+T2	OtherScientificTerm 184 192	dialects
+T3	OtherScientificTerm 235 245	( discrete
+T4	OtherScientificTerm 248 259	features of
+T5	OtherScientificTerm 271 276	words
+T6	OtherScientificTerm 310 330	characterizations of
+T7	OtherScientificTerm 375 385	We measure
+T8	OtherScientificTerm 395 410	(un)relatedness
+T9	OtherScientificTerm 419 433	dialects using
+T10	OtherScientificTerm 461 472	classify by
+R0	Feature-of Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T9 Arg2:T7

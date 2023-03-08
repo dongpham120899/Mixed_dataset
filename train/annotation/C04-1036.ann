@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 26 46	evaluation criterion
+T1	OtherScientificTerm 51 75	word similarity measures
+T2	OtherScientificTerm 98 132	meaning-entailing substitutability
+T3	OtherScientificTerm 153 187	semantic-oriented NLP applications
+T4	OtherScientificTerm 271 286	human agreement
+T5	OtherScientificTerm 307 325	semantic criterion
+T6	OtherScientificTerm 362 397	distributional word feature vectors
+T7	OtherScientificTerm 416 439	word similarity results
+T8	OtherScientificTerm 488 510	feature vector quality
+T9	OtherScientificTerm 531 571	feature weighting and selection function
+T10	OtherScientificTerm 609 624	feature vectors
+T11	OtherScientificTerm 636 663	word similarity performance
+R0	Used-for Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T5 Arg2:T6
+R2	Evaluate-for Arg1:T9 Arg2:T10

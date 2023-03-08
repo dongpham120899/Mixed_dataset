@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 15 43	TIPSTER III research program
+T1	OtherScientificTerm 104 116	coreferences
+T2	OtherScientificTerm 126 144	free text document
+T3	OtherScientificTerm 182 209	TIPSTER II research program
+T4	OtherScientificTerm 219 247	TIPSTER II Proceedings paper
+T5	OtherScientificTerm 269 302	Coreference Resolution Strategies
+T6	OtherScientificTerm 307 339	Acquiring Associated Information
+T7	OtherScientificTerm 428 434	entity
+T8	OtherScientificTerm 455 466	information
+T9	OtherScientificTerm 473 488	name variations
+T10	OtherScientificTerm 495 514	descriptive phrases
+T11	OtherScientificTerm 525 545	location information
+T12	OtherScientificTerm 590 623	coreference resolution techniques
+T13	OtherScientificTerm 631 640	NLToolset
+T14	OtherScientificTerm 675 709	information extraction application
+T15	OtherScientificTerm 727 753	MUC Scenario Template task
+T16	OtherScientificTerm 802 835	coreference resolution algorithms
+T17	OtherScientificTerm 871 877	entity
+T18	OtherScientificTerm 949 958	structure
+T19	OtherScientificTerm 964 972	document
+T20	OtherScientificTerm 995 1025	coreference resolution process
+T21	OtherScientificTerm 1073 1121	entity related coreference resolution techniques
+T22	OtherScientificTerm 1155 1170	document zoning
+T23	OtherScientificTerm 1247 1263	location merging
+T24	OtherScientificTerm 1266 1294	event coreference resolution
+T25	OtherScientificTerm 1301 1314	event merging
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T18 Arg2:T19

@@ -1,0 +1,30 @@
+T0	OtherScientificTerm 65 83	statistical parser
+T1	OtherScientificTerm 112 139	written and spoken language
+T2	OtherScientificTerm 158 181	sub-categorization cues
+T3	OtherScientificTerm 187 214	written and spoken language
+T4	OtherScientificTerm 226 234	Bikel 's
+T5	OtherScientificTerm 253 259	higher
+T6	OtherScientificTerm 273 288	parsing written
+T7	OtherScientificTerm 314 320	higher
+T8	OtherScientificTerm 335 363	extracting subcategorization
+T9	OtherScientificTerm 369 380	from spoken
+T10	OtherScientificTerm 442 474	for extracting subcategorization
+T11	OtherScientificTerm 501 512	for written
+T12	OtherScientificTerm 538 548	for spoken
+T13	OtherScientificTerm 598 600	of
+T14	OtherScientificTerm 616 623	helping
+T15	OtherScientificTerm 632 635	and
+T16	OtherScientificTerm 647 667	of subcategorization
+T17	OtherScientificTerm 696 700	that
+T18	OtherScientificTerm 734 748	parsing spoken
+T19	OtherScientificTerm 762 790	extracting subcategorization
+T20	OtherScientificTerm 796 807	from spoken
+T21	OtherScientificTerm 859 862	add
+T22	OtherScientificTerm 878 897	transcribing spoken
+T23	OtherScientificTerm 925 929	help
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Evaluate-for Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T10 Arg2:T11
+R3	Used-for Arg1:T13 Arg2:T14
+R4	Part-of Arg1:T19 Arg2:T20
+R5	Part-of Arg1:T21 Arg2:T22

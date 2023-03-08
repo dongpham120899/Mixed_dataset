@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 60 99	scenes descriptions in natural language
+T1	OtherScientificTerm 189 207	syntactic analyzer
+T2	OtherScientificTerm 221 248	Procedural Systemic Grammar
+T3	OtherScientificTerm 255 272	semantic analyzer
+T4	OtherScientificTerm 288 316	Conceptual Dependency Theory
+T5	OtherScientificTerm 327 337	dictionary
+R0	Used-for Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T3

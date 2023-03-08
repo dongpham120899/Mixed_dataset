@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 22 46	addressee identification
+T1	OtherScientificTerm 50 89	four-participants face-to-face meetings
+T2	OtherScientificTerm 96 112	Bayesian Network
+T3	OtherScientificTerm 117 140	Naive Bayes classifiers
+T4	OtherScientificTerm 179 188	addressee
+T5	OtherScientificTerm 194 206	dialogue act
+T6	OtherScientificTerm 233 237	gaze
+T7	OtherScientificTerm 240 249	utterance
+T8	OtherScientificTerm 254 285	conversational context features
+T9	OtherScientificTerm 332 347	meeting context
+T10	OtherScientificTerm 356 367	classifiers
+T11	OtherScientificTerm 370 382	performances
+T12	OtherScientificTerm 390 401	classifiers
+T13	OtherScientificTerm 424 446	conversational context
+T14	OtherScientificTerm 451 469	utterance features
+T15	OtherScientificTerm 488 503	speaker 's gaze
+T16	OtherScientificTerm 518 521	The
+T17	OtherScientificTerm 539 545	little
+T18	OtherScientificTerm 568 581	about meeting
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Evaluate-for Arg1:T16 Arg2:T17

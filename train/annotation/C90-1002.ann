@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 0 22	A deterministic parser
+T1	OtherScientificTerm 78 111	traditional deterministic parsers
+T2	OtherScientificTerm 137 174	symbolic and connectionist components
+T3	OtherScientificTerm 228 236	patterns
+T4	OtherScientificTerm 254 259	rules
+T5	OtherScientificTerm 265 286	deterministic grammar
+T6	OtherScientificTerm 329 348	hybrid architecture
+T7	OtherScientificTerm 363 369	parser
+T8	OtherScientificTerm 395 421	known deterministic parser
+T9	OtherScientificTerm 463 482	training techniques
+T10	OtherScientificTerm 512 527	decision-making
+T11	OtherScientificTerm 535 558	connectionist component
+T12	OtherScientificTerm 566 581	parsing process
+T13	OtherScientificTerm 640 645	rules
+T14	OtherScientificTerm 655 676	deterministic parsers
+T15	OtherScientificTerm 708 720	rule packets
+T16	OtherScientificTerm 752 759	parsing
+T17	OtherScientificTerm 859 881	connectionist ( neural
+T18	OtherScientificTerm 892 904	trained with
+T19	OtherScientificTerm 926 945	parse both expected
+R0	Compare Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T4 Arg2:T5
+R2	Compare Arg1:T7 Arg2:T8
+R3	Used-for Arg1:T9 Arg2:T10
+R4	Part-of Arg1:T11 Arg2:T12
+R5	Part-of Arg1:T13 Arg2:T14
+R6	Used-for Arg1:T17 Arg2:T19

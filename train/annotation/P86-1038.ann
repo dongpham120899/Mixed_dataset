@@ -1,0 +1,43 @@
+T0	OtherScientificTerm 0 36	Unification-based grammar formalisms
+T1	OtherScientificTerm 71 79	features
+T2	OtherScientificTerm 92 110	linguistic objects
+T3	OtherScientificTerm 122 184	computational algorithms for unification of feature structures
+T4	OtherScientificTerm 311 329	feature structures
+T5	OtherScientificTerm 365 370	model
+T6	OtherScientificTerm 396 414	feature structures
+T7	OtherScientificTerm 434 450	logical formulas
+T8	OtherScientificTerm 480 495	directed graphs
+T9	OtherScientificTerm 523 529	graphs
+T10	OtherScientificTerm 546 563	transition graphs
+T11	OtherScientificTerm 586 616	deterministic finite automaton
+T12	OtherScientificTerm 624 633	semantics
+T13	OtherScientificTerm 638 656	feature structures
+T14	OtherScientificTerm 772 784	disjunctions
+T15	OtherScientificTerm 789 800	path values
+T16	OtherScientificTerm 817 829	disjunctions
+T17	OtherScientificTerm 903 916	logical model
+T18	OtherScientificTerm 931 953	denotational semantics
+T19	OtherScientificTerm 961 974	logical model
+T20	OtherScientificTerm 996 1008	equivalences
+T21	OtherScientificTerm 1041 1049	formulas
+T22	OtherScientificTerm 1052 1063	Unification
+T23	OtherScientificTerm 1158 1163	model
+T24	OtherScientificTerm 1200 1224	computational complexity
+T25	OtherScientificTerm 1228 1239	unification
+T26	OtherScientificTerm 1265 1284	consistency problem
+T27	OtherScientificTerm 1289 1297	formulas
+T28	OtherScientificTerm 1303 1321	disjunctive values
+T29	OtherScientificTerm 1325 1336	NP-complete
+T30	OtherScientificTerm 1357 1367	complexity
+T31	OtherScientificTerm 1386 1397	disjunctive
+T32	OtherScientificTerm 1444 1453	expansion
+T33	OtherScientificTerm 1457 1480	disjunctive normal form
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T6 Arg2:T7
+R2	Part-of Arg1:T10 Arg2:T11
+R3	Feature-of Arg1:T12 Arg2:T13
+R4	Part-of Arg1:T15 Arg2:T16
+R5	Compare Arg1:T17 Arg2:T18
+R6	Used-for Arg1:T19 Arg2:T21
+R7	Feature-of Arg1:T24 Arg2:T25
+R8	Feature-of Arg1:T26 Arg2:T27

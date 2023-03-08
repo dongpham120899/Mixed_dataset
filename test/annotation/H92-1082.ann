@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 4 17	stack decoder
+T1	OtherScientificTerm 65 92	acoustic and language model
+T2	OtherScientificTerm 107 135	continuous speech recognizer
+T3	OtherScientificTerm 191 209	Viterbi A * search
+T4	OtherScientificTerm 228 256	with non-cross-word acoustic
+T5	OtherScientificTerm 264 287	and no-grammar language
+T6	OtherScientificTerm 341 365	include unigram language
+T7	OtherScientificTerm 438 448	the full (
+T8	OtherScientificTerm 457 468	) decoder ,
+T9	OtherScientificTerm 480 499	acoustic models and
+T10	OtherScientificTerm 610 625	low probability
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T3

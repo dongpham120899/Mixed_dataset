@@ -1,0 +1,33 @@
+T0	OtherScientificTerm 23 53	unsupervised learning approach
+T1	OtherScientificTerm 68 88	non-English ( Arabic
+T2	OtherScientificTerm 99 104	. The
+T3	OtherScientificTerm 123 143	based on statistical
+T4	OtherScientificTerm 171 178	uses an
+T5	OtherScientificTerm 214 225	sentences )
+T6	OtherScientificTerm 245 253	its sole
+T7	OtherScientificTerm 273 277	. No
+T8	OtherScientificTerm 302 311	after the
+T9	OtherScientificTerm 321 340	phase . Monolingual
+T10	OtherScientificTerm 375 382	further
+T11	OtherScientificTerm 427 429	to
+T12	OtherScientificTerm 432 439	desired
+T13	OtherScientificTerm 484 486	be
+T14	OtherScientificTerm 526 536	applicable
+T15	OtherScientificTerm 544 557	language that
+T16	OtherScientificTerm 570 579	removal .
+T17	OtherScientificTerm 617 619	in
+T18	OtherScientificTerm 657 662	art ,
+T19	OtherScientificTerm 682 689	stemmer
+T20	OtherScientificTerm 696 707	using rules
+T21	OtherScientificTerm 716 727	lists , and
+T22	OtherScientificTerm 754 765	addition to
+T23	OtherScientificTerm 769 791	unsupervised component
+T24	OtherScientificTerm 794 821	Task-based evaluation using
+T25	OtherScientificTerm 884 888	38 %
+T26	OtherScientificTerm 892 909	average precision
+T27	OtherScientificTerm 960 962	of
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T2
+R2	Feature-of Arg1:T15 Arg2:T14
+R3	Evaluate-for Arg1:T16 Arg2:T17
+R4	Used-for Arg1:T24 Arg2:T23

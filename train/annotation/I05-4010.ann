@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 55 78	English-Chinese bitexts
+T1	OtherScientificTerm 113 116	Web
+T2	OtherScientificTerm 142 154	subparagraph
+T3	OtherScientificTerm 179 195	numbering system
+T4	OtherScientificTerm 203 223	legal text hierarchy
+T5	OtherScientificTerm 308 324	bilingual corpus
+T6	OtherScientificTerm 334 347	English words
+T7	OtherScientificTerm 359 377	Chinese characters
+T8	OtherScientificTerm 418 433	text collection
+T9	OtherScientificTerm 519 540	empirical MT research
+T10	OtherScientificTerm 618 641	English-Chinese bitexts
+T11	OtherScientificTerm 670 673	Web
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T10 Arg2:T11

@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 13 40	automatic accent assignment
+T1	OtherScientificTerm 59 80	citation-style speech
+T2	OtherScientificTerm 94 114	computational models
+T3	OtherScientificTerm 137 143	accent
+T4	OtherScientificTerm 147 169	extended , spontaneous
+T5	OtherScientificTerm 206 227	empirically motivated
+T6	OtherScientificTerm 238 260	the discourse focusing
+T7	OtherScientificTerm 268 270	of
+T8	OtherScientificTerm 278 292	in spontaneous
+T9	OtherScientificTerm 322 326	this
+T10	OtherScientificTerm 357 366	to accent
+T11	OtherScientificTerm 383 400	which patterns of
+T12	OtherScientificTerm 411 429	from citation form
+T13	OtherScientificTerm 456 486	the constituent or noun phrase
+T14	OtherScientificTerm 526 538	an annotated
+T15	OtherScientificTerm 546 564	. Machine learning
+T16	OtherScientificTerm 580 589	1031 noun
+T17	OtherScientificTerm 603 640	eighteen spontaneous direction-giving
+T18	OtherScientificTerm 657 668	that accent
+T19	OtherScientificTerm 740 761	hypothetical baseline
+T20	OtherScientificTerm 788 806	only citation-form
+T21	OtherScientificTerm 822 839	giving error rate
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T4
+R2	Used-for Arg1:T15 Arg2:T16

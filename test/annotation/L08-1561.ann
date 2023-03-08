@@ -1,0 +1,29 @@
+T0	OtherScientificTerm 28 36	MiniSTEx
+T1	OtherScientificTerm 41 73	spatiotemporal annotation system
+T2	OtherScientificTerm 84 122	temporal and/or geospatial information
+T3	OtherScientificTerm 160 165	texts
+T4	OtherScientificTerm 225 229	text
+T5	OtherScientificTerm 271 283	optimal base
+T6	OtherScientificTerm 288 331	automatic temporal and geospatial reasoning
+T7	OtherScientificTerm 353 361	MiniSTEx
+T8	OtherScientificTerm 391 396	Dutch
+T9	OtherScientificTerm 455 473	European languages
+T10	OtherScientificTerm 484 509	multilingual applications
+T11	OtherScientificTerm 558 573	MiniSTEx system
+T12	OtherScientificTerm 609 622	human readers
+T13	OtherScientificTerm 640 657	intended audience
+T14	OtherScientificTerm 696 714	( spatiotemporal )
+T15	OtherScientificTerm 733 741	i.e. the
+T16	OtherScientificTerm 749 758	knowledge
+T17	OtherScientificTerm 778 783	. The
+T18	OtherScientificTerm 784 789	world
+T19	OtherScientificTerm 817 829	contained in
+T20	OtherScientificTerm 852 854	in
+T21	OtherScientificTerm 888 892	used
+T22	OtherScientificTerm 897 902	Dutch
+T23	OtherScientificTerm 977 987	looking at
+T24	OtherScientificTerm 994 1023	texts or recent historical or
+T25	OtherScientificTerm 1043 1044	,
+T26	OtherScientificTerm 1061 1065	lots
+R0	Used-for Arg1:T5 Arg2:T6
+R1	Part-of Arg1:T19 Arg2:T20

@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 36 47	computation
+T1	OtherScientificTerm 51 74	lexical affinity models
+T2	OtherScientificTerm 151 177	co-occurrence distribution
+T3	OtherScientificTerm 195 200	terms
+T4	OtherScientificTerm 206 224	independence model
+T5	OtherScientificTerm 233 258	parametric affinity model
+T6	OtherScientificTerm 289 295	models
+T7	OtherScientificTerm 344 354	similarity
+T8	OtherScientificTerm 363 368	words
+T9	OtherScientificTerm 376 392	lexical affinity
+T10	OtherScientificTerm 403 420	sequential models
+T11	OtherScientificTerm 449 455	models
+T12	OtherScientificTerm 480 502	co-occurrence patterns
+T13	OtherScientificTerm 518 523	words
+T14	OtherScientificTerm 527 534	phrases
+T15	OtherScientificTerm 558 564	corpus
+T16	OtherScientificTerm 609 619	adaptation
+T17	OtherScientificTerm 623 635	applications
+T18	OtherScientificTerm 691 706	terabyte corpus
+T19	OtherScientificTerm 717 739	natural language tests
+R0	Feature-of Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T9 Arg2:T10
+R3	Feature-of Arg1:T12 Arg2:T13

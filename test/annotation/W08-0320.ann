@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 65 100	English-Spanish machine translation
+T1	OtherScientificTerm 104 113	news text
+T2	OtherScientificTerm 131 161	WMT'08 Shared Translation Task
+T3	OtherScientificTerm 183 200	domain adaptation
+T4	OtherScientificTerm 215 243	small in-domain news bi-text
+T5	OtherScientificTerm 283 298	Europarl corpus
+T6	OtherScientificTerm 314 348	separate phrase translation models
+T7	OtherScientificTerm 357 381	separate language models
+T8	OtherScientificTerm 401 431	third phrase translation model
+T9	OtherScientificTerm 460 472	news bi-text
+T10	OtherScientificTerm 488 536	monolingual sentence-level syntactic paraphrases
+T11	OtherScientificTerm 586 592	models
+T12	OtherScientificTerm 598 614	log-linear model
+T13	OtherScientificTerm 621 648	minimum error rate training
+T14	OtherScientificTerm 690 721	tokenization and recasing rules
+T15	OtherScientificTerm 742 752	Bleu score
+T16	OtherScientificTerm 760 781	WMT'07 news test data
+T17	OtherScientificTerm 804 811	English
+T18	OtherScientificTerm 815 822	Spanish
+T19	OtherScientificTerm 865 883	highest Bleu score
+T20	OtherScientificTerm 912 918	WMT'07
+T21	OtherScientificTerm 966 1008	WMT'08 English to Spanish news translation
+T22	OtherScientificTerm 1072 1082	Bleu score
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T10 Arg2:T9

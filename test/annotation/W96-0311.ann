@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 52 59	Turkish
+T1	OtherScientificTerm 78 91	lexical rules
+T2	OtherScientificTerm 96 107	inflections
+T3	OtherScientificTerm 110 121	derivations
+T4	OtherScientificTerm 128 144	lexical category
+T5	OtherScientificTerm 185 200	lexical entries
+T6	OtherScientificTerm 203 216	Lexical rules
+T7	OtherScientificTerm 235 252	grammatical roles
+T8	OtherScientificTerm 263 279	type constraints
+T9	OtherScientificTerm 309 334	sub-categorization frames
+T10	OtherScientificTerm 338 365	valency changing operations
+T11	OtherScientificTerm 370 399	lexical inheritance hierarchy
+T12	OtherScientificTerm 431 447	type constraints
+T13	OtherScientificTerm 450 471	Semantic compositions
+T14	OtherScientificTerm 474 476	in
+T15	OtherScientificTerm 489 492	and
+T16	OtherScientificTerm 542 545	the
+T17	OtherScientificTerm 552 555	and
+T18	OtherScientificTerm 606 612	a HPSG
+T19	OtherScientificTerm 621 624	for
+T20	OtherScientificTerm 683 686	the
+T21	OtherScientificTerm 793 796	the
+T22	OtherScientificTerm 826 828	of
+T23	OtherScientificTerm 841 844	and
+T24	OtherScientificTerm 857 859	in
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T11 Arg2:T12
+R2	Feature-of Arg1:T13 Arg2:T14

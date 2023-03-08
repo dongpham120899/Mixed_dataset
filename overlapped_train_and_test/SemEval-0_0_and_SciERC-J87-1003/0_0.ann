@@ -1,0 +1,16 @@
+T0	Material 0 7	English
+T1	OtherScientificTerm 58 71	coordinations
+T2	OtherScientificTerm 110 151	strictly syntactic cross-serial agreement
+T3	Generic 158 167	agreement
+T4	OtherScientificTerm 199 204	nouns
+T5	OtherScientificTerm 209 227	reflexive pronouns
+T6	OtherScientificTerm 284 302	grammatical number
+T7	Material 306 313	English
+T8	OtherScientificTerm 321 339	grammatical gender
+T9	Material 343 352	languages
+T10	Material 361 367	French
+T11	Method 442 459	Interchange Lemma
+T12	Material 519 526	English
+R0	Conjunction Arg1:T4 Arg2:T5
+R1	Feature-of Arg1:T8 Arg2:T9
+R2	Hyponym-of Arg1:T10 Arg2:T9

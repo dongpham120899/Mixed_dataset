@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 0 6	STRAND
+T1	OtherScientificTerm 30 57	language-independent system
+T2	OtherScientificTerm 62 89	automatic discovery of text
+T3	OtherScientificTerm 93 113	parallel translation
+T4	OtherScientificTerm 173 179	STRAND
+T5	OtherScientificTerm 198 231	automatic language identification
+T6	OtherScientificTerm 342 380	automatically acquired parallel corpus
+T7	OtherScientificTerm 397 426	English-French document pairs
+T8	OtherScientificTerm 455 460	words
+T9	OtherScientificTerm 465 473	language
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T7 Arg2:T6

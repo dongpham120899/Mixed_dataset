@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 22 43	Hidden Markov Model (
+T1	OtherScientificTerm 50 66	and an HMM-based
+T2	OtherScientificTerm 87 112	which a named entity ( NE
+T3	OtherScientificTerm 142 144	is
+T4	OtherScientificTerm 151 176	to recognize and classify
+T5	OtherScientificTerm 191 194	and
+T6	OtherScientificTerm 330 336	simple
+T7	OtherScientificTerm 368 370	of
+T8	OtherScientificTerm 391 424	capitalization and digitalization
+T9	OtherScientificTerm 457 478	of important triggers
+T10	OtherScientificTerm 485 513	internal gazetteer feature ;
+T11	OtherScientificTerm 549 553	. In
+T12	OtherScientificTerm 588 596	resolved
+T13	OtherScientificTerm 609 638	. Evaluation of our system on
+T14	OtherScientificTerm 645 648	and
+T15	OtherScientificTerm 775 786	better than
+T16	OtherScientificTerm 809 825	machine-learning
+T17	OtherScientificTerm 870 889	consistently better
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T7 Arg2:T6
+R2	Evaluate-for Arg1:T12 Arg2:T14

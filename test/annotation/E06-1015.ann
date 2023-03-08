@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 16 28	tree kernels
+T1	OtherScientificTerm 56 74	automatic learning
+T2	OtherScientificTerm 78 107	natural language applications
+T3	OtherScientificTerm 154 177	super linear complexity
+T4	OtherScientificTerm 196 204	accuracy
+T5	OtherScientificTerm 210 245	traditional attribute/value methods
+T6	OtherScientificTerm 277 289	tree kernels
+T7	OtherScientificTerm 314 344	processing of natural language
+T8	OtherScientificTerm 395 407	tree kernels
+T9	OtherScientificTerm 411 438	linear average running time
+T10	OtherScientificTerm 466 491	classification properties
+T11	OtherScientificTerm 503 515	tree kernels
+T12	OtherScientificTerm 526 545	kernel combinations
+T13	OtherScientificTerm 604 627	Support Vector Machines
+T14	OtherScientificTerm 645 673	argument classification task
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T6 Arg2:T7
+R2	Feature-of Arg1:T10 Arg2:T11
+R3	Used-for Arg1:T13 Arg2:T14

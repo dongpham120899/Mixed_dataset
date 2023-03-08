@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 23 53	extended GLR parsing algorithm
+T1	OtherScientificTerm 59 71	grammar PCFG
+T2	OtherScientificTerm 88 104	on Tomita 's GLR
+T3	OtherScientificTerm 163 168	a new
+T4	OtherScientificTerm 189 191	is
+T5	OtherScientificTerm 210 217	assigns
+T6	OtherScientificTerm 227 238	probability
+T7	OtherScientificTerm 258 268	associated
+T8	OtherScientificTerm 284 292	. So our
+T9	OtherScientificTerm 321 338	implemented based
+T10	OtherScientificTerm 342 361	rule-based approach
+T11	OtherScientificTerm 432 457	two fields : Chinese base
+T12	OtherScientificTerm 463 488	phrase identification and
+T13	OtherScientificTerm 597 632	prove that the extended GLR parsing
+T14	OtherScientificTerm 653 657	* is
+T15	OtherScientificTerm 692 711	straightforward way
+T16	OtherScientificTerm 715 722	combine
+R0	Used-for Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T3
+R2	Feature-of Arg1:T6 Arg2:T7
+R3	Used-for Arg1:T9 Arg2:T8

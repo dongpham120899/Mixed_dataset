@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 43 61	Lincoln CSR system
+T1	OtherScientificTerm 87 105	semiphone modeling
+T2	OtherScientificTerm 148 162	duration model
+T3	OtherScientificTerm 179 189	error rate
+T4	OtherScientificTerm 212 242	triphone and semiphone systems
+T5	OtherScientificTerm 251 268	training strategy
+T6	OtherScientificTerm 444 454	recognizer
+T7	OtherScientificTerm 480 511	bigram back-off language models
+T8	OtherScientificTerm 555 562	RM task
+T9	OtherScientificTerm 570 583	ATIS CSR task
+T10	OtherScientificTerm 689 710	RM and ATIS CSR tasks
+R0	Evaluate-for Arg1:T2 Arg2:T3
+R1	Used-for Arg1:T7 Arg2:T6

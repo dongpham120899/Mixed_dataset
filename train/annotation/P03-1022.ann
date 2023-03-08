@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 11 39	decision tree based approach
+T1	OtherScientificTerm 43 61	pronoun resolution
+T2	OtherScientificTerm 65 80	spoken dialogue
+T3	OtherScientificTerm 105 113	pronouns
+T4	OtherScientificTerm 119 145	NP- and non-NP-antecedents
+T5	OtherScientificTerm 168 176	features
+T6	OtherScientificTerm 190 208	pronoun resolution
+T7	OtherScientificTerm 212 227	spoken dialogue
+T8	OtherScientificTerm 261 269	features
+T9	OtherScientificTerm 305 326	Switchboard dialogues
+T10	OtherScientificTerm 361 378	Byron 's ( 2002 )
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T3
+R2	Used-for Arg1:T6 Arg2:T7

@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 30 57	natural language processing
+T1	OtherScientificTerm 194 201	TACITUS
+T2	OtherScientificTerm 222 238	MUC-3 evaluation
+T3	OtherScientificTerm 282 314	syntactic and pragmatic analysis
+T4	OtherScientificTerm 412 430	syntactic analysis
+T5	OtherScientificTerm 450 480	agenda-based scheduling parser
+T6	OtherScientificTerm 485 521	recovery technique for failed parses
+T7	OtherScientificTerm 551 577	terminal substring parsing
+T8	OtherScientificTerm 584 605	pragmatics processing
+T9	OtherScientificTerm 638 657	abductive inference
+T10	OtherScientificTerm 767 782	world knowledge
+R0	Used-for Arg1:T5 Arg2:T4
+R1	Used-for Arg1:T9 Arg2:T8

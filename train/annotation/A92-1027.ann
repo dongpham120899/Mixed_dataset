@@ -1,0 +1,37 @@
+T0	OtherScientificTerm 38 74	chart-based phrase structure parsing
+T1	OtherScientificTerm 78 94	natural language
+T2	OtherScientificTerm 167 185	unrestricted texts
+T3	OtherScientificTerm 204 209	words
+T4	OtherScientificTerm 238 242	text
+T5	OtherScientificTerm 275 281	parser
+T6	OtherScientificTerm 321 330	reduction
+T7	OtherScientificTerm 338 350	search space
+T8	OtherScientificTerm 365 369	edge
+T9	OtherScientificTerm 386 391	chart
+T10	OtherScientificTerm 439 444	edges
+T11	OtherScientificTerm 483 488	edges
+T12	OtherScientificTerm 535 549	spanning edges
+T13	OtherScientificTerm 629 634	edges
+T14	OtherScientificTerm 670 681	constituent
+T15	OtherScientificTerm 710 714	span
+T16	OtherScientificTerm 756 782	phrase boundary heuristics
+T17	OtherScientificTerm 809 823	function words
+T18	OtherScientificTerm 833 848	heuristic rules
+T19	OtherScientificTerm 878 885	phrases
+T20	OtherScientificTerm 924 937	unknown words
+T21	OtherScientificTerm 950 979	reduction in the search space
+T22	OtherScientificTerm 1001 1009	semantic
+T23	OtherScientificTerm 1022 1042	syntactic categories
+T24	OtherScientificTerm 1050 1081	terminal and non-terminal edges
+T25	OtherScientificTerm 1115 1124	ambiguity
+T26	OtherScientificTerm 1148 1153	edges
+T27	OtherScientificTerm 1167 1172	edges
+T28	OtherScientificTerm 1186 1194	semantic
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T3 Arg2:T2
+R2	Compare Arg1:T10 Arg2:T11
+R3	Used-for Arg1:T17 Arg2:T16
+R4	Part-of Arg1:T20 Arg2:T19
+R5	Compare Arg1:T22 Arg2:T23
+R6	Evaluate-for Arg1:T25 Arg2:T26
+R7	Feature-of Arg1:T28 Arg2:T27

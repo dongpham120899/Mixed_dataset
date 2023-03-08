@@ -1,0 +1,30 @@
+T0	OtherScientificTerm 49 102	multilingual , speaker-independent , large vocabulary
+T1	OtherScientificTerm 130 139	paper the
+T2	OtherScientificTerm 177 194	in the ARPA NOV93
+T3	OtherScientificTerm 244 258	on the WSJ and
+T4	OtherScientificTerm 320 323	For
+T5	OtherScientificTerm 324 341	both corpora word
+T6	OtherScientificTerm 379 382	out
+T7	OtherScientificTerm 415 417	to
+T8	OtherScientificTerm 451 468	use of continuous
+T9	OtherScientificTerm 477 485	HMM with
+T10	OtherScientificTerm 495 506	mixture for
+T11	OtherScientificTerm 516 528	modeling and
+T12	OtherScientificTerm 557 563	on the
+T13	OtherScientificTerm 574 583	texts for
+T14	OtherScientificTerm 619 642	uses a time-synchronous
+T15	OtherScientificTerm 731 756	used with bigram back-off
+T16	OtherScientificTerm 775 783	A second
+T17	OtherScientificTerm 815 819	of a
+T18	OtherScientificTerm 841 845	with
+T19	OtherScientificTerm 859 881	incorporates a trigram
+T20	OtherScientificTerm 891 898	model .
+T21	OtherScientificTerm 908 921	modeling uses
+T22	OtherScientificTerm 937 980	features , context-dependent phone models (
+T23	OtherScientificTerm 987 1002	and interword )
+T24	OtherScientificTerm 1011 1026	duration models
+R0	Part-of Arg1:T7 Arg2:T6
+R1	Feature-of Arg1:T9 Arg2:T8
+R2	Used-for Arg1:T11 Arg2:T13
+R3	Used-for Arg1:T17 Arg2:T16
+R4	Used-for Arg1:T21 Arg2:T20

@@ -1,0 +1,36 @@
+T0	OtherScientificTerm 43 57	word alignment
+T1	OtherScientificTerm 62 93	languages with scarce resources
+T2	OtherScientificTerm 100 117	bilingual corpora
+T3	OtherScientificTerm 127 141	language pairs
+T4	OtherScientificTerm 155 169	word alignment
+T5	OtherScientificTerm 178 197	languages L1 and L2
+T6	OtherScientificTerm 221 232	language L3
+T7	OtherScientificTerm 266 280	bilingual data
+T8	OtherScientificTerm 311 330	language pair L1-L2
+T9	OtherScientificTerm 333 362	large-scale bilingual corpora
+T10	OtherScientificTerm 366 371	L1-L3
+T11	OtherScientificTerm 376 381	L2-L3
+T12	OtherScientificTerm 428 435	corpora
+T13	OtherScientificTerm 445 447	L3
+T14	OtherScientificTerm 455 469	pivot language
+T15	OtherScientificTerm 483 503	word alignment model
+T16	OtherScientificTerm 508 517	L1 and L2
+T17	OtherScientificTerm 525 533	approach
+T18	OtherScientificTerm 546 566	word alignment model
+T19	OtherScientificTerm 575 584	languages
+T20	OtherScientificTerm 596 612	bilingual corpus
+T21	OtherScientificTerm 634 647	language pair
+T22	OtherScientificTerm 681 701	word alignment model
+T23	OtherScientificTerm 706 715	L1 and L2
+T24	OtherScientificTerm 732 754	L1-L2 bilingual corpus
+T25	OtherScientificTerm 791 797	models
+T26	OtherScientificTerm 817 831	word alignment
+T27	OtherScientificTerm 840 849	L1 and L2
+T28	OtherScientificTerm 884 913	relative error rate reduction
+T29	OtherScientificTerm 946 952	method
+T30	OtherScientificTerm 968 990	small bilingual corpus
+T31	OtherScientificTerm 994 1003	L1 and L2
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T15 Arg2:T16
+R2	Used-for Arg1:T18 Arg2:T19
+R3	Used-for Arg1:T24 Arg2:T22

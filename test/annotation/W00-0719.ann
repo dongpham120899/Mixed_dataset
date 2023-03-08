@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 0 14	Spam filtering
+T1	OtherScientificTerm 20 44	text categorization task
+T2	OtherScientificTerm 127 131	task
+T3	OtherScientificTerm 171 181	heuristics
+T4	OtherScientificTerm 191 197	domain
+T5	OtherScientificTerm 211 221	cost model
+T6	OtherScientificTerm 243 260	misclassification
+T7	OtherScientificTerm 264 283	legitimate messages
+T8	OtherScientificTerm 299 321	comparative evaluation
+T9	OtherScientificTerm 333 360	machine learning algorithms
+T10	OtherScientificTerm 372 386	spam filtering
+T11	OtherScientificTerm 405 409	text
+T12	OtherScientificTerm 417 425	messages
+T13	OtherScientificTerm 439 449	heuristics
+T14	OtherScientificTerm 458 462	task
+T15	OtherScientificTerm 465 486	Cost-oriented biasing
+R0	Used-for Arg1:T3 Arg2:T2
+R1	Used-for Arg1:T9 Arg2:T10
+R2	Used-for Arg1:T13 Arg2:T14

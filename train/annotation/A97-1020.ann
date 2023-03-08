@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 0 7	GLOSSER
+T1	OtherScientificTerm 73 81	language
+T2	OtherScientificTerm 99 113	language pairs
+T3	OtherScientificTerm 137 144	GLOSSER
+T4	OtherScientificTerm 147 164	English-Bulgarian
+T5	OtherScientificTerm 167 183	English-Estonian
+T6	OtherScientificTerm 186 203	English-Hungarian
+T7	OtherScientificTerm 208 220	French-Dutch
+T8	OtherScientificTerm 358 393	Applied Natural Language Processing
+T9	OtherScientificTerm 447 501	intelligent computer-assisted morphological analysis (
+T10	OtherScientificTerm 510 535	, including disambiguated
+T11	OtherScientificTerm 550 562	analysis and
+T12	OtherScientificTerm 583 597	for an aligned
+T13	OtherScientificTerm 608 617	corpus of
+R0	Feature-of Arg1:T2 Arg2:T3
+R1	Part-of Arg1:T13 Arg2:T12

@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 4 31	psycholinguistic literature
+T1	OtherScientificTerm 54 71	syntactic priming
+T2	OtherScientificTerm 165 172	priming
+T3	OtherScientificTerm 181 213	incremental probabilistic parser
+T4	OtherScientificTerm 258 265	priming
+T5	OtherScientificTerm 269 274	rules
+T6	OtherScientificTerm 283 292	sentences
+T7	OtherScientificTerm 302 311	sentences
+T8	OtherScientificTerm 325 346	coordinate structures
+T9	OtherScientificTerm 402 421	parallel structures
+T10	OtherScientificTerm 431 441	human data
+T11	OtherScientificTerm 487 503	parsing accuracy
+R0	Conjunction Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Part-of Arg1:T9 Arg2:T10

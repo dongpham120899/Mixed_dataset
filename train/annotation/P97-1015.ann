@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 30 57	machine translation systems
+T1	OtherScientificTerm 205 218	language pair
+T2	OtherScientificTerm 301 317	black-box method
+T3	OtherScientificTerm 336 352	lexical coverage
+T4	OtherScientificTerm 356 366	MT systems
+T5	OtherScientificTerm 401 406	words
+T6	OtherScientificTerm 422 439	frequency classes
+T7	OtherScientificTerm 464 474	word lists
+T8	OtherScientificTerm 567 577	MT systems
+T9	OtherScientificTerm 601 608	English
+T10	OtherScientificTerm 613 619	German
+R0	Feature-of Arg1:T3 Arg2:T4
+R1	Feature-of Arg1:T6 Arg2:T5

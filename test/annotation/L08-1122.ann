@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 25 72	Norwegian broadcast news speech corpus RUNDKAST
+T1	OtherScientificTerm 79 85	corpus
+T2	OtherScientificTerm 95 105	recordings
+T3	OtherScientificTerm 135 155	broadcast news shows
+T4	OtherScientificTerm 206 212	corpus
+T5	OtherScientificTerm 225 252	read and spontaneous speech
+T6	OtherScientificTerm 264 285	spontaneous dialogues
+T7	OtherScientificTerm 290 311	multipart discussions
+T8	OtherScientificTerm 348 367	non-speech material
+T9	OtherScientificTerm 435 450	speaking styles
+T10	OtherScientificTerm 453 464	dialect use
+T11	OtherScientificTerm 502 510	RUNDKAST
+T12	OtherScientificTerm 546 563	speech technology
+T13	OtherScientificTerm 577 583	corpus
+T14	OtherScientificTerm 680 707	read and spontaneous speech
+T15	OtherScientificTerm 726 734	speakers
+T16	OtherScientificTerm 775 790	phonetic labels
+T17	OtherScientificTerm 848 864	annotation tools
+T18	OtherScientificTerm 925 931	levels
+T19	OtherScientificTerm 935 945	annotation
+T20	OtherScientificTerm 950 956	corpus
+T21	OtherScientificTerm 1014 1023	Norwegian
+T22	OtherScientificTerm 1087 1115	language technology research
+T23	OtherScientificTerm 1132 1147	RUNDKAST corpus
+T24	OtherScientificTerm 1195 1227	Norwegian language resource bank
+R0	Part-of Arg1:T2 Arg2:T1
+R1	Part-of Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T23 Arg2:T24

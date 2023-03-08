@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 0 25	Listen-Communicate-Show (
+T1	OtherScientificTerm 41 76	paradigm for human interaction with
+T2	OtherScientificTerm 95 122	integrate a spoken language
+T3	OtherScientificTerm 137 160	system with intelligent
+T4	OtherScientificTerm 180 187	mediate
+T5	OtherScientificTerm 196 205	users and
+T6	OtherScientificTerm 286 294	approach
+T7	OtherScientificTerm 313 314	.
+T8	OtherScientificTerm 459 470	to a mobile
+T9	OtherScientificTerm 505 507	at
+T10	OtherScientificTerm 512 523	appropriate
+T11	OtherScientificTerm 599 605	status
+T12	OtherScientificTerm 627 629	or
+T13	OtherScientificTerm 785 800	this technology
+R0	Part-of Arg1:T3 Arg2:T2

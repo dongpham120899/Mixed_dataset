@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 20 58	document oriented preference sets(DoPS
+T1	OtherScientificTerm 87 101	the dependency
+T2	OtherScientificTerm 112 114	of
+T3	OtherScientificTerm 127 135	The DoPS
+T4	OtherScientificTerm 178 186	a target
+T5	OtherScientificTerm 199 204	other
+T6	OtherScientificTerm 229 239	. Sentence
+T7	OtherScientificTerm 340 345	large
+T8	OtherScientificTerm 361 362	.
+T9	OtherScientificTerm 378 391	and empirical
+T10	OtherScientificTerm 435 448	of dependency
+T11	OtherScientificTerm 460 484	of Japanese patent claim
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T3 Arg2:T4
+R2	Feature-of Arg1:T10 Arg2:T11

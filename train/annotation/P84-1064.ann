@@ -1,0 +1,37 @@
+T0	OtherScientificTerm 15 26	disposition
+T1	OtherScientificTerm 32 43	proposition
+T2	OtherScientificTerm 139 150	disposition
+T3	OtherScientificTerm 164 176	propositions
+T4	OtherScientificTerm 288 299	disposition
+T5	OtherScientificTerm 319 330	proposition
+T6	OtherScientificTerm 345 362	fuzzy quantifiers
+T7	OtherScientificTerm 550 566	fuzzy quantifier
+T8	OtherScientificTerm 579 590	proposition
+T9	OtherScientificTerm 737 748	disposition
+T10	OtherScientificTerm 756 767	proposition
+T11	OtherScientificTerm 786 799	explicitation
+T12	OtherScientificTerm 803 814	restoration
+T13	OtherScientificTerm 817 830	Explicitation
+T14	OtherScientificTerm 867 874	meaning
+T15	OtherScientificTerm 880 891	proposition
+T16	OtherScientificTerm 911 931	test-score semantics
+T17	OtherScientificTerm 978 987	semantics
+T18	OtherScientificTerm 994 1001	meaning
+T19	OtherScientificTerm 1007 1018	proposition
+T20	OtherScientificTerm 1193 1220	reasoning with dispositions
+T21	OtherScientificTerm 1256 1271	fuzzy syllogism
+T22	OtherScientificTerm 1274 1313	Syllogistic reasoning with dispositions
+T23	OtherScientificTerm 1342 1363	commonsense reasoning
+T24	OtherScientificTerm 1382 1407	management of uncertainty
+T25	OtherScientificTerm 1411 1425	expert systems
+T26	OtherScientificTerm 1525 1535	typicality
+T27	OtherScientificTerm 1582 1597	human cognition
+T28	OtherScientificTerm 1621 1638	default reasoning
+R0	Part-of Arg1:T6 Arg2:T5
+R1	Part-of Arg1:T7 Arg2:T8
+R2	Feature-of Arg1:T14 Arg2:T15
+R3	Feature-of Arg1:T18 Arg2:T19
+R4	Used-for Arg1:T21 Arg2:T20
+R5	Evaluate-for Arg1:T22 Arg2:T23
+R6	Part-of Arg1:T24 Arg2:T25
+R7	Evaluate-for Arg1:T26 Arg2:T27

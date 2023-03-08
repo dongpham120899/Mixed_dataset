@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 22 28	syntax
+T1	OtherScientificTerm 33 42	semantics
+T2	OtherScientificTerm 46 65	machine translation
+T3	OtherScientificTerm 129 165	English-Japanese machine translation
+T4	OtherScientificTerm 172 196	syntax directed approach
+T5	OtherScientificTerm 220 245	Heuristic Parsing Model (
+T6	OtherScientificTerm 252 269	and the Syntactic
+T7	OtherScientificTerm 303 308	. For
+T8	OtherScientificTerm 338 353	, the semantics
+T9	OtherScientificTerm 384 415	where the Conceptual Dependency
+T10	OtherScientificTerm 426 439	CDD ) and the
+T11	OtherScientificTerm 477 486	is a kind
+T12	OtherScientificTerm 550 567	of the difference
+T13	OtherScientificTerm 576 603	Japanese sentence structure
+T14	OtherScientificTerm 637 645	which is
+T15	OtherScientificTerm 694 702	together
+R0	Used-for Arg1:T4 Arg2:T3
+R1	Used-for Arg1:T7 Arg2:T8
+R2	Compare Arg1:T12 Arg2:T13

@@ -1,0 +1,33 @@
+T0	OtherScientificTerm 0 32	Lexical co-occurrence statistics
+T1	OtherScientificTerm 65 83	syntactic analysis
+T2	OtherScientificTerm 87 105	unconstrained text
+T3	OtherScientificTerm 143 164	lexical relationships
+T4	OtherScientificTerm 177 187	sparseness
+T5	OtherScientificTerm 191 195	data
+T6	OtherScientificTerm 233 252	less informed model
+T7	OtherScientificTerm 283 305	statistical parameters
+T8	OtherScientificTerm 326 335	" lexical
+T9	OtherScientificTerm 350 396	strategy for resolving ambiguous prepositional
+T10	OtherScientificTerm 461 469	only the
+T11	OtherScientificTerm 486 487	(
+T12	OtherScientificTerm 495 501	or its
+T13	OtherScientificTerm 518 521	and
+T14	OtherScientificTerm 540 548	ignoring
+T15	OtherScientificTerm 560 562	of
+T16	OtherScientificTerm 609 615	of the
+T17	OtherScientificTerm 653 664	use of noun
+T18	OtherScientificTerm 690 700	permitting
+T19	OtherScientificTerm 848 864	performance over
+T20	OtherScientificTerm 891 894	, a
+T21	OtherScientificTerm 907 915	analysis
+T22	OtherScientificTerm 962 973	in the noun
+T23	OtherScientificTerm 1005 1024	in the multiplicity
+T24	OtherScientificTerm 1046 1049	for
+T25	OtherScientificTerm 1067 1077	absence of
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T6 Arg2:T7
+R3	Used-for Arg1:T8 Arg2:T9
+R4	Used-for Arg1:T17 Arg2:T18
+R5	Conjunction Arg1:T20 Arg2:T21
+R6	Feature-of Arg1:T23 Arg2:T24

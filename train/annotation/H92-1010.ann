@@ -1,0 +1,6 @@
+T0	OtherScientificTerm 60 65	LIMSI
+T1	OtherScientificTerm 82 99	speech processing
+T2	OtherScientificTerm 135 162	Human-Machine Communication
+T3	OtherScientificTerm 175 202	Natural Language Processing
+T4	OtherScientificTerm 205 244	Non Verbal and Multimodal Communication
+R0	Compare Arg1:T1 Arg2:T2

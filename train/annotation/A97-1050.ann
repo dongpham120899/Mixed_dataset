@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 33 80	algorithm for translation lexicon acquisition (
+T1	OtherScientificTerm 112 116	very
+T2	OtherScientificTerm 133 148	acquire general
+T3	OtherScientificTerm 172 176	when
+T4	OtherScientificTerm 208 212	much
+T5	OtherScientificTerm 239 269	candidates for domain-specific
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Used-for Arg1:T3 Arg2:T5

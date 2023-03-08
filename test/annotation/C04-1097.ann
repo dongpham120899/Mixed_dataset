@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 19 37	statistical models
+T1	OtherScientificTerm 41 68	syntactic constituent order
+T2	OtherScientificTerm 73 93	sentence realization
+T3	OtherScientificTerm 141 153	joint models
+T4	OtherScientificTerm 175 201	statistical parsing models
+T5	OtherScientificTerm 222 240	conditional models
+T6	OtherScientificTerm 247 265	conditional models
+T7	OtherScientificTerm 290 309	linguistic features
+T8	OtherScientificTerm 318 342	manual feature selection
+T9	OtherScientificTerm 371 377	models
+T10	OtherScientificTerm 381 401	sentence realization
+T11	OtherScientificTerm 406 423	French and German
+T12	OtherScientificTerm 451 468	conditional model
+T13	OtherScientificTerm 522 527	model
+T14	OtherScientificTerm 548 563	unordered trees
+T15	OtherScientificTerm 573 586	Penn TreeBank
+T16	OtherScientificTerm 613 626	standard data
+T17	OtherScientificTerm 667 675	ordering
+T18	OtherScientificTerm 679 699	sentence realization
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Compare Arg1:T3 Arg2:T5
+R2	Used-for Arg1:T13 Arg2:T14

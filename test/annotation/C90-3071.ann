@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 57 68	information
+T1	OtherScientificTerm 74 95	natural language text
+T2	OtherScientificTerm 122 126	text
+T3	OtherScientificTerm 146 168	semantic ( selectional
+T4	OtherScientificTerm 231 238	to have
+T5	OtherScientificTerm 292 294	in
+T6	OtherScientificTerm 311 324	therefore use
+T7	OtherScientificTerm 391 400	number of
+T8	OtherScientificTerm 441 463	a specific information
+T9	OtherScientificTerm 509 517	of using
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T9 Arg2:T8

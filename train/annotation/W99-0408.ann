@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 36 72	user knowledge modeling architecture
+T1	OtherScientificTerm 81 94	ICICLE system
+T2	OtherScientificTerm 99 128	language tutoring application
+T3	OtherScientificTerm 150 165	written English
+T4	OtherScientificTerm 197 217	language proficiency
+T5	OtherScientificTerm 275 291	writing analysis
+T6	OtherScientificTerm 296 315	feedback production
+T7	OtherScientificTerm 334 346	model design
+T8	OtherScientificTerm 378 425	second language and cognitive skill acquisition
+T9	OtherScientificTerm 494 500	design
+T10	OtherScientificTerm 534 540	design
+T11	OtherScientificTerm 564 587	robust information base
+T12	OtherScientificTerm 650 666	user proficiency
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T8 Arg2:T7

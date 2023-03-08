@@ -1,0 +1,30 @@
+T0	OtherScientificTerm 25 34	inference
+T1	OtherScientificTerm 38 55	semantic networks
+T2	OtherScientificTerm 85 105	Path-based inference
+T3	OtherScientificTerm 116 119	arc
+T4	OtherScientificTerm 125 137	path of arcs
+T5	OtherScientificTerm 156 161	nodes
+T6	OtherScientificTerm 217 221	path
+T7	OtherScientificTerm 243 248	nodes
+T8	OtherScientificTerm 251 277	Path-based inference rules
+T9	OtherScientificTerm 301 336	binary relational calculus notation
+T10	OtherScientificTerm 339 359	Node-based inference
+T11	OtherScientificTerm 369 378	structure
+T12	OtherScientificTerm 382 387	nodes
+T13	OtherScientificTerm 453 468	node structures
+T14	OtherScientificTerm 471 497	Node-based inference rules
+T15	OtherScientificTerm 522 538	semantic network
+T16	OtherScientificTerm 560 587	predicate calculus notation
+T17	OtherScientificTerm 590 610	Path-based inference
+T18	OtherScientificTerm 637 657	node-based inference
+T19	OtherScientificTerm 815 841	path-based inference rules
+T20	OtherScientificTerm 871 894	extensional equivalence
+T21	OtherScientificTerm 898 918	intensional concepts
+T22	OtherScientificTerm 932 943	explication
+T23	OtherScientificTerm 947 958	inheritance
+T24	OtherScientificTerm 962 973	hierarchies
+R0	Used-for Arg1:T9 Arg2:T8
+R1	Used-for Arg1:T13 Arg2:T10
+R2	Used-for Arg1:T16 Arg2:T14
+R3	Compare Arg1:T17 Arg2:T18
+R4	Feature-of Arg1:T23 Arg2:T24

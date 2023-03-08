@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 21 54	syntax-based paraphrasing methods
+T1	OtherScientificTerm 59 91	Recognizing Textual Entailment (
+T2	OtherScientificTerm 119 146	describe a dependency-based
+T3	OtherScientificTerm 172 186	using the DIRT
+T4	OtherScientificTerm 236 253	a straightforward
+T5	OtherScientificTerm 271 282	on aligning
+T6	OtherScientificTerm 327 336	effect of
+T7	OtherScientificTerm 370 399	both the RTE3 development and
+T8	OtherScientificTerm 440 444	type
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T2

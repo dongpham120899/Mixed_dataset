@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 0 15	Text prediction
+T1	OtherScientificTerm 29 60	interactive machine translation
+T2	OtherScientificTerm 84 103	skilled translators
+T3	OtherScientificTerm 156 167	target text
+T4	OtherScientificTerm 272 289	prediction system
+T5	OtherScientificTerm 333 345	productivity
+T6	OtherScientificTerm 354 365	translators
+T7	OtherScientificTerm 477 488	predictions
+T8	OtherScientificTerm 507 523	expected benefit
+T9	OtherScientificTerm 531 541	translator
+T10	OtherScientificTerm 597 610	upcoming text
+T11	OtherScientificTerm 632 641	“ typical
+T12	OtherScientificTerm 655 666	constructed
+T13	OtherScientificTerm 706 712	of the
+T14	OtherScientificTerm 781 788	to turn
+T15	OtherScientificTerm 841 843	to
+R0	Feature-of Arg1:T5 Arg2:T6
+R1	Evaluate-for Arg1:T7 Arg2:T8
+R2	Part-of Arg1:T12 Arg2:T13

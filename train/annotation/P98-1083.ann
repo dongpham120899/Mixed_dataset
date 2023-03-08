@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 41 57	Japanese parsers
+T1	OtherScientificTerm 68 82	decision trees
+T2	OtherScientificTerm 115 128	decision tree
+T3	OtherScientificTerm 141 167	modification probabilities
+T4	OtherScientificTerm 178 184	phrase
+T5	OtherScientificTerm 233 251	boosting algorithm
+T6	OtherScientificTerm 269 283	decision trees
+T7	OtherScientificTerm 322 344	probability estimation
+T8	OtherScientificTerm 367 374	parsers
+T9	OtherScientificTerm 402 431	EDR Japanese annotated corpus
+T10	OtherScientificTerm 473 513	conventional Japanese stochastic methods
+T11	OtherScientificTerm 608 624	parsing accuracy
+T12	OtherScientificTerm 676 689	training data
+T13	OtherScientificTerm 701 721	over-fitting to data
+T14	OtherScientificTerm 734 744	iterations
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T6 Arg2:T7

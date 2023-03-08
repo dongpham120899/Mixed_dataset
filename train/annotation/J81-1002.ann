@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 52 82	creating natural language text
+T1	OtherScientificTerm 91 110	processing paradigm
+T2	OtherScientificTerm 118 138	Fragment-and-Compose
+T3	OtherScientificTerm 207 216	knowledge
+T4	OtherScientificTerm 236 240	text
+T5	OtherScientificTerm 269 288	propositional units
+T6	OtherScientificTerm 364 368	text
+T7	OtherScientificTerm 371 395	KDS ( Knowledge Delivery
+T8	OtherScientificTerm 477 483	of the
+T9	OtherScientificTerm 522 524	of
+T10	OtherScientificTerm 539 552	prevention of
+T11	OtherScientificTerm 648 650	as
+T12	OtherScientificTerm 745 751	of the
+T13	OtherScientificTerm 763 768	. The
+T14	OtherScientificTerm 799 806	and the
+T15	OtherScientificTerm 821 828	methods
+R0	Part-of Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T14 Arg2:T15

@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 149 163	directed graph
+T1	OtherScientificTerm 211 223	word vectors
+T2	OtherScientificTerm 234 244	similarity
+T3	OtherScientificTerm 257 264	vectors
+T4	OtherScientificTerm 290 295	graph
+T5	OtherScientificTerm 320 337	similarity matrix
+T6	OtherScientificTerm 357 368	constraints
+T7	OtherScientificTerm 426 445	threading algorithm
+T8	OtherScientificTerm 459 464	0(n )
+T9	OtherScientificTerm 526 537	constructed
+T10	OtherScientificTerm 558 562	with
+T11	OtherScientificTerm 584 587	the
+T12	OtherScientificTerm 598 601	the
+T13	OtherScientificTerm 612 615	and
+T14	OtherScientificTerm 637 640	new
+T15	OtherScientificTerm 671 684	The threading
+T16	OtherScientificTerm 746 757	A threading
+T17	OtherScientificTerm 862 877	their threading
+T18	OtherScientificTerm 924 951	in eXtended Markup Language
+T19	OtherScientificTerm 996 1006	browsers .
+R0	Feature-of Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T7 Arg2:T8
+R2	Feature-of Arg1:T11 Arg2:T12
+R3	Feature-of Arg1:T13 Arg2:T14

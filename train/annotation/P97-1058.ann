@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 28 42	human language
+T1	OtherScientificTerm 47 65	syntactic analysis
+T2	OtherScientificTerm 70 93	semantic interpretation
+T3	OtherScientificTerm 110 133	context-free complexity
+T4	OtherScientificTerm 161 178	speech processing
+T5	OtherScientificTerm 207 226	finite-state models
+T6	OtherScientificTerm 312 319	grammar
+T7	OtherScientificTerm 346 372	finite-state approximation
+T8	OtherScientificTerm 417 435	speech recognition
+T9	OtherScientificTerm 547 574	finite-state approximations
+T10	OtherScientificTerm 580 601	context-free grammars
+R0	Used-for Arg1:T5 Arg2:T4
+R1	Used-for Arg1:T7 Arg2:T8

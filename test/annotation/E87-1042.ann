@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 40 58	discourse analysis
+T1	OtherScientificTerm 167 171	type
+T2	OtherScientificTerm 175 180	genre
+T3	OtherScientificTerm 184 193	discourse
+T4	OtherScientificTerm 224 230	genres
+T5	OtherScientificTerm 250 265	representations
+T6	OtherScientificTerm 270 291	processing strategies
+T7	OtherScientificTerm 344 369	subjective , performative
+T8	OtherScientificTerm 380 393	and objective
+T9	OtherScientificTerm 409 414	which
+T10	OtherScientificTerm 513 524	of temporal
+T11	OtherScientificTerm 569 582	and narrative
+T12	OtherScientificTerm 590 604	The processing
+T13	OtherScientificTerm 638 650	the temporal
+T14	OtherScientificTerm 664 665	a
+T15	OtherScientificTerm 685 691	's e/s
+T16	OtherScientificTerm 787 815	the durational and aspectual
+T17	OtherScientificTerm 837 842	those
+T18	OtherScientificTerm 880 899	between grammatical
+T19	OtherScientificTerm 907 918	, aspectual
+T20	OtherScientificTerm 929 942	the aspectual
+T21	OtherScientificTerm 958 959	a
+T22	OtherScientificTerm 969 971	in
+T23	OtherScientificTerm 1001 1003	in
+T24	OtherScientificTerm 1012 1025	, grammatical
+T25	OtherScientificTerm 1050 1063	the aspectual
+R0	Feature-of Arg1:T13 Arg2:T14
+R1	Used-for Arg1:T16 Arg2:T17

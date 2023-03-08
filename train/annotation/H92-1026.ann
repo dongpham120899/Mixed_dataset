@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 14 64	generative probabilistic model of natural language
+T1	OtherScientificTerm 81 84	HBG
+T2	OtherScientificTerm 120 142	linguistic information
+T3	OtherScientificTerm 154 163	ambiguity
+T4	OtherScientificTerm 166 167	 
+T5	OtherScientificTerm 172 215	incorporates lexical , syntactic , semantic
+T6	OtherScientificTerm 222 244	structural information
+T7	OtherScientificTerm 254 264	parse tree
+T8	OtherScientificTerm 312 322	. We use a
+T9	OtherScientificTerm 343 352	sentences
+T10	OtherScientificTerm 373 389	, in combination
+T11	OtherScientificTerm 435 451	relevant aspects
+T12	OtherScientificTerm 473 477	will
+T13	OtherScientificTerm 492 499	correct
+T14	OtherScientificTerm 553 558	usual
+T15	OtherScientificTerm 587 600	tailoring via
+T16	OtherScientificTerm 648 650	of
+T17	OtherScientificTerm 666 679	correct parse
+T18	OtherScientificTerm 719 736	the best existing
+T19	OtherScientificTerm 773 774	,
+T20	OtherScientificTerm 784 794	call P-CFG
+T21	OtherScientificTerm 801 804	HBG
+T22	OtherScientificTerm 837 844	P-CFG ,
+R0	Used-for Arg1:T2 Arg2:T3
+R1	Used-for Arg1:T5 Arg2:T4
+R2	Feature-of Arg1:T12 Arg2:T13
+R3	Used-for Arg1:T15 Arg2:T14
+R4	Compare Arg1:T20 Arg2:T21

@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 51 84	statistical machine translation (
+T1	OtherScientificTerm 90 106	based on dynamic
+T2	OtherScientificTerm 227 238	to restrict
+T3	OtherScientificTerm 243 275	possible word reordering between
+T4	OtherScientificTerm 489 500	carried out
+T5	OtherScientificTerm 565 575	, which is
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T5 Arg2:T4

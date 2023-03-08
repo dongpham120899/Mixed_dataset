@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 66 127	monolingual or multilingual natural language generation ( NLG
+T1	OtherScientificTerm 130 166	applications and machine translation
+T2	OtherScientificTerm 216 234	a uniform approach
+T3	OtherScientificTerm 249 267	and transfer based
+T4	OtherScientificTerm 271 300	declarative lexico-structural
+T5	OtherScientificTerm 331 344	structures of
+T6	OtherScientificTerm 358 377	conceptual levels (
+T7	OtherScientificTerm 458 462	been
+T8	OtherScientificTerm 468 480	in practical
+R0	Used-for Arg1:T3 Arg2:T2

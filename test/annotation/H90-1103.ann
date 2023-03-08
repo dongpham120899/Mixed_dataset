@@ -1,0 +1,37 @@
+T0	OtherScientificTerm 31 52	military applications
+T1	OtherScientificTerm 65 93	speech processing technology
+T2	OtherScientificTerm 182 203	military applications
+T3	OtherScientificTerm 207 224	speech technology
+T4	OtherScientificTerm 276 297	military applications
+T5	OtherScientificTerm 310 327	speech technology
+T6	OtherScientificTerm 390 407	speech processing
+T7	OtherScientificTerm 426 450	application requirements
+T8	OtherScientificTerm 568 589	military applications
+T9	OtherScientificTerm 593 610	speech technology
+T10	OtherScientificTerm 688 709	military applications
+T11	OtherScientificTerm 713 730	speech technology
+T12	OtherScientificTerm 769 817	narrowband ( 2400 b/s ) and very low-rate ( 50 -
+T13	OtherScientificTerm 836 861	voice communication ; ( 2
+T14	OtherScientificTerm 890 907	computer networks
+T15	OtherScientificTerm 910 913	( 3
+T16	OtherScientificTerm 987 999	management ,
+T17	OtherScientificTerm 1033 1048	systems ; and (
+T18	OtherScientificTerm 1051 1058	) noise
+T19	OtherScientificTerm 1219 1227	would be
+T20	OtherScientificTerm 1242 1253	advances in
+T21	OtherScientificTerm 1314 1335	systems include : ( 1
+T22	OtherScientificTerm 1371 1398	communications terminal ; (
+T23	OtherScientificTerm 1422 1444	enhancement system ; (
+T24	OtherScientificTerm 1475 1497	associate system ; ( 4
+T25	OtherScientificTerm 1521 1553	control training systems ; ( 5 )
+T26	OtherScientificTerm 1561 1591	management command and control
+T27	OtherScientificTerm 1627 1651	language interface ; and
+T28	OtherScientificTerm 1812 1835	most promising research
+T29	OtherScientificTerm 1845 1860	the integration
+T30	OtherScientificTerm 1864 1880	speech algorithm
+T31	OtherScientificTerm 1902 1915	speech coding
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T3 Arg2:T2
+R2	Used-for Arg1:T5 Arg2:T4
+R3	Used-for Arg1:T9 Arg2:T8
+R4	Used-for Arg1:T11 Arg2:T10

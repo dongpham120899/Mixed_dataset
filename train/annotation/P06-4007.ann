@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 21 27	FERRET
+T1	OtherScientificTerm 33 69	interactive question-answering ( Q/A
+T2	OtherScientificTerm 114 128	of integrating
+T3	OtherScientificTerm 172 184	environments
+T4	OtherScientificTerm 211 219	approach
+T5	OtherScientificTerm 227 235	known as
+T6	OtherScientificTerm 277 285	identify
+T7	OtherScientificTerm 300 301	(
+T8	OtherScientificTerm 314 315	)
+T9	OtherScientificTerm 345 348	how
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T5 Arg2:T4

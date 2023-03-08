@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 38 48	LR-parsers
+T1	OtherScientificTerm 83 100	correctness proof
+T2	OtherScientificTerm 146 170	recursive descent parser
+T3	OtherScientificTerm 177 192	non-LR grammars
+T4	OtherScientificTerm 220 226	parser
+T5	OtherScientificTerm 273 279	parser
+T6	OtherScientificTerm 299 313	memo-functions
+T7	OtherScientificTerm 383 397	Memo-functions
+T8	OtherScientificTerm 477 489	parse forest
+T9	OtherScientificTerm 496 502	LR(0 )
+T10	OtherScientificTerm 550 570	the recursive ascent
+T11	OtherScientificTerm 642 655	. Extended CF
+T12	OtherScientificTerm 665 666	(
+T13	OtherScientificTerm 676 688	with regular
+T14	OtherScientificTerm 770 773	the
+T15	OtherScientificTerm 788 797	normal CF
+R0	Used-for Arg1:T7 Arg2:T8
+R1	Part-of Arg1:T13 Arg2:T12
+R2	Used-for Arg1:T14 Arg2:T15

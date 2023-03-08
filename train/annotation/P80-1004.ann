@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 13 22	metaphors
+T1	OtherScientificTerm 65 104	human understanding of natural language
+T2	OtherScientificTerm 130 159	method of analyzing metaphors
+T3	OtherScientificTerm 204 233	generalized metaphor mappings
+T4	OtherScientificTerm 241 261	generalized metaphor
+T5	OtherScientificTerm 273 292	recognition network
+T6	OtherScientificTerm 297 310	basic mapping
+T7	OtherScientificTerm 324 341	transfer mappings
+T8	OtherScientificTerm 351 379	implicit intention component
+T9	OtherScientificTerm 419 442	metaphor interpretation
+T10	OtherScientificTerm 450 464	reconstruction
+T11	OtherScientificTerm 470 486	recognition task
+T12	OtherScientificTerm 540 557	language learning
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T2
+R2	Part-of Arg1:T5 Arg2:T4

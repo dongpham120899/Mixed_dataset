@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 32 48	polysemous words
+T1	OtherScientificTerm 54 62	sentence
+T2	OtherScientificTerm 69 76	meaning
+T3	OtherScientificTerm 80 85	sense
+T4	OtherScientificTerm 155 188	word-sense disambiguation systems
+T5	OtherScientificTerm 206 224	bilingual material
+T6	OtherScientificTerm 231 248	Canadian Hansards
+T7	OtherScientificTerm 276 296	monolingual material
+T8	OtherScientificTerm 299 307	Roget 's
+T9	OtherScientificTerm 318 329	and Grolier
+T10	OtherScientificTerm 402 406	very
+T11	OtherScientificTerm 443 447	if a
+T12	OtherScientificTerm 464 468	such
+T13	OtherScientificTerm 507 511	in a
+T14	OtherScientificTerm 585 588	the
+T15	OtherScientificTerm 697 699	to
+T16	OtherScientificTerm 715 718	the
+T17	OtherScientificTerm 806 812	source
+T18	OtherScientificTerm 857 874	of the word-sense
+T19	OtherScientificTerm 941 954	help evaluate
+T20	OtherScientificTerm 1003 1009	of the
+R0	Feature-of Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T12 Arg2:T13
+R3	Part-of Arg1:T15 Arg2:T16
+R4	Used-for Arg1:T17 Arg2:T18
+R5	Used-for Arg1:T20 Arg2:T19

@@ -1,0 +1,7 @@
+T0	OtherScientificTerm 4 31	TAP-XL Automated Analyst 's
+T1	OtherScientificTerm 77 79	an
+T2	OtherScientificTerm 112 121	a topical
+T3	OtherScientificTerm 171 188	of multilingual ,
+T4	OtherScientificTerm 331 335	into
+T5	OtherScientificTerm 352 371	by leveraging human
+R0	Used-for Arg1:T3 Arg2:T0

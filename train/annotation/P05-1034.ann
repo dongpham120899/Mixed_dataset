@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 32 63	statistical machine translation
+T1	OtherScientificTerm 78 99	syntactic information
+T2	OtherScientificTerm 107 122	source language
+T3	OtherScientificTerm 147 166	phrasal translation
+T4	OtherScientificTerm 192 207	source-language
+T5	OtherScientificTerm 208 225	dependency parser
+T6	OtherScientificTerm 228 243	target language
+T7	OtherScientificTerm 244 261	word segmentation
+T8	OtherScientificTerm 269 306	unsupervised word alignment component
+T9	OtherScientificTerm 320 335	parallel corpus
+T10	OtherScientificTerm 350 373	source dependency parse
+T11	OtherScientificTerm 390 398	sentence
+T12	OtherScientificTerm 409 445	dependency treelet translation pairs
+T13	OtherScientificTerm 460 485	tree-based ordering model
+T14	OtherScientificTerm 513 520	decoder
+T15	OtherScientificTerm 547 564	tree-based models
+T16	OtherScientificTerm 598 608	SMT models
+T17	OtherScientificTerm 670 681	phrasal SMT
+T18	OtherScientificTerm 728 734	parser
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T10 Arg2:T11

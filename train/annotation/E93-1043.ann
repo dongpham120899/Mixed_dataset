@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 16 39	morphological component
+T1	OtherScientificTerm 110 123	derived words
+T2	OtherScientificTerm 171 191	two-level morphology
+T3	OtherScientificTerm 233 259	feature-based word grammar
+T4	OtherScientificTerm 274 294	hierarchical lexicon
+T5	OtherScientificTerm 297 316	Polymorphemic stems
+T6	OtherScientificTerm 346 353	lexicon
+T7	OtherScientificTerm 366 394	compositional interpretation
+T8	OtherScientificTerm 454 461	lexicon
+T9	OtherScientificTerm 470 483	derived words
+T10	OtherScientificTerm 547 566	words formed ad-hoc
+T11	OtherScientificTerm 674 691	German derivation
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T3
+R2	Feature-of Arg1:T7 Arg2:T5

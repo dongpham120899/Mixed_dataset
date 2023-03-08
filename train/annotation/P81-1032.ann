@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 7 38	natural language interpretation
+T1	OtherScientificTerm 55 77	semantic domain models
+T2	OtherScientificTerm 80 109	fail-soft recovery heuristics
+T3	OtherScientificTerm 130 148	control structures
+T4	OtherScientificTerm 160 183	single-strategy parsers
+T5	OtherScientificTerm 223 246	multi-strategy approach
+T6	OtherScientificTerm 339 369	task-specific domain knowledge
+T7	OtherScientificTerm 387 415	general linguistic knowledge
+T8	OtherScientificTerm 434 469	grammatical and ungrammatical input
+T9	OtherScientificTerm 474 491	parsing algorithm
+T10	OtherScientificTerm 539 557	parsing strategies
+T11	OtherScientificTerm 565 589	case-frame instantiation
+T12	OtherScientificTerm 617 635	parsing strategies
+T13	OtherScientificTerm 655 673	types of knowledge
+T14	OtherScientificTerm 746 758	conjunctions
+T15	OtherScientificTerm 761 778	fragmentary input
+T16	OtherScientificTerm 785 809	ungrammatical structures
+T17	OtherScientificTerm 837 864	grammatically correct input
+T18	OtherScientificTerm 875 894	specific heuristics
+T19	OtherScientificTerm 908 927	ungrammatical input
+T20	OtherScientificTerm 954 978	multi-strategy framework
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Compare Arg1:T4 Arg2:T5
+R2	Compare Arg1:T6 Arg2:T7
+R3	Used-for Arg1:T10 Arg2:T9
+R4	Used-for Arg1:T13 Arg2:T12
+R5	Compare Arg1:T16 Arg2:T17
+R6	Part-of Arg1:T18 Arg2:T20

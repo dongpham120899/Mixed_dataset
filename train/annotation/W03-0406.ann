@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 30 58	unsupervised learning method
+T1	OtherScientificTerm 69 98	Expectation-Maximization ( EM
+T2	OtherScientificTerm 132 144	al. for text
+T3	OtherScientificTerm 187 218	it to word sense disambiguation
+T4	OtherScientificTerm 242 257	improved method
+T5	OtherScientificTerm 268 283	EM algorithm at
+T6	OtherScientificTerm 381 392	, we solved
+T7	OtherScientificTerm 401 429	WSD problems in the Japanese
+T8	OtherScientificTerm 581 598	be effective also
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T6 Arg2:T7

@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 39 64	semi-automatic extraction
+T1	OtherScientificTerm 68 80	collocations
+T2	OtherScientificTerm 86 93	corpora
+T3	OtherScientificTerm 147 162	textual corpora
+T4	OtherScientificTerm 210 232	collocation extraction
+T5	OtherScientificTerm 329 348	nested collocations
+T6	OtherScientificTerm 388 400	collocations
+T7	OtherScientificTerm 438 447	substring
+T8	OtherScientificTerm 451 463	collocations
+T9	OtherScientificTerm 467 479	collocations
+T10	OtherScientificTerm 541 547	corpus
+T11	OtherScientificTerm 581 593	collocations
+T12	OtherScientificTerm 654 679	semi-automatic extraction
+T13	OtherScientificTerm 683 732	nested uninterrupted and interrupted collocations
+T14	OtherScientificTerm 766 784	nested collocation
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T5 Arg2:T6
+R2	Part-of Arg1:T9 Arg2:T10

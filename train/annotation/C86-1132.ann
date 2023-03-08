@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 32 38	RAREAS
+T1	OtherScientificTerm 98 120	formatted weather data
+T2	OtherScientificTerm 128 137	synthesis
+T3	OtherScientificTerm 166 186	natural sublanguages
+T4	OtherScientificTerm 192 218	stereotyped text structure
+T5	OtherScientificTerm 221 227	RAREAS
+T6	OtherScientificTerm 254 293	linguistic and non-linguistic knowledge
+T7	OtherScientificTerm 364 380	temporal adverbs
+T8	OtherScientificTerm 469 501	bilingual or multi-lingual texts
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T3
+R2	Used-for Arg1:T6 Arg2:T5

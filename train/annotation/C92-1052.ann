@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 14 32	discourse segments
+T1	OtherScientificTerm 62 84	discourse segmentation
+T2	OtherScientificTerm 104 113	abduction
+T3	OtherScientificTerm 117 135	temporal relations
+T4	OtherScientificTerm 144 152	segments
+T5	OtherScientificTerm 194 218	computationally feasible
+T6	OtherScientificTerm 268 296	temporal anaphora resolution
+R0	Used-for Arg1:T2 Arg2:T1
+R1	Feature-of Arg1:T3 Arg2:T4

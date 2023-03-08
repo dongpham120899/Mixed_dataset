@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 59 93	multimedia articulation of answers
+T1	OtherScientificTerm 108 134	natural language interface
+T2	OtherScientificTerm 138 165	database query applications
+T3	OtherScientificTerm 168 186	Multimedia answers
+T4	OtherScientificTerm 195 211	videodisc images
+T5	OtherScientificTerm 248 257	sentences
+T6	OtherScientificTerm 261 265	text
+T7	OtherScientificTerm 269 288	text-to-speech form
+T8	OtherScientificTerm 291 308	Deictic reference
+T9	OtherScientificTerm 313 321	feedback
+T10	OtherScientificTerm 332 341	discourse
+T11	OtherScientificTerm 360 369	interface
+R0	Compare Arg1:T6 Arg2:T7
+R1	Feature-of Arg1:T9 Arg2:T10

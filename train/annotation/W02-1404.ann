@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 29 57	knowledge-independent method
+T1	OtherScientificTerm 71 76	terms
+T2	OtherScientificTerm 97 109	translations
+T3	OtherScientificTerm 117 140	small , domain-specific
+T4	OtherScientificTerm 159 196	of parallel English and Chinese court
+T5	OtherScientificTerm 229 247	a sentence-aligned
+T6	OtherScientificTerm 255 268	, translation
+T7	OtherScientificTerm 309 322	the frequency
+T8	OtherScientificTerm 332 343	of parallel
+T9	OtherScientificTerm 396 423	of conventional statistical
+T10	OtherScientificTerm 438 451	require large
+T11	OtherScientificTerm 478 489	and lexical
+T12	OtherScientificTerm 517 535	existing bilingual
+T13	OtherScientificTerm 568 578	a parallel
+T14	OtherScientificTerm 599 608	K Chinese
+T15	OtherScientificTerm 623 632	K English
+T16	OtherScientificTerm 663 664	%
+T17	OtherScientificTerm 682 683	%
+T18	OtherScientificTerm 726 729	the
+T19	OtherScientificTerm 788 801	a translation
+T20	OtherScientificTerm 810 819	for legal
+T21	OtherScientificTerm 845 856	out general
+R0	Part-of Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T10 Arg2:T9
+R3	Used-for Arg1:T12 Arg2:T11
+R4	Part-of Arg1:T14 Arg2:T13
+R5	Part-of Arg1:T20 Arg2:T19

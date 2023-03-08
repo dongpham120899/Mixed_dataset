@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 112 131	analytical inverses
+T1	OtherScientificTerm 136 162	compositional syntax rules
+T2	OtherScientificTerm 193 227	Definite Clause Grammar techniques
+T3	OtherScientificTerm 253 259	parser
+T4	OtherScientificTerm 270 289	  Montague analysis
+T5	OtherScientificTerm 298 306	A parser
+T6	OtherScientificTerm 342 372	an augmented Friedman - Warren
+T7	OtherScientificTerm 383 398	permitting post
+T8	OtherScientificTerm 444 475	of intenslonal logic translator
+T9	OtherScientificTerm 498 514	the derivational
+T10	OtherScientificTerm 526 550	corresponding reduced IL
+T11	OtherScientificTerm 579 592	with Montague
+T12	OtherScientificTerm 600 613	and the basic
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T6 Arg2:T5
+R3	Feature-of Arg1:T9 Arg2:T10

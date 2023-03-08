@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 35 46	search tool
+T1	OtherScientificTerm 65 71	ngrams
+T2	OtherScientificTerm 92 99	queries
+T3	OtherScientificTerm 128 137	wildcards
+T4	OtherScientificTerm 207 214	fillers
+T5	OtherScientificTerm 222 231	wildcards
+T6	OtherScientificTerm 292 298	memory
+T7	OtherScientificTerm 322 332	disk space
+T8	OtherScientificTerm 398 428	linguistic knowledge discovery
+T9	OtherScientificTerm 439 448	NLP tasks
+R0	Feature-of Arg1:T3 Arg2:T2

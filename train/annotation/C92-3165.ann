@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 31 74	interactive method for speech understanding
+T1	OtherScientificTerm 81 103	generalized LR parsing
+T2	OtherScientificTerm 135 142	Parsing
+T3	OtherScientificTerm 215 222	portion
+T4	OtherScientificTerm 241 247	parser
+T5	OtherScientificTerm 259 266	portion
+T6	OtherScientificTerm 280 299	non-terminal symbol
+T7	OtherScientificTerm 319 326	portion
+T8	OtherScientificTerm 342 354	re-utterance
+T9	OtherScientificTerm 363 370	portion
+T10	OtherScientificTerm 417 429	parse record
+T11	OtherScientificTerm 443 452	utterance
+T12	OtherScientificTerm 459 463	user
+T13	OtherScientificTerm 497 505	sentence
+T14	OtherScientificTerm 554 567	unknown words
+T15	OtherScientificTerm 621 634	unknown words
+T16	OtherScientificTerm 678 688	dictionary
+T17	OtherScientificTerm 720 724	user
+T18	OtherScientificTerm 729 741	pilot system
+R0	Used-for Arg1:T6 Arg2:T4
+R1	Feature-of Arg1:T10 Arg2:T11
+R2	Part-of Arg1:T15 Arg2:T16

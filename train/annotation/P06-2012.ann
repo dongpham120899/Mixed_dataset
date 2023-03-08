@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 23 53	unsupervised learning approach
+T1	OtherScientificTerm 96 110	named entities
+T2	OtherScientificTerm 129 159	lexical and syntactic features
+T3	OtherScientificTerm 169 177	contexts
+T4	OtherScientificTerm 204 216	eigenvectors
+T5	OtherScientificTerm 223 238	adjacency graph
+T6	OtherScientificTerm 242 251	Laplacian
+T7	OtherScientificTerm 265 276	submanifold
+T8	OtherScientificTerm 292 317	high dimensionality space
+T9	OtherScientificTerm 338 363	cluster number estimation
+T10	OtherScientificTerm 371 383	eigenvectors
+T11	OtherScientificTerm 408 419	ACE corpora
+T12	OtherScientificTerm 435 469	spectral clustering based approach
+T13	OtherScientificTerm 492 510	clustering methods
+R0	Used-for Arg1:T2 Arg2:T0
+R1	Compare Arg1:T12 Arg2:T13

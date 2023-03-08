@@ -1,0 +1,46 @@
+T0	OtherScientificTerm 59 82	Reconstruction Engine (
+T1	OtherScientificTerm 96 106	models the
+T2	OtherScientificTerm 126 142	for establishing
+T3	OtherScientificTerm 163 176	among a group
+T4	OtherScientificTerm 204 208	is a
+T5	OtherScientificTerm 235 238	aid
+T6	OtherScientificTerm 291 302	calculating
+T7	OtherScientificTerm 325 342	set of postulated
+T8	OtherScientificTerm 368 370	by
+T9	OtherScientificTerm 384 388	) on
+T10	OtherScientificTerm 398 409	lexicons of
+T11	OtherScientificTerm 433 440	divides
+T12	OtherScientificTerm 454 475	into a phonologically
+T13	OtherScientificTerm 514 522	from the
+T14	OtherScientificTerm 529 533	laws
+T15	OtherScientificTerm 557 558	:
+T16	OtherScientificTerm 565 573	words in
+T17	OtherScientificTerm 596 607	can propose
+T18	OtherScientificTerm 646 647	;
+T19	OtherScientificTerm 679 690	project the
+T20	OtherScientificTerm 735 742	changes
+T21	OtherScientificTerm 778 788	, allowing
+T22	OtherScientificTerm 802 828	evaluation of hypothesized
+T23	OtherScientificTerm 835 846	changes and
+T24	OtherScientificTerm 890 907	processing entire
+T25	OtherScientificTerm 959 970	implemented
+T26	OtherScientificTerm 979 991	specifically
+T27	OtherScientificTerm 996 1007	parsing and
+T28	OtherScientificTerm 1038 1040	to
+T29	OtherScientificTerm 1132 1149	and consolidating
+T30	OtherScientificTerm 1169 1171	on
+T31	OtherScientificTerm 1232 1244	handling the
+T32	OtherScientificTerm 1264 1270	of the
+T33	OtherScientificTerm 1298 1310	programs and
+T34	OtherScientificTerm 1325 1338	approaches to
+T35	OtherScientificTerm 1411 1417	of the
+T36	OtherScientificTerm 1457 1463	of the
+T37	OtherScientificTerm 1512 1516	from
+T38	OtherScientificTerm 1628 1636	features
+T39	OtherScientificTerm 1691 1700	sometimes
+T40	OtherScientificTerm 1711 1729	representations of
+R0	Used-for Arg1:T21 Arg2:T22
+R1	Used-for Arg1:T27 Arg2:T28
+R2	Used-for Arg1:T30 Arg2:T29
+R3	Part-of Arg1:T31 Arg2:T32
+R4	Feature-of Arg1:T39 Arg2:T40

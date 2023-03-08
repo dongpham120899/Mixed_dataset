@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 19 50	Interactive Machine Translation
+T1	OtherScientificTerm 61 67	author
+T2	OtherScientificTerm 125 133	document
+T3	OtherScientificTerm 170 179	ambiguity
+T4	OtherScientificTerm 267 284	linguistic theory
+T5	OtherScientificTerm 339 347	sentence
+T6	OtherScientificTerm 405 424	translation process
+T7	OtherScientificTerm 453 486	interactive disambiguation scheme
+T8	OtherScientificTerm 500 512	paraphrasing
+T9	OtherScientificTerm 518 524	parser
+T10	OtherScientificTerm 563 575	paraphrasing
+T11	OtherScientificTerm 586 595	sentences
+R0	Evaluate-for Arg1:T9 Arg2:T8
+R1	Feature-of Arg1:T10 Arg2:T11

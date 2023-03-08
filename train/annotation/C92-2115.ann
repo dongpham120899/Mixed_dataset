@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 4 18	transfer phase
+T1	OtherScientificTerm 22 46	machine translation ( MT
+T2	OtherScientificTerm 88 99	complicated
+T3	OtherScientificTerm 105 113	analysis
+T4	OtherScientificTerm 171 184	of individual
+T5	OtherScientificTerm 240 246	to use
+T6	OtherScientificTerm 258 270	reasoning in
+T7	OtherScientificTerm 328 336	basis of
+T8	OtherScientificTerm 373 378	pints
+T9	OtherScientificTerm 413 420	type of
+T10	OtherScientificTerm 439 474	called a Similarity-driven Transfer
+T11	OtherScientificTerm 496 506	for use in
+R0	Compare Arg1:T0 Arg2:T2
+R1	Used-for Arg1:T5 Arg2:T6
+R2	Used-for Arg1:T10 Arg2:T11

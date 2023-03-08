@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 38 69	statistical sentence generation
+T1	OtherScientificTerm 91 98	phrases
+T2	OtherScientificTerm 133 138	trees
+T3	OtherScientificTerm 144 151	forests
+T4	OtherScientificTerm 294 315	syntactic information
+T5	OtherScientificTerm 353 372	statistical ranking
+T6	OtherScientificTerm 401 423	statistical generation
+T7	OtherScientificTerm 439 456	ranking algorithm
+T8	OtherScientificTerm 569 591	lattice-based approach
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Compare Arg1:T7 Arg2:T8

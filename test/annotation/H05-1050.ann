@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 0 15	" Bootstrapping
+T1	OtherScientificTerm 18 25	methods
+T2	OtherScientificTerm 55 61	amount
+T3	OtherScientificTerm 80 88	seed the
+T4	OtherScientificTerm 169 172	bit
+T5	OtherScientificTerm 193 204	trying many
+T6	OtherScientificTerm 248 256	the most
+T7	OtherScientificTerm 280 292	discuss such
+T8	OtherScientificTerm 342 359	particular method
+T9	OtherScientificTerm 364 384	strapping word-sense
+T10	OtherScientificTerm 419 434	Our experiments
+T11	OtherScientificTerm 451 464	Hansards show
+T12	OtherScientificTerm 514 518	more
+T13	OtherScientificTerm 592 600	is known
+R0	Used-for Arg1:T7 Arg2:T8
+R1	Compare Arg1:T11 Arg2:T13

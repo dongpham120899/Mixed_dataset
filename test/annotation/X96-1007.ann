@@ -1,0 +1,59 @@
+T0	OtherScientificTerm 21 35	Text REtrieval
+T1	OtherScientificTerm 60 66	TREC-1
+T2	OtherScientificTerm 86 92	TREC-2
+T3	OtherScientificTerm 110 116	TREC-3
+T4	OtherScientificTerm 138 144	TREC-4
+T5	OtherScientificTerm 221 227	TREC-1
+T6	OtherScientificTerm 237 243	TREC-4
+T7	OtherScientificTerm 274 297	text retrieval software
+T8	OtherScientificTerm 355 369	text retrieval
+T9	OtherScientificTerm 474 478	TREC
+T10	OtherScientificTerm 519 533	text retrieval
+T11	OtherScientificTerm 648 652	TREC
+T12	OtherScientificTerm 700 718	document detection
+T13	OtherScientificTerm 722 729	TIPSTER
+T14	OtherScientificTerm 747 751	TREC
+T15	OtherScientificTerm 813 817	NIST
+T16	OtherScientificTerm 864 868	TREC
+T17	OtherScientificTerm 928 943	test collection
+T18	OtherScientificTerm 971 980	documents
+T19	OtherScientificTerm 994 1011	full-text sources
+T20	OtherScientificTerm 1018 1024	topics
+T21	OtherScientificTerm 1051 1060	documents
+T22	OtherScientificTerm 1091 1097	topics
+T23	OtherScientificTerm 1102 1120	Spanish collection
+T24	OtherScientificTerm 1152 1158	TREC-3
+T25	OtherScientificTerm 1163 1169	TREC-4
+T26	OtherScientificTerm 1191 1197	topics
+T27	OtherScientificTerm 1200 1206	TREC-1
+T28	OtherScientificTerm 1305 1324	document collection
+T29	OtherScientificTerm 1346 1361	test collection
+T30	OtherScientificTerm 1409 1427	TIPSTER collection
+T31	OtherScientificTerm 1449 1455	TREC-2
+T32	OtherScientificTerm 1497 1511	TREC-1 results
+T33	OtherScientificTerm 1593 1613	retrieval techniques
+T34	OtherScientificTerm 1665 1671	TREC-3
+T35	OtherScientificTerm 1773 1779	TREC-3
+T36	OtherScientificTerm 1808 1844	automatic query expansion techniques
+T37	OtherScientificTerm 1858 1883	passages or sub-documents
+T38	OtherScientificTerm 1900 1909	precision
+T39	OtherScientificTerm 1913 1930	retrieval results
+T40	OtherScientificTerm 1952 1972	training information
+T41	OtherScientificTerm 1997 2002	terms
+T42	OtherScientificTerm 2015 2022	queries
+T43	OtherScientificTerm 2089 2108	Rocchio methodology
+T44	OtherScientificTerm 2132 2150	vector space model
+T45	OtherScientificTerm 2246 2252	TREC-4
+T46	OtherScientificTerm 2403 2428	automatic query expansion
+T47	OtherScientificTerm 2593 2602	searching
+T48	OtherScientificTerm 2705 2720	merging results
+T49	OtherScientificTerm 2738 2757	TREC subcollections
+T50	OtherScientificTerm 2785 2799	corrupted data
+T51	OtherScientificTerm 2850 2871	effectiveness measure
+T52	OtherScientificTerm 2927 2944	Spanish retrieval
+T53	OtherScientificTerm 2951 2955	TREC
+T54	OtherScientificTerm 3048 3061	DARPA TIPSTER
+T55	OtherScientificTerm 3114 3129	test collection
+T56	OtherScientificTerm 3324 3330	TREC-5
+R0	Part-of Arg1:T18 Arg2:T17
+R1	Compare Arg1:T31 Arg2:T32

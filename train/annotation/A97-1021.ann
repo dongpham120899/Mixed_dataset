@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 42 54	repositories
+T1	OtherScientificTerm 58 92	lexical conceptual structure ( LCS
+T2	OtherScientificTerm 95 110	representations
+T3	OtherScientificTerm 121 123	in
+T4	OtherScientificTerm 205 227	relation between broad
+T5	OtherScientificTerm 237 252	classes and LCS
+T6	OtherScientificTerm 272 299	. Our acquisition program -
+T7	OtherScientificTerm 353 360	work on
+T8	OtherScientificTerm 366 393	classification and thematic
+T9	OtherScientificTerm 409 420	and outputs
+T10	OtherScientificTerm 441 444	for
+T11	OtherScientificTerm 465 466	.
+T12	OtherScientificTerm 499 527	ported into English , Arabic
+T13	OtherScientificTerm 556 566	containing
+T14	OtherScientificTerm 601 610	currently
+T15	OtherScientificTerm 623 649	lexicons in an operational
+T16	OtherScientificTerm 658 675	language tutoring
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T8 Arg2:T9
+R2	Used-for Arg1:T11 Arg2:T12
+R3	Used-for Arg1:T14 Arg2:T15

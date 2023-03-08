@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 27 40	formalization
+T1	OtherScientificTerm 48 66	centering approach
+T2	OtherScientificTerm 79 113	attentional structure in discourse
+T3	OtherScientificTerm 145 154	algorithm
+T4	OtherScientificTerm 164 181	discourse context
+T5	OtherScientificTerm 191 199	pronouns
+T6	OtherScientificTerm 245 293	centering attention on entities in the discourse
+T7	OtherScientificTerm 312 377	intersentential transitional states of continuing , retaining and
+T8	OtherScientificTerm 416 421	these
+T9	OtherScientificTerm 468 486	multiple ambiguous
+T10	OtherScientificTerm 498 501	The
+T11	OtherScientificTerm 536 560	an HPSG natural language
+T12	OtherScientificTerm 601 617	a database query
+R0	Feature-of Arg1:T0 Arg2:T2
+R1	Used-for Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T11 Arg2:T12

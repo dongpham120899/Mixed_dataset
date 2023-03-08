@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 19 45	verbal and nonverbal means
+T1	OtherScientificTerm 50 59	grounding
+T2	OtherScientificTerm 87 117	embodied conversational agents
+T3	OtherScientificTerm 147 154	signals
+T4	OtherScientificTerm 168 181	common ground
+T5	OtherScientificTerm 185 211	human-computer interaction
+T6	OtherScientificTerm 226 234	eye gaze
+T7	OtherScientificTerm 237 246	head nods
+T8	OtherScientificTerm 251 268	attentional focus
+T9	OtherScientificTerm 289 310	direction-giving task
+T10	OtherScientificTerm 333 352	nonverbal behaviors
+T11	OtherScientificTerm 387 400	dialogue move
+T12	OtherScientificTerm 476 493	negative feedback
+T13	OtherScientificTerm 535 538	ECA
+T14	OtherScientificTerm 549 584	verbal and nonverbal grounding acts
+T15	OtherScientificTerm 595 609	dialogue state
+R0	Feature-of Arg1:T8 Arg2:T9
+R1	Used-for Arg1:T14 Arg2:T13

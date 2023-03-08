@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 56 75	vocabulary learning
+T1	OtherScientificTerm 127 132	texts
+T2	OtherScientificTerm 142 155	target corpus
+T3	OtherScientificTerm 180 197	target vocabulary
+T4	OtherScientificTerm 236 246	vocabulary
+T5	OtherScientificTerm 288 305	target vocabulary
+T6	OtherScientificTerm 315 332	English Wikipedia
+T7	OtherScientificTerm 372 385	target corpus
+T8	OtherScientificTerm 464 481	target vocabulary
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T6 Arg2:T7

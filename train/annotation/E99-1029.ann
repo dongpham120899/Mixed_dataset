@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 31 54	Tree Adjoining Grammars
+T1	OtherScientificTerm 76 105	extended domain of locality (
+T2	OtherScientificTerm 166 182	need for feature
+T3	OtherScientificTerm 193 204	unification
+T4	OtherScientificTerm 233 271	two wide-coverage lexicalized grammars
+T5	OtherScientificTerm 275 282	English
+T6	OtherScientificTerm 285 291	LEXSYS
+T7	OtherScientificTerm 316 319	the
+T8	OtherScientificTerm 324 332	grammars
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Compare Arg1:T5 Arg2:T6
+R3	Used-for Arg1:T8 Arg2:T7

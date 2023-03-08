@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 30 75	Interagency Language Roundtable ( ILR ) based
+T1	OtherScientificTerm 97 105	This new
+T2	OtherScientificTerm 111 117	design
+T3	OtherScientificTerm 127 152	questions at multiple ILR
+T4	OtherScientificTerm 171 177	within
+T5	OtherScientificTerm 194 236	We incorporated Arabic machine translation
+T6	OtherScientificTerm 244 255	output from
+T7	OtherScientificTerm 311 326	these materials
+T8	OtherScientificTerm 349 353	. We
+T9	OtherScientificTerm 370 379	condition
+T10	OtherScientificTerm 382 390	for both
+T11	OtherScientificTerm 417 452	, with high quality human reference
+T12	OtherScientificTerm 474 488	translations .
+T13	OtherScientificTerm 497 498	,
+T14	OtherScientificTerm 508 516	achieved
+T15	OtherScientificTerm 520 521	%
+T16	OtherScientificTerm 543 546	and
+T17	OtherScientificTerm 552 558	for MT
+T18	OtherScientificTerm 570 580	genres and
+T19	OtherScientificTerm 616 637	, comprehension rates
+T20	OtherScientificTerm 704 711	that we
+T21	OtherScientificTerm 786 791	takes
+T22	OtherScientificTerm 795 796	%
+R0	Compare Arg1:T8 Arg2:T11
+R1	Compare Arg1:T13 Arg2:T15

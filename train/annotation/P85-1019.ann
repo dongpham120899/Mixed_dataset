@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 22 46	restricted domain parser
+T1	OtherScientificTerm 54 59	Plume
+T2	OtherScientificTerm 139 159	Plume 's approach to
+T3	OtherScientificTerm 177 198	on semantic caseframe
+T4	OtherScientificTerm 239 241	of
+T5	OtherScientificTerm 253 267	on grammatical
+T6	OtherScientificTerm 276 279	and
+T7	OtherScientificTerm 303 319	of ungrammatical
+T8	OtherScientificTerm 328 333	While
+T9	OtherScientificTerm 359 392	simple declarative and imperative
+T10	OtherScientificTerm 409 416	handles
+T11	OtherScientificTerm 426 436	, relative
+T12	OtherScientificTerm 445 448	and
+T13	OtherScientificTerm 495 511	patchy syntactic
+T14	OtherScientificTerm 534 542	outlines
+T15	OtherScientificTerm 610 619	extending
+T16	OtherScientificTerm 629 635	handle
+T17	OtherScientificTerm 645 655	, relative
+T18	OtherScientificTerm 666 669	and
+R0	Used-for Arg1:T3 Arg2:T2
+R1	Evaluate-for Arg1:T8 Arg2:T13

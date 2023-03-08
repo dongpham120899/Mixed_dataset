@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 43 80	cognitively well-motivated interfaces
+T1	OtherScientificTerm 106 138	display of graphical information
+T2	OtherScientificTerm 163 184	graphical information
+T3	OtherScientificTerm 361 372	information
+T4	OtherScientificTerm 404 415	information
+T5	OtherScientificTerm 508 535	natural language generation
+T6	OtherScientificTerm 551 562	interaction
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T5 Arg2:T6

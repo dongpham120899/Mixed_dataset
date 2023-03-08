@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 29 52	event-matching strategy
+T1	OtherScientificTerm 59 67	features
+T2	OtherScientificTerm 86 104	transitive closure
+T3	OtherScientificTerm 108 128	dependency relations
+T4	OtherScientificTerm 151 156	model
+T5	OtherScientificTerm 168 183	matching events
+T6	OtherScientificTerm 192 201	F-measure
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T4 Arg2:T5

@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 25 42	sentence analysis
+T1	OtherScientificTerm 64 84	defeasible reasoning
+T2	OtherScientificTerm 121 147	Japanese sentence analyses
+T3	OtherScientificTerm 157 177	argumentation system
+T4	OtherScientificTerm 203 216	formalization
+T5	OtherScientificTerm 220 240	defeasible reasoning
+T6	OtherScientificTerm 257 266	arguments
+T7	OtherScientificTerm 271 283	defeat rules
+T8	OtherScientificTerm 297 310	defeasibility
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T2
+R2	Feature-of Arg1:T4 Arg2:T5
+R3	Feature-of Arg1:T7 Arg2:T8

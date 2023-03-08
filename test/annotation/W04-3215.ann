@@ -1,0 +1,30 @@
+T0	OtherScientificTerm 9 28	dependency recovery
+T1	OtherScientificTerm 72 105	wide-coverage statistical parsers
+T2	OtherScientificTerm 112 144	Combinatory Categorial Grammar (
+T3	OtherScientificTerm 198 202	of a
+T4	OtherScientificTerm 213 224	performance
+T5	OtherScientificTerm 257 260	how
+T6	OtherScientificTerm 279 281	is
+T7	OtherScientificTerm 343 356	evaluation of
+T8	OtherScientificTerm 359 372	ccg parser on
+T9	OtherScientificTerm 391 409	dependencies found
+T10	OtherScientificTerm 432 436	show
+T11	OtherScientificTerm 459 463	used
+T12	OtherScientificTerm 467 482	parse questions
+T13	OtherScientificTerm 496 505	Answering
+T14	OtherScientificTerm 521 523	of
+T15	OtherScientificTerm 528 536	original
+T16	OtherScientificTerm 605 608	for
+T17	OtherScientificTerm 628 630	to
+T18	OtherScientificTerm 646 657	by creating
+T19	OtherScientificTerm 671 682	data at the
+T20	OtherScientificTerm 711 712	.
+T21	OtherScientificTerm 721 732	supertagger
+T22	OtherScientificTerm 736 742	assign
+T23	OtherScientificTerm 802 822	dramatic increase in
+R0	Used-for Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T5 Arg2:T6
+R2	Part-of Arg1:T8 Arg2:T9
+R3	Used-for Arg1:T10 Arg2:T11
+R4	Evaluate-for Arg1:T14 Arg2:T13
+R5	Feature-of Arg1:T21 Arg2:T22

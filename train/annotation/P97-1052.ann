@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 38 83	abstract flat syntactic representations , LFG
+T1	OtherScientificTerm 99 188	as underspecified semantic representations , here Underspecified Discourse Representation
+T2	OtherScientificTerm 212 222	The method
+T3	OtherScientificTerm 263 270	between
+T4	OtherScientificTerm 279 281	of
+T5	OtherScientificTerm 310 323	. It provides
+T6	OtherScientificTerm 332 356	theoretic interpretation
+T7	OtherScientificTerm 386 400	which operates
+T8	OtherScientificTerm 410 412	on
+T9	OtherScientificTerm 444 460	for f-structures
+T10	OtherScientificTerm 469 472	the
+T11	OtherScientificTerm 485 491	images
+R0	Feature-of Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T5 Arg2:T8
+R2	Feature-of Arg1:T9 Arg2:T10

@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 0 19	Language model ( LM
+T1	OtherScientificTerm 46 65	for both speech and
+T2	OtherScientificTerm 122 123	a
+T3	OtherScientificTerm 135 141	with a
+T4	OtherScientificTerm 185 191	to the
+T5	OtherScientificTerm 226 246	work on unsupervised
+T6	OtherScientificTerm 291 321	effectively using named entity
+T7	OtherScientificTerm 351 353	of
+T8	OtherScientificTerm 370 379	the words
+T9	OtherScientificTerm 402 419	. We evaluate two
+T10	OtherScientificTerm 461 466	paper
+T11	OtherScientificTerm 469 492	namely , clustering and
+T12	OtherScientificTerm 534 544	addition ,
+T13	OtherScientificTerm 547 570	new dynamically adapted
+T14	OtherScientificTerm 598 615	mixture models is
+T15	OtherScientificTerm 655 679	Our experimental results
+T16	OtherScientificTerm 707 717	adaptation
+T17	OtherScientificTerm 770 781	best result
+T18	OtherScientificTerm 800 813	the LDA-based
+T19	OtherScientificTerm 823 839	by expanding the
+T20	OtherScientificTerm 900 904	with
+T21	OtherScientificTerm 926 935	of topics
+T22	OtherScientificTerm 983 984	%
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T14 Arg2:T12
+R2	Compare Arg1:T15 Arg2:T16

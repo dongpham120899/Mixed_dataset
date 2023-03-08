@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 35 50	training method
+T1	OtherScientificTerm 57 96	localized phrase-based prediction model
+T2	OtherScientificTerm 101 134	statistical machine translation (
+T3	OtherScientificTerm 141 142	.
+T4	OtherScientificTerm 147 152	model
+T5	OtherScientificTerm 186 201	to handle local
+T6	OtherScientificTerm 226 239	use a maximum
+T7	OtherScientificTerm 264 288	train a log-linear block
+T8	OtherScientificTerm 302 312	which uses
+T9	OtherScientificTerm 336 351	e.g. a language
+T10	OtherScientificTerm 369 376	well as
+T11	OtherScientificTerm 399 401	on
+T12	OtherScientificTerm 463 468	. Our
+T13	OtherScientificTerm 506 514	millions
+T14	OtherScientificTerm 574 578	over
+T15	OtherScientificTerm 595 620	a standard Arabic-English
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T8 Arg2:T7

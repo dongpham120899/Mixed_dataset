@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 0 24	Sentiment Classification
+T1	OtherScientificTerm 54 58	text
+T2	OtherScientificTerm 115 122	subject
+T3	OtherScientificTerm 166 193	machine learning techniques
+T4	OtherScientificTerm 336 358	training and test data
+T5	OtherScientificTerm 375 380	topic
+T6	OtherScientificTerm 512 525	training data
+T7	OtherScientificTerm 539 548	emoticons
+T8	OtherScientificTerm 599 605	domain
+T9	OtherScientificTerm 608 613	topic
+R0	Feature-of Arg1:T5 Arg2:T4
+R1	Feature-of Arg1:T7 Arg2:T6

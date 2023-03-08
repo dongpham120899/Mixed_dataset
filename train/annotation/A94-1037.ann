@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 22 41	spelling correction
+T1	OtherScientificTerm 46 55	languages
+T2	OtherScientificTerm 61 68	English
+T3	OtherScientificTerm 146 169	agglutinative languages
+T4	OtherScientificTerm 208 227	spelling correction
+T5	OtherScientificTerm 231 254	agglutinative languages
+T6	OtherScientificTerm 272 292	two-level morphology
+T7	OtherScientificTerm 299 341	dynamic-programming based search algorithm
+T8	OtherScientificTerm 421 440	spelling correction
+T9	OtherScientificTerm 444 451	Turkish
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T8 Arg2:T9

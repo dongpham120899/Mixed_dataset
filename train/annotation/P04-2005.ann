@@ -1,0 +1,23 @@
+T0	OtherScientificTerm 56 80	English topic signatures
+T1	OtherScientificTerm 102 109	concept
+T2	OtherScientificTerm 115 125	word sense
+T3	OtherScientificTerm 130 145	topic signature
+T4	OtherScientificTerm 158 163	words
+T5	OtherScientificTerm 196 212	Topic signatures
+T6	OtherScientificTerm 242 275	Natural Language Processing ( NLP
+T7	OtherScientificTerm 293 311	such as Word Sense
+T8	OtherScientificTerm 327 332	( WSD
+T9	OtherScientificTerm 394 407	different way
+T10	OtherScientificTerm 422 428	senses
+T11	OtherScientificTerm 433 444	lexicalised
+T12	OtherScientificTerm 488 497	the large
+T13	OtherScientificTerm 508 515	Chinese
+T14	OtherScientificTerm 557 561	. We
+T15	OtherScientificTerm 576 592	topic signatures
+T16	OtherScientificTerm 609 627	where we trained a
+T17	OtherScientificTerm 641 670	vector cooccurrence algorithm
+R0	Part-of Arg1:T4 Arg2:T3
+R1	Used-for Arg1:T5 Arg2:T6
+R2	Part-of Arg1:T9 Arg2:T10
+R3	Part-of Arg1:T12 Arg2:T13
+R4	Used-for Arg1:T14 Arg2:T15

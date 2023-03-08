@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 43 69	human-machine interactions
+T1	OtherScientificTerm 75 103	natural language environment
+T2	OtherScientificTerm 116 123	speaker
+T3	OtherScientificTerm 128 136	listener
+T4	OtherScientificTerm 173 180	beliefs
+T5	OtherScientificTerm 183 191	contexts
+T6	OtherScientificTerm 194 205	perceptions
+T7	OtherScientificTerm 208 219	backgrounds
+T8	OtherScientificTerm 225 230	goals
+T9	OtherScientificTerm 252 264	conversation
+T10	OtherScientificTerm 306 314	listener
+T11	OtherScientificTerm 328 338	speaker 's
+T12	OtherScientificTerm 413 420	between
+T13	OtherScientificTerm 429 432	and
+T14	OtherScientificTerm 444 463	including reference
+T15	OtherScientificTerm 498 509	the speaker
+T16	OtherScientificTerm 533 538	these
+T17	OtherScientificTerm 620 624	down
+T18	OtherScientificTerm 672 679	isolate
+T19	OtherScientificTerm 760 765	class
+T20	OtherScientificTerm 769 789	miscommunication ---
+T21	OtherScientificTerm 855 876	for avoiding failures
+T22	OtherScientificTerm 964 972	allowing
+T23	OtherScientificTerm 993 1000	forming
+T24	OtherScientificTerm 1119 1127	view for
+R0	Feature-of Arg1:T1 Arg2:T0
+R1	Compare Arg1:T2 Arg2:T3

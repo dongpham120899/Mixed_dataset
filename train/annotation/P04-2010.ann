@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 28 54	ensemble learning approach
+T1	OtherScientificTerm 68 83	German pronouns
+T2	OtherScientificTerm 86 94	Boosting
+T3	OtherScientificTerm 155 165	hypotheses
+T4	OtherScientificTerm 177 188	classifiers
+T5	OtherScientificTerm 281 305	decision-tree classifier
+T6	OtherScientificTerm 335 352	standalone system
+T7	OtherScientificTerm 367 375	pronouns
+T8	OtherScientificTerm 379 395	unannotated text
+T9	OtherScientificTerm 435 456	preprocessing modules
+T10	OtherScientificTerm 473 498	manual annotation process
+T11	OtherScientificTerm 552 566	textual domain
+T12	OtherScientificTerm 621 651	open-domain question answering
+T13	OtherScientificTerm 656 674	text summarisation
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T6 Arg2:T8
+R2	Compare Arg1:T11 Arg2:T12

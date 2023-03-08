@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 51 64	RTE Challenge
+T1	OtherScientificTerm 71 87	SALSA RTE system
+T2	OtherScientificTerm 143 167	deep linguistic analysis
+T3	OtherScientificTerm 197 214	shallow component
+T4	OtherScientificTerm 224 236	word overlap
+T5	OtherScientificTerm 293 302	data sets
+T6	OtherScientificTerm 360 368	features
+T7	OtherScientificTerm 382 398	overall accuracy
+R0	Used-for Arg1:T4 Arg2:T3
+R1	Evaluate-for Arg1:T6 Arg2:T7

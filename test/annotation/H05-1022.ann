@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 0 16	HMM-based models
+T1	OtherScientificTerm 39 48	alignment
+T2	OtherScientificTerm 52 57	words
+T3	OtherScientificTerm 62 69	phrases
+T4	OtherScientificTerm 73 79	bitext
+T5	OtherScientificTerm 86 92	models
+T6	OtherScientificTerm 116 125	alignment
+T7	OtherScientificTerm 130 150	parameter estimation
+T8	OtherScientificTerm 195 237	Chinese-English word alignment performance
+T9	OtherScientificTerm 263 274	IBM Model-4
+T10	OtherScientificTerm 291 307	training bitexts
+T11	OtherScientificTerm 310 322	Phrase pairs
+T12	OtherScientificTerm 338 353	word alignments
+T13	OtherScientificTerm 374 379	model
+T14	OtherScientificTerm 401 425	phrase-based translation
+T15	OtherScientificTerm 435 487	Chinese to English and Arabic to English translation
+T16	OtherScientificTerm 490 501	performance
+T17	OtherScientificTerm 519 526	systems
+T18	OtherScientificTerm 536 554	Model-4 alignments
+T19	OtherScientificTerm 557 585	Direct phrase pair induction
+T20	OtherScientificTerm 596 601	model
+T21	OtherScientificTerm 636 659	translation performance
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Compare Arg1:T8 Arg2:T9
+R2	Part-of Arg1:T11 Arg2:T12
+R3	Used-for Arg1:T18 Arg2:T17

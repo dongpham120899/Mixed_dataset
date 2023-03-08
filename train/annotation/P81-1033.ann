@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 2 17	flexible parser
+T1	OtherScientificTerm 61 68	grammar
+T2	OtherScientificTerm 131 137	parser
+T3	OtherScientificTerm 241 251	correction
+T4	OtherScientificTerm 431 440	ambiguity
+T5	OtherScientificTerm 498 504	parser
+T6	OtherScientificTerm 630 649	Focused interaction
+T7	OtherScientificTerm 683 713	construction-specific approach
+T8	OtherScientificTerm 717 733	flexible parsing
+T9	OtherScientificTerm 741 771	specialized parsing techniques
+T10	OtherScientificTerm 789 801	construction
+T11	OtherScientificTerm 820 845	ambiguity representations
+T12	OtherScientificTerm 863 872	ambiguity
+T13	OtherScientificTerm 891 903	construction
+T14	OtherScientificTerm 925 955	construction-specific approach
+T15	OtherScientificTerm 969 1003	task-specific language development
+T16	OtherScientificTerm 1018 1037	language definition
+T17	OtherScientificTerm 1070 1081	task domain
+T18	OtherScientificTerm 1136 1161	uniform grammar formalism
+T19	OtherScientificTerm 1190 1197	testing
+T20	OtherScientificTerm 1216 1235	language definition
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T9 Arg2:T10
+R3	Feature-of Arg1:T11 Arg2:T12
+R4	Used-for Arg1:T14 Arg2:T15

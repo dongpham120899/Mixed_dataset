@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 30 55	location of a constituent
+T1	OtherScientificTerm 65 88	discontinuous locations
+T2	OtherScientificTerm 112 138	discontinuous constituents
+T3	OtherScientificTerm 142 171	non-configurational languages
+T4	OtherScientificTerm 180 206	discontinuous constituents
+T5	OtherScientificTerm 240 264	definite clause grammars
+T6	OtherScientificTerm 277 285	grammars
+T7	OtherScientificTerm 320 335	proof procedure
+T8	OtherScientificTerm 348 388	parser for non-configurational languages
+R0	Part-of Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T5 Arg2:T4
+R2	Used-for Arg1:T6 Arg2:T8

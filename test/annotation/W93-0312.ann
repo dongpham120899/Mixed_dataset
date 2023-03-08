@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 23 46	sense tagging technique
+T1	OtherScientificTerm 55 78	automatic sense tagging
+T2	OtherScientificTerm 82 102	running Chinese text
+T3	OtherScientificTerm 131 151	running Chinese text
+T4	OtherScientificTerm 166 190	sense disambiguated text
+T5	OtherScientificTerm 338 377	Machine Readable/Tractable Dictionaries
+T6	OtherScientificTerm 426 459	example-based reasoning technique
+T7	OtherScientificTerm 509 520	novel words
+T8	OtherScientificTerm 523 537	compound words
+T9	OtherScientificTerm 544 551	phrases
+T10	OtherScientificTerm 565 575	input text
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T9 Arg2:T10

@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 38 74	context-sensitive , phrase structure
+T1	OtherScientificTerm 103 126	a best-path , bottom-up
+T2	OtherScientificTerm 143 149	parser
+T3	OtherScientificTerm 164 176	was based on
+T4	OtherScientificTerm 216 218	of
+T5	OtherScientificTerm 267 275	research
+T6	OtherScientificTerm 355 374	the construction of
+T7	OtherScientificTerm 382 403	structure grammar for
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T5 Arg2:T6

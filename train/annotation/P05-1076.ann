@@ -1,0 +1,36 @@
+T0	OtherScientificTerm 29 35	system
+T1	OtherScientificTerm 40 85	acquiring adjectival subcategorization frames
+T2	OtherScientificTerm 88 92	scfs
+T3	OtherScientificTerm 137 144	English
+T4	OtherScientificTerm 145 156	corpus data
+T5	OtherScientificTerm 163 169	system
+T6	OtherScientificTerm 185 209	decision-tree classifier
+T7	OtherScientificTerm 217 226	scf types
+T8	OtherScientificTerm 259 280	grammatical relations
+T9	OtherScientificTerm 283 286	grs
+T10	OtherScientificTerm 296 302	output
+T11	OtherScientificTerm 315 333	statistical parser
+T12	OtherScientificTerm 355 380	pattern-matching language
+T13	OtherScientificTerm 393 396	grs
+T14	OtherScientificTerm 402 408	frames
+T15	OtherScientificTerm 446 470	inheritance-based lexica
+T16	OtherScientificTerm 477 488	experiments
+T17	OtherScientificTerm 503 509	system
+T18	OtherScientificTerm 528 537	scf types
+T19	OtherScientificTerm 543 547	70 %
+T20	OtherScientificTerm 558 566	and 66 %
+T21	OtherScientificTerm 581 582	A
+T22	OtherScientificTerm 587 595	tool for
+T23	OtherScientificTerm 607 617	annotation
+T24	OtherScientificTerm 621 628	scfs in
+T25	OtherScientificTerm 705 730	of obtaining training and
+T26	OtherScientificTerm 736 744	data for
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Part-of Arg1:T6 Arg2:T5
+R3	Part-of Arg1:T8 Arg2:T10
+R4	Feature-of Arg1:T14 Arg2:T13
+R5	Evaluate-for Arg1:T17 Arg2:T19
+R6	Used-for Arg1:T21 Arg2:T22
+R7	Part-of Arg1:T23 Arg2:T24
+R8	Used-for Arg1:T25 Arg2:T26

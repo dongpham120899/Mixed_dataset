@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 22 26	Paul
+T1	OtherScientificTerm 31 62	computer text generation system
+T2	OtherScientificTerm 82 95	cohesive text
+T3	OtherScientificTerm 115 136	lexical substitutions
+T4	OtherScientificTerm 214 231	pronominalization
+T5	OtherScientificTerm 234 260	superordinate substitution
+T6	OtherScientificTerm 276 299	noun phrase reiteration
+T7	OtherScientificTerm 338 358	antecedence recovery
+T8	OtherScientificTerm 375 396	lexical substitutions
+T9	OtherScientificTerm 428 461	strength of potential antecedence
+T10	OtherScientificTerm 485 489	text
+T11	OtherScientificTerm 511 524	substitutions
+R0	Used-for Arg1:T3 Arg2:T1
+R1	Compare Arg1:T4 Arg2:T5
+R2	Feature-of Arg1:T7 Arg2:T8
+R3	Feature-of Arg1:T9 Arg2:T11

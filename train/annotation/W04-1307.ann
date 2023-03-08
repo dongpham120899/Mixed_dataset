@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 23 42	computational model
+T1	OtherScientificTerm 46 63	word segmentation
+T2	OtherScientificTerm 99 120	realistic acquisition
+T3	OtherScientificTerm 182 213	statistical learning mechanisms
+T4	OtherScientificTerm 254 274	cognitive psychology
+T5	OtherScientificTerm 279 290	linguistics
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T4

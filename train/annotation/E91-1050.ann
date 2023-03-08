@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 0 11	Unification
+T1	OtherScientificTerm 59 68	relations
+T2	OtherScientificTerm 77 92	representations
+T3	OtherScientificTerm 108 126	feature structures
+T4	OtherScientificTerm 210 231	declarative formalism
+T5	OtherScientificTerm 266 274	mappings
+T6	OtherScientificTerm 282 299	feature structure
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T4 Arg2:T5

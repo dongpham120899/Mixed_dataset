@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 26 47	compilation algorithm
+T1	OtherScientificTerm 64 68	HPSG
+T2	OtherScientificTerm 74 103	lexicalized feature-based TAG
+T3	OtherScientificTerm 135 143	theories
+T4	OtherScientificTerm 152 156	HPSG
+T5	OtherScientificTerm 179 201	principle-based theory
+T6	OtherScientificTerm 214 231	phrase structures
+T7	OtherScientificTerm 234 237	TAG
+T8	OtherScientificTerm 270 292	lexicalized structures
+T9	OtherScientificTerm 381 405	projection of structures
+T10	OtherScientificTerm 415 422	lexicon
+T11	OtherScientificTerm 438 457	maximal projections
+T12	OtherScientificTerm 460 475	auxiliary trees
+T13	OtherScientificTerm 480 490	foot nodes
+R0	Part-of Arg1:T5 Arg2:T4
+R1	Used-for Arg1:T7 Arg2:T8
+R2	Part-of Arg1:T9 Arg2:T10

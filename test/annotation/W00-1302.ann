@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 45 69	scientific argumentation
+T1	OtherScientificTerm 108 131	automatic summarization
+T2	OtherScientificTerm 139 161	automated construction
+T3	OtherScientificTerm 165 181	citation indexes
+T4	OtherScientificTerm 267 287	scientific statement
+T5	OtherScientificTerm 480 498	textual properties
+T6	OtherScientificTerm 529 552	argumentative structure
+T7	OtherScientificTerm 558 562	text
+T8	OtherScientificTerm 634 645	occurrences
+T9	OtherScientificTerm 649 668	prototypical agents
+T10	OtherScientificTerm 690 705	scientific text
+R0	Feature-of Arg1:T6 Arg2:T7

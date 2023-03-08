@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 23 51	monolingual parallel corpora
+T1	OtherScientificTerm 76 87	paraphrases
+T2	OtherScientificTerm 131 157	bilingual parallel corpora
+T3	OtherScientificTerm 191 199	resource
+T4	OtherScientificTerm 208 228	alignment techniques
+T5	OtherScientificTerm 234 278	phrase-based statistical machine translation
+T6	OtherScientificTerm 293 304	paraphrases
+T7	OtherScientificTerm 312 320	language
+T8	OtherScientificTerm 347 353	phrase
+T9	OtherScientificTerm 399 421	paraphrase probability
+T10	OtherScientificTerm 434 445	paraphrases
+T11	OtherScientificTerm 463 488	bilingual parallel corpus
+T12	OtherScientificTerm 508 533	translation probabilities
+T13	OtherScientificTerm 575 597	contextual information
+T14	OtherScientificTerm 629 670	paraphrase extraction and ranking methods
+T15	OtherScientificTerm 686 708	manual word alignments
+T16	OtherScientificTerm 728 735	quality
+T17	OtherScientificTerm 741 752	paraphrases
+T18	OtherScientificTerm 768 788	automatic alignments
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T10 Arg2:T11
+R2	Part-of Arg1:T17 Arg2:T18

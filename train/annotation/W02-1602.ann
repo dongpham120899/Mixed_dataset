@@ -1,0 +1,41 @@
+T0	OtherScientificTerm 0 9	Coedition
+T1	OtherScientificTerm 15 36	natural language text
+T2	OtherScientificTerm 68 85	interlingual form
+T3	OtherScientificTerm 127 140	text revision
+T4	OtherScientificTerm 148 157	languages
+T5	OtherScientificTerm 182 192	UNL graphs
+T6	OtherScientificTerm 255 264	prototype
+T7	OtherScientificTerm 289 305	sharing scenario
+T8	OtherScientificTerm 347 351	text
+T9	OtherScientificTerm 361 371	language (
+T10	OtherScientificTerm 399 402	the
+T11	OtherScientificTerm 422 425	The
+T12	OtherScientificTerm 454 460	to the
+T13	OtherScientificTerm 556 558	to
+T14	OtherScientificTerm 575 577	to
+T15	OtherScientificTerm 596 599	and
+T16	OtherScientificTerm 613 617	sent
+T17	OtherScientificTerm 634 636	in
+T18	OtherScientificTerm 667 671	some
+T19	OtherScientificTerm 808 812	with
+T20	OtherScientificTerm 825 829	tags
+T21	OtherScientificTerm 845 860	in the original
+T22	OtherScientificTerm 932 934	on
+T23	OtherScientificTerm 1034 1036	of
+T24	OtherScientificTerm 1046 1049	and
+T25	OtherScientificTerm 1102 1129	as a LO-English or better a
+T26	OtherScientificTerm 1148 1174	, a morphosyntactic parser
+T27	OtherScientificTerm 1183 1198	and a canonical
+T28	OtherScientificTerm 1274 1277	the
+T29	OtherScientificTerm 1298 1303	the "
+T30	OtherScientificTerm 1322 1323	,
+T31	OtherScientificTerm 1348 1353	using
+T32	OtherScientificTerm 1383 1388	align
+T33	OtherScientificTerm 1402 1405	the
+T34	OtherScientificTerm 1431 1437	as few
+T35	OtherScientificTerm 1514 1529	approaches from
+T36	OtherScientificTerm 1536 1540	MT ,
+T37	OtherScientificTerm 1556 1574	, and multilingual
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T9 Arg2:T8
+R2	Feature-of Arg1:T34 Arg2:T32

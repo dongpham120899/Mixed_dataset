@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 22 34	corpus study
+T1	OtherScientificTerm 131 150	information graphic
+T2	OtherScientificTerm 185 214	graphic interpretation system
+T3	OtherScientificTerm 252 273	communicative signals
+T4	OtherScientificTerm 336 354	shallow processing
+T5	OtherScientificTerm 496 516	sight-impaired users
+T6	OtherScientificTerm 542 562	information graphics
+R0	Used-for Arg1:T3 Arg2:T2

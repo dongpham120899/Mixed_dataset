@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 35 56	automatic acquisition
+T1	OtherScientificTerm 60 80	entailment relations
+T2	OtherScientificTerm 89 94	verbs
+T3	OtherScientificTerm 137 160	paraphrases acquisition
+T4	OtherScientificTerm 184 204	semantic equivalence
+T5	OtherScientificTerm 213 218	verbs
+T6	OtherScientificTerm 243 265	entailment acquisition
+T7	OtherScientificTerm 280 307	asymmetric , or directional
+T8	OtherScientificTerm 363 376	underlies the
+T9	OtherScientificTerm 383 395	structure of
+T10	OtherScientificTerm 432 446	that discovers
+T11	OtherScientificTerm 469 483	evidence about
+T12	OtherScientificTerm 494 503	relations
+T13	OtherScientificTerm 530 534	in a
+T14	OtherScientificTerm 625 638	range of verb
+T15	OtherScientificTerm 660 666	learns
+T16	OtherScientificTerm 671 678	mapping
+T17	OtherScientificTerm 698 711	highly varied
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T4 Arg2:T5
+R2	Conjunction Arg1:T6 Arg2:T7
+R3	Feature-of Arg1:T8 Arg2:T9
+R4	Feature-of Arg1:T11 Arg2:T12
+R5	Feature-of Arg1:T16 Arg2:T17

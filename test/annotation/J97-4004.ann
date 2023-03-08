@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 31 48	mapping sentences
+T1	OtherScientificTerm 54 71	character strings
+T2	OtherScientificTerm 77 93	strings of words
+T3	OtherScientificTerm 134 146	tokenization
+T4	OtherScientificTerm 171 183	tokenization
+T5	OtherScientificTerm 219 231	tokenization
+T6	OtherScientificTerm 398 426	unambiguous token boundaries
+T7	OtherScientificTerm 435 451	character string
+T8	OtherScientificTerm 466 476	dictionary
+T9	OtherScientificTerm 500 521	tokenized word string
+T10	OtherScientificTerm 579 601	tokenized word strings
+T11	OtherScientificTerm 622 633	word string
+T12	OtherScientificTerm 640 648	relation
+T13	OtherScientificTerm 661 677	tokenized string
+T14	OtherScientificTerm 714 735	tokenized word string
+T15	OtherScientificTerm 772 790	tokenization forms
+T16	OtherScientificTerm 842 864	tokenization ambiguity
+T17	OtherScientificTerm 995 1006	ambiguities
+T18	OtherScientificTerm 1038 1061	tokenization variations
+T19	OtherScientificTerm 1123 1135	tokenization
+T20	OtherScientificTerm 1174 1186	tokenization
+T21	OtherScientificTerm 1217 1229	tokenization
+T22	OtherScientificTerm 1302 1314	tokenization
+T23	OtherScientificTerm 1379 1391	tokenization
+T24	OtherScientificTerm 1405 1425	ambiguity resolution
+T25	OtherScientificTerm 1443 1455	tokenization
+R0	Used-for Arg1:T0 Arg2:T1

@@ -1,0 +1,37 @@
+T0	OtherScientificTerm 67 87	conceptual structure
+T1	OtherScientificTerm 96 100	word
+T2	OtherScientificTerm 106 112	corpus
+T3	OtherScientificTerm 119 126	concept
+T4	OtherScientificTerm 132 136	word
+T5	OtherScientificTerm 159 182	probabilistic framework
+T6	OtherScientificTerm 200 210	Belief Net
+T7	OtherScientificTerm 220 235	Collocation Map
+T8	OtherScientificTerm 259 272	probabilities
+T9	OtherScientificTerm 279 289	Belief Net
+T10	OtherScientificTerm 303 328	conditional independences
+T11	OtherScientificTerm 332 337	words
+T12	OtherScientificTerm 367 389	cooccurrence relations
+T13	OtherScientificTerm 396 407	computation
+T14	OtherScientificTerm 419 430	Belief Nets
+T15	OtherScientificTerm 470 484	Gibbs sampling
+T16	OtherScientificTerm 493 506	approximation
+T17	OtherScientificTerm 514 527	probabilities
+T18	OtherScientificTerm 540 550	Belief Net
+T19	OtherScientificTerm 564 579	lexical meaning
+T20	OtherScientificTerm 602 609	network
+T21	OtherScientificTerm 648 660	applications
+T22	OtherScientificTerm 711 721	Belief Net
+T23	OtherScientificTerm 728 743	lexical concept
+T24	OtherScientificTerm 762 777	Collocation Map
+T25	OtherScientificTerm 796 805	subdomain
+T26	OtherScientificTerm 809 823	language usage
+T27	OtherScientificTerm 855 880	conditional probabilities
+T28	OtherScientificTerm 885 900	Collocation Map
+T29	OtherScientificTerm 952 971	language processing
+T30	OtherScientificTerm 980 1000	sense disambiguation
+T31	OtherScientificTerm 1003 1025	thesaurus construction
+T32	OtherScientificTerm 1028 1046	automatic indexing
+T33	OtherScientificTerm 1053 1076	document classification
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T23 Arg2:T24
+R2	Used-for Arg1:T27 Arg2:T29

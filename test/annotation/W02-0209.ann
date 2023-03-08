@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 17 26	framework
+T1	OtherScientificTerm 52 83	mixed-initiative dialog systems
+T2	OtherScientificTerm 97 106	framework
+T3	OtherScientificTerm 146 160	dialog systems
+T4	OtherScientificTerm 174 197	channels of interaction
+T5	OtherScientificTerm 215 235	interaction modality
+T6	OtherScientificTerm 245 259	task hierarchy
+T7	OtherScientificTerm 264 279	task parameters
+T8	OtherScientificTerm 286 309	domain-specific modules
+T9	OtherScientificTerm 316 325	framework
+T10	OtherScientificTerm 337 351	dialog history
+T11	OtherScientificTerm 410 419	framework
+T12	OtherScientificTerm 451 470	application domains
+R0	Part-of Arg1:T10 Arg2:T9
+R1	Used-for Arg1:T11 Arg2:T12

@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 13 31	text mining method
+T1	OtherScientificTerm 44 66	synonymous expressions
+T2	OtherScientificTerm 80 105	distributional hypothesis
+T3	OtherScientificTerm 127 134	corpora
+T4	OtherScientificTerm 190 198	accuracy
+T5	OtherScientificTerm 204 227	term aggregation system
+T6	OtherScientificTerm 249 253	text
+T7	OtherScientificTerm 268 274	corpus
+T8	OtherScientificTerm 344 354	expression
+T9	OtherScientificTerm 363 370	meaning
+T10	OtherScientificTerm 415 420	words
+T11	OtherScientificTerm 426 450	similar context features
+T12	OtherScientificTerm 469 475	corpus
+T13	OtherScientificTerm 491 513	synonymous expressions
+T14	OtherScientificTerm 549 557	accuracy
+T15	OtherScientificTerm 565 588	term aggregation system
+R0	Used-for Arg1:T2 Arg2:T0
+R1	Evaluate-for Arg1:T5 Arg2:T4
+R2	Used-for Arg1:T6 Arg2:T7
+R3	Feature-of Arg1:T9 Arg2:T8
+R4	Feature-of Arg1:T11 Arg2:T10
+R5	Evaluate-for Arg1:T15 Arg2:T14

@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 4 35	knowledge representation method
+T1	OtherScientificTerm 71 82	ICAI system
+T2	OtherScientificTerm 92 112	programming language
+T3	OtherScientificTerm 115 124	Knowledge
+T4	OtherScientificTerm 131 137	syntax
+T5	OtherScientificTerm 142 151	semantics
+T6	OtherScientificTerm 160 168	language
+T7	OtherScientificTerm 196 202	axioms
+T8	OtherScientificTerm 218 245	predicate calculus language
+T9	OtherScientificTerm 252 266	directed graph
+T10	OtherScientificTerm 270 278	concepts
+T11	OtherScientificTerm 351 367	domain knowledge
+T12	OtherScientificTerm 374 389	proof procedure
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T9 Arg2:T10

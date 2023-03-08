@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 100 122	electronic discussions
+T1	OtherScientificTerm 141 163	help-desk applications
+T2	OtherScientificTerm 221 230	summaries
+T3	OtherScientificTerm 301 309	features
+T4	OtherScientificTerm 313 335	electronic discussions
+T5	OtherScientificTerm 355 373	clustering process
+T6	OtherScientificTerm 388 407	filtering mechanism
+T7	OtherScientificTerm 433 443	influences
+T8	OtherScientificTerm 460 494	clustering and filtering processes
+T9	OtherScientificTerm 498 530	electronic newsgroup discussions
+T10	OtherScientificTerm 553 564	performance
+T11	OtherScientificTerm 595 618	coarse-level clustering
+T12	OtherScientificTerm 626 647	information retrieval
+R0	Feature-of Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T8 Arg2:T9
+R2	Evaluate-for Arg1:T11 Arg2:T10

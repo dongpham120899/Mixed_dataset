@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 0 17	Spelling-checkers
+T1	OtherScientificTerm 55 79	text processing software
+T2	OtherScientificTerm 176 202	dictionaries of word forms
+T3	OtherScientificTerm 214 219	words
+T4	OtherScientificTerm 276 286	inflection
+T5	OtherScientificTerm 295 302	English
+T6	OtherScientificTerm 319 346	highly inflective languages
+T7	OtherScientificTerm 355 360	Czech
+T8	OtherScientificTerm 363 370	Russian
+T9	OtherScientificTerm 373 379	Slovak
+T10	OtherScientificTerm 389 407	Slavonic languages
+T11	OtherScientificTerm 460 470	inflection
+T12	OtherScientificTerm 499 516	spelling-checkers
+T13	OtherScientificTerm 627 644	spelling-checkers
+T14	OtherScientificTerm 649 656	English
+T15	OtherScientificTerm 670 680	dictionary
+T16	OtherScientificTerm 704 709	360 K
+T17	OtherScientificTerm 741 756	recognized word
+T18	OtherScientificTerm 783 786	for
+T19	OtherScientificTerm 847 856	easy word
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Compare Arg1:T2 Arg2:T3
+R2	Feature-of Arg1:T4 Arg2:T5
+R3	Feature-of Arg1:T6 Arg2:T7
+R4	Used-for Arg1:T13 Arg2:T14
+R5	Part-of Arg1:T17 Arg2:T18

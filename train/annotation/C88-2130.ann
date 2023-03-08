@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 20 39	computational model
+T1	OtherScientificTerm 122 136	discourse task
+T2	OtherScientificTerm 196 201	model
+T3	OtherScientificTerm 229 232	APT
+T4	OtherScientificTerm 308 347	organizational and discourse strategies
+T5	OtherScientificTerm 380 386	corpus
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3

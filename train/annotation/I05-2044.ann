@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 7 23	Chinese language
+T1	OtherScientificTerm 28 32	verb
+T2	OtherScientificTerm 46 56	dependents
+T3	OtherScientificTerm 100 120	ambiguity resolution
+T4	OtherScientificTerm 124 147	right-side dependencies
+T5	OtherScientificTerm 165 183	dependency parsing
+T6	OtherScientificTerm 187 196	sentences
+T7	OtherScientificTerm 214 219	verbs
+T8	OtherScientificTerm 240 271	shift-reduce dependency parsers
+T9	OtherScientificTerm 294 306	connectivity
+T10	OtherScientificTerm 312 327	dependency tree
+T11	OtherScientificTerm 367 390	right-side dependencies
+T12	OtherScientificTerm 415 455	two-phase shift-reduce dependency parser
+T13	OtherScientificTerm 465 477	SVM learning
+T14	OtherScientificTerm 484 504	left-side dependents
+T15	OtherScientificTerm 509 538	right-side nominal dependents
+T16	OtherScientificTerm 569 597	right-side verbal dependents
+T17	OtherScientificTerm 694 725	shift-reduce dependency parsers
+T18	OtherScientificTerm 734 748	Chine language
+T19	OtherScientificTerm 774 793	dependency accuracy
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T3 Arg2:T5
+R2	Part-of Arg1:T7 Arg2:T6
+R3	Feature-of Arg1:T9 Arg2:T10
+R4	Used-for Arg1:T13 Arg2:T12
+R5	Used-for Arg1:T17 Arg2:T18

@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 6 18	paraphrasing
+T1	OtherScientificTerm 40 89	interpretation and generation of natural language
+T2	OtherScientificTerm 156 167	paraphrases
+T3	OtherScientificTerm 184 215	unsupervised learning algorithm
+T4	OtherScientificTerm 220 249	identification of paraphrases
+T5	OtherScientificTerm 257 296	corpus of multiple English translations
+T6	OtherScientificTerm 309 320	source text
+T7	OtherScientificTerm 343 386	phrasal and single word lexical paraphrases
+T8	OtherScientificTerm 398 419	syntactic paraphrases
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T4

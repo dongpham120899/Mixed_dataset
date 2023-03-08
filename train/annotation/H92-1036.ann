@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 11 42	maximum a posteriori estimation
+T1	OtherScientificTerm 46 87	continuous density hidden Markov models (
+T2	OtherScientificTerm 98 115	The classical MLE
+T3	OtherScientificTerm 142 152	namely the
+T4	OtherScientificTerm 180 197	and the segmental
+T5	OtherScientificTerm 222 234	expanded and
+T6	OtherScientificTerm 261 296	given for HMM with Gaussian mixture
+T7	OtherScientificTerm 345 353	nature ,
+T8	OtherScientificTerm 409 423	following four
+T9	OtherScientificTerm 456 464	, namely
+T10	OtherScientificTerm 475 486	smoothing ,
+T11	OtherScientificTerm 495 515	adaptation , speaker
+T12	OtherScientificTerm 522 534	modeling and
+T13	OtherScientificTerm 646 656	of the MAP
+R0	Used-for Arg1:T5 Arg2:T6
+R1	Used-for Arg1:T7 Arg2:T8

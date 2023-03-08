@@ -1,0 +1,19 @@
+T0	OtherScientificTerm 47 74	machine learning techniques
+T1	OtherScientificTerm 86 99	comma checker
+T2	OtherScientificTerm 122 137	grammar checker
+T3	OtherScientificTerm 142 148	Basque
+T4	OtherScientificTerm 205 211	corpus
+T5	OtherScientificTerm 223 228	words
+T6	OtherScientificTerm 272 278	commas
+T7	OtherScientificTerm 286 295	precision
+T8	OtherScientificTerm 310 316	recall
+T9	OtherScientificTerm 342 351	precision
+T10	OtherScientificTerm 366 372	recall
+T11	OtherScientificTerm 404 410	commas
+T12	OtherScientificTerm 510 516	corpus
+T13	OtherScientificTerm 547 553	corpus
+T14	OtherScientificTerm 576 582	author
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Part-of Arg1:T5 Arg2:T4
+R3	Feature-of Arg1:T14 Arg2:T13

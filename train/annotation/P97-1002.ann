@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 20 51	Boolean matrix multiplication (
+T1	OtherScientificTerm 65 73	used for
+T2	OtherScientificTerm 104 112	result :
+T3	OtherScientificTerm 125 135	running in
+T4	OtherScientificTerm 153 157	) on
+T5	OtherScientificTerm 168 173	G and
+T6	OtherScientificTerm 192 212	used to multiply m x
+T7	OtherScientificTerm 215 231	Boolean matrices
+T8	OtherScientificTerm 268 275	we also
+T9	OtherScientificTerm 284 285	a
+T10	OtherScientificTerm 395 412	first limitations
+T11	OtherScientificTerm 438 444	a fast
+T12	OtherScientificTerm 480 486	a fast
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T3 Arg2:T2
+R2	Feature-of Arg1:T8 Arg2:T9
+R3	Evaluate-for Arg1:T11 Arg2:T12

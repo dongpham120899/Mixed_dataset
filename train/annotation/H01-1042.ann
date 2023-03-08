@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 65 96	automated evaluation techniques
+T1	OtherScientificTerm 140 163	human language learners
+T2	OtherScientificTerm 173 179	output
+T3	OtherScientificTerm 183 207	machine translation ( MT
+T4	OtherScientificTerm 231 241	that these
+T5	OtherScientificTerm 295 318	both the human language
+T6	OtherScientificTerm 336 341	, the
+T7	OtherScientificTerm 362 365	and
+T8	OtherScientificTerm 370 392	development of machine
+T9	OtherScientificTerm 478 480	at
+T10	OtherScientificTerm 485 503	intelligibility of
+T11	OtherScientificTerm 514 526	. A language
+T12	OtherScientificTerm 547 553	showed
+T13	OtherScientificTerm 569 609	can differentiate native from non-native
+T14	OtherScientificTerm 634 638	than
+T15	OtherScientificTerm 693 698	which
+T16	OtherScientificTerm 817 841	experiment using machine
+T17	OtherScientificTerm 902 924	extracts of translated
+T18	OtherScientificTerm 953 973	extracts were expert
+T19	OtherScientificTerm 995 1014	others were machine
+T20	OtherScientificTerm 1143 1155	be an expert
+T21	OtherScientificTerm 1174 1178	or a
+T22	OtherScientificTerm 1235 1239	mark
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Feature-of Arg1:T9 Arg2:T10

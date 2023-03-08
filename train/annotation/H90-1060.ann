@@ -1,0 +1,45 @@
+T0	OtherScientificTerm 43 89	large vocabulary continuous speech recognition
+T1	OtherScientificTerm 130 154	speaker-independent ( SI
+T2	OtherScientificTerm 157 182	training of hidden Markov
+T3	OtherScientificTerm 211 212	a
+T4	OtherScientificTerm 229 235	speech
+T5	OtherScientificTerm 292 294	of
+T6	OtherScientificTerm 303 309	little
+T7	OtherScientificTerm 350 363	, combination
+T8	OtherScientificTerm 392 396	done
+T9	OtherScientificTerm 400 424	averaging the statistics
+T10	OtherScientificTerm 479 489	pooling of
+T11	OtherScientificTerm 498 504	speech
+T12	OtherScientificTerm 515 519	many
+T13	OtherScientificTerm 547 553	. With
+T14	OtherScientificTerm 559 570	12 training
+T15	OtherScientificTerm 604 618	achieved a 7.5
+T16	OtherScientificTerm 632 636	rate
+T17	OtherScientificTerm 640 650	a standard
+T18	OtherScientificTerm 663 680	test set from the
+T19	OtherScientificTerm 696 706	Management
+T20	OtherScientificTerm 783 790	suite ,
+T21	OtherScientificTerm 838 863	a significant improvement
+T22	OtherScientificTerm 887 891	( SA
+T23	OtherScientificTerm 911 917	corpus
+T24	OtherScientificTerm 947 951	from
+T25	OtherScientificTerm 960 970	( target )
+T26	OtherScientificTerm 1006 1026	mapping is estimated
+T27	OtherScientificTerm 1045 1058	each training
+T28	OtherScientificTerm 1071 1080	) speaker
+T29	OtherScientificTerm 1104 1105	.
+T30	OtherScientificTerm 1121 1129	model is
+T31	OtherScientificTerm 1149 1154	space
+T32	OtherScientificTerm 1177 1180	and
+T33	OtherScientificTerm 1193 1204	averaging .
+T34	OtherScientificTerm 1211 1215	only
+T35	OtherScientificTerm 1230 1238	from the
+T36	OtherScientificTerm 1309 1311	45
+R0	Used-for Arg1:T3 Arg2:T1
+R1	Compare Arg1:T8 Arg2:T10
+R2	Evaluate-for Arg1:T13 Arg2:T15
+R3	Part-of Arg1:T17 Arg2:T18
+R4	Used-for Arg1:T22 Arg2:T21
+R5	Feature-of Arg1:T25 Arg2:T26
+R6	Used-for Arg1:T31 Arg2:T28
+R7	Used-for Arg1:T32 Arg2:T34

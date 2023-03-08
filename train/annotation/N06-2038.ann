@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 40 62	information extraction
+T1	OtherScientificTerm 68 93	token classification task
+T2	OtherScientificTerm 110 128	tagging strategies
+T3	OtherScientificTerm 149 155	tokens
+T4	OtherScientificTerm 174 192	tagging strategies
+T5	OtherScientificTerm 314 333	Begin/After tagging
+T6	OtherScientificTerm 337 340	BIA
+R0	Used-for Arg1:T2 Arg2:T1

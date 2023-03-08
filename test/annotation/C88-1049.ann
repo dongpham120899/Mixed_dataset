@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 2 8	parser
+T1	OtherScientificTerm 40 62	structural description
+T2	OtherScientificTerm 68 74	string
+T3	OtherScientificTerm 90 97	grammar
+T4	OtherScientificTerm 171 184	parser design
+T5	OtherScientificTerm 222 237	type of grammar
+T6	OtherScientificTerm 244 265	recognition algorithm
+T7	OtherScientificTerm 275 282	parsers
+T8	OtherScientificTerm 290 319	phrase structure descriptions
+T9	OtherScientificTerm 322 341	rule-based grammars
+T10	OtherScientificTerm 348 358	derivation
+T11	OtherScientificTerm 362 393	transition oriented recognition
+T12	OtherScientificTerm 434 440	parser
+T13	OtherScientificTerm 490 505	dependency tree
+T14	OtherScientificTerm 511 520	lexical ,
+T15	OtherScientificTerm 538 562	and functional-syntactic
+T16	OtherScientificTerm 611 621	by complex
+T17	OtherScientificTerm 651 653	to
+T18	OtherScientificTerm 668 671	The
+T19	OtherScientificTerm 702 717	the syntactical
+T20	OtherScientificTerm 754 765	the lexical
+T21	OtherScientificTerm 798 801	the
+T22	OtherScientificTerm 837 856	the slot and filler
+T23	OtherScientificTerm 922 949	well-formed substring table
+T24	OtherScientificTerm 966 972	allows
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Used-for Arg1:T8 Arg2:T7
+R2	Part-of Arg1:T19 Arg2:T20

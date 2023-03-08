@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 0 32	Dependency-based representations
+T1	OtherScientificTerm 36 59	natural language syntax
+T2	OtherScientificTerm 118 142	computational complexity
+T3	OtherScientificTerm 172 183	constraints
+T4	OtherScientificTerm 226 247	dependency structures
+T5	OtherScientificTerm 340 352	projectivity
+T6	OtherScientificTerm 360 371	constraints
+T7	OtherScientificTerm 390 416	fully specified structures
+T8	OtherScientificTerm 472 482	structures
+T9	OtherScientificTerm 501 520	lexical information
+T10	OtherScientificTerm 576 587	relaxations
+T11	OtherScientificTerm 591 603	projectivity
+T12	OtherScientificTerm 657 665	lexicons
+T13	OtherScientificTerm 690 711	syntactic composition
+T14	OtherScientificTerm 741 786	mildly context-sensitive dependency languages
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T9 Arg2:T8

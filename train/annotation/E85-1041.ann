@@ -1,0 +1,5 @@
+T0	OtherScientificTerm 33 38	model
+T1	OtherScientificTerm 55 89	structure of communicative context
+T2	OtherScientificTerm 93 113	dialogue interaction
+T3	OtherScientificTerm 243 251	dialogue
+R0	Feature-of Arg1:T1 Arg2:T2

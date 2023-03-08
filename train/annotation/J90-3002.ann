@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 34 40	editor
+T1	OtherScientificTerm 65 75	dictionary
+T2	OtherScientificTerm 110 116	editor
+T3	OtherScientificTerm 157 170	lexicologists
+T4	OtherScientificTerm 200 210	dictionary
+T5	OtherScientificTerm 229 246	linguistic theory
+T6	OtherScientificTerm 269 277	lexicons
+T7	OtherScientificTerm 282 290	grammars
+T8	OtherScientificTerm 310 337	natural language processing
+T9	OtherScientificTerm 431 451	linguistic databases
+T10	OtherScientificTerm 494 500	editor
+T11	OtherScientificTerm 524 539	coherence rules
+T12	OtherScientificTerm 604 619	lexical entries
+T13	OtherScientificTerm 635 644	interface
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T5 Arg2:T4
+R3	Used-for Arg1:T7 Arg2:T8

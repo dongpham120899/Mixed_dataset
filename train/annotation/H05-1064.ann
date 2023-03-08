@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 51 65	NLP structures
+T1	OtherScientificTerm 73 93	reranking approaches
+T2	OtherScientificTerm 113 141	conditional log-linear model
+T3	OtherScientificTerm 149 165	hidden variables
+T4	OtherScientificTerm 183 193	assignment
+T5	OtherScientificTerm 197 210	lexical items
+T6	OtherScientificTerm 214 227	word clusters
+T7	OtherScientificTerm 231 242	word senses
+T8	OtherScientificTerm 290 301	assignments
+T9	OtherScientificTerm 313 346	discriminative training criterion
+T10	OtherScientificTerm 349 357	Training
+T11	OtherScientificTerm 362 370	decoding
+T12	OtherScientificTerm 433 460	hidden-variable assignments
+T13	OtherScientificTerm 533 552	dynamic programming
+T14	OtherScientificTerm 595 610	parse reranking
+T15	OtherScientificTerm 632 653	F-measure improvement
+T16	OtherScientificTerm 676 687	base parser
+T17	OtherScientificTerm 724 738	Collins ( 2000
+T18	OtherScientificTerm 781 788	focused
+T19	OtherScientificTerm 838 850	naturally to
+T20	OtherScientificTerm 866 876	other than
+R0	Feature-of Arg1:T3 Arg2:T2
+R1	Feature-of Arg1:T6 Arg2:T5
+R2	Used-for Arg1:T9 Arg2:T8
+R3	Used-for Arg1:T13 Arg2:T11
+R4	Compare Arg1:T16 Arg2:T17

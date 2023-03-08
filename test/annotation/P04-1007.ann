@@ -1,0 +1,23 @@
+T0	OtherScientificTerm 21 53	discriminative language modeling
+T1	OtherScientificTerm 66 100	vocabulary speech recognition task
+T2	OtherScientificTerm 119 147	parameter estimation methods
+T3	OtherScientificTerm 154 174	perceptron algorithm
+T4	OtherScientificTerm 199 226	conditional random fields (
+T5	OtherScientificTerm 234 235	.
+T6	OtherScientificTerm 251 291	encoded as deterministic weighted finite
+T7	OtherScientificTerm 328 340	intersecting
+T8	OtherScientificTerm 345 353	automata
+T9	OtherScientificTerm 393 399	from a
+T10	OtherScientificTerm 420 425	. The
+T11	OtherScientificTerm 492 508	relatively small
+T12	OtherScientificTerm 548 556	over the
+T13	OtherScientificTerm 583 600	using the feature
+T14	OtherScientificTerm 612 620	from the
+T15	OtherScientificTerm 656 660	with
+T16	OtherScientificTerm 675 678	) ,
+T17	OtherScientificTerm 721 738	reduction in word
+T18	OtherScientificTerm 789 793	from
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Compare Arg1:T3 Arg2:T4
+R2	Part-of Arg1:T11 Arg2:T12
+R3	Evaluate-for Arg1:T16 Arg2:T17

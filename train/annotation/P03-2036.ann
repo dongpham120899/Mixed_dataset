@@ -1,0 +1,7 @@
+T0	OtherScientificTerm 27 51	CFG filtering techniques
+T1	OtherScientificTerm 56 60	LTAG
+T2	OtherScientificTerm 65 69	HPSG
+T3	OtherScientificTerm 125 129	HPSG
+T4	OtherScientificTerm 156 166	CFG filter
+T5	OtherScientificTerm 180 184	LTAG
+R0	Compare Arg1:T3 Arg2:T5

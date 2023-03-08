@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 16 32	natural language
+T1	OtherScientificTerm 191 206	human listeners
+T2	OtherScientificTerm 284 299	computer system
+T3	OtherScientificTerm 317 339	natural language input
+T4	OtherScientificTerm 349 354	users
+T5	OtherScientificTerm 453 474	parsing flexibilities
+T6	OtherScientificTerm 534 539	FlexP
+T7	OtherScientificTerm 544 577	bottom-up pattern-matching parser
+T8	OtherScientificTerm 651 678	restricted natural language
+R0	Used-for Arg1:T7 Arg2:T8

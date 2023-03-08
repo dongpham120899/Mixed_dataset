@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 32 53	formal ontology study
+T1	OtherScientificTerm 61 69	entities
+T2	OtherScientificTerm 95 100	class
+T3	OtherScientificTerm 135 143	entities
+T4	OtherScientificTerm 160 167	classes
+T5	OtherScientificTerm 202 212	properties
+T6	OtherScientificTerm 220 225	class
+T7	OtherScientificTerm 261 267	entity
+T8	OtherScientificTerm 283 288	class
+T9	OtherScientificTerm 323 343	topological concepts
+T10	OtherScientificTerm 414 423	relations
+T11	OtherScientificTerm 442 463	topological operators
+T12	OtherScientificTerm 477 487	typicality
+T13	OtherScientificTerm 499 507	topology
+T14	OtherScientificTerm 557 567	typicality
+T15	OtherScientificTerm 585 593	entities
+T16	OtherScientificTerm 633 640	concept
+R0	Part-of Arg1:T1 Arg2:T2
+R1	Part-of Arg1:T7 Arg2:T8
+R2	Feature-of Arg1:T15 Arg2:T16

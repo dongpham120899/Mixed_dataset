@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 35 52	Cooperative Model
+T1	OtherScientificTerm 57 87	natural language understanding
+T2	OtherScientificTerm 93 108	dialogue system
+T3	OtherScientificTerm 139 159	Finite State Model (
+T4	OtherScientificTerm 164 190	) and Statistical Learning
+T5	OtherScientificTerm 197 198	(
+T6	OtherScientificTerm 211 223	provides two
+T7	OtherScientificTerm 298 312	robustness and
+T8	OtherScientificTerm 368 376	but less
+R0	Used-for Arg1:T0 Arg2:T1

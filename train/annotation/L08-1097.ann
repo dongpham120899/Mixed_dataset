@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 43 77	unsupervised automatic acquisition
+T1	OtherScientificTerm 81 132	Italian and English verb subcategorization frames (
+T2	OtherScientificTerm 138 156	) from general and
+T3	OtherScientificTerm 197 222	operates on syntactically
+T4	OtherScientificTerm 272 281	number of
+T5	OtherScientificTerm 315 327	any previous
+T6	OtherScientificTerm 345 354	knowledge
+T7	OtherScientificTerm 415 449	line with state-of-the-art lexical
+T8	OtherScientificTerm 482 484	of
+T9	OtherScientificTerm 499 514	sharing similar
+T10	OtherScientificTerm 541 557	to share similar
+T11	OtherScientificTerm 604 606	by
+T12	OtherScientificTerm 624 628	that
+T13	OtherScientificTerm 647 650	the
+T14	OtherScientificTerm 669 705	using the Minimum Description Length
+T15	OtherScientificTerm 762 774	were carried
+R0	Used-for Arg1:T2 Arg2:T0
+R1	Feature-of Arg1:T5 Arg2:T6
+R2	Feature-of Arg1:T9 Arg2:T8
+R3	Feature-of Arg1:T12 Arg2:T11

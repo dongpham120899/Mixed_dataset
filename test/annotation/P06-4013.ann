@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 20 91	Archivus , a multimodal language-enabled meeting browsing and retrieval
+T1	OtherScientificTerm 101 104	The
+T2	OtherScientificTerm 193 203	of natural
+T3	OtherScientificTerm 311 329	and implementation
+T4	OtherScientificTerm 340 343	the
+T5	OtherScientificTerm 375 379	this
+T6	OtherScientificTerm 398 411	elicit useful
+T7	OtherScientificTerm 421 431	supporting
+T8	OtherScientificTerm 443 459	about multimodal
+T9	OtherScientificTerm 486 496	of meeting
+T10	OtherScientificTerm 515 529	developing NLP
+R0	Used-for Arg1:T5 Arg2:T6

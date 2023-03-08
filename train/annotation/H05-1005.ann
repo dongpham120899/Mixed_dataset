@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 27 49	information redundancy
+T1	OtherScientificTerm 53 71	multilingual input
+T2	OtherScientificTerm 93 112	machine translation
+T3	OtherScientificTerm 145 167	multilingual summaries
+T4	OtherScientificTerm 194 222	multi-document summarization
+T5	OtherScientificTerm 241 250	documents
+T6	OtherScientificTerm 258 264	Arabic
+T7	OtherScientificTerm 282 289	summary
+T8	OtherScientificTerm 296 303	English
+T9	OtherScientificTerm 349 356	summary
+T10	OtherScientificTerm 383 406	lexical-syntactic forms
+T11	OtherScientificTerm 420 429	documents
+T12	OtherScientificTerm 462 489	machine translation systems
+T13	OtherScientificTerm 508 518	redundancy
+T14	OtherScientificTerm 561 572	information
+T15	OtherScientificTerm 576 583	English
+T16	OtherScientificTerm 619 639	machine translations
+T17	OtherScientificTerm 653 669	Arabic documents
+T18	OtherScientificTerm 727 737	redundancy
+T19	OtherScientificTerm 752 764	noun phrases
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T6 Arg2:T5
+R2	Feature-of Arg1:T8 Arg2:T7
+R3	Feature-of Arg1:T15 Arg2:T14

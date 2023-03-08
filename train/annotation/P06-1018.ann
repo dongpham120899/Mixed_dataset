@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 30 52	mathematical formalism
+T1	OtherScientificTerm 84 94	structures
+T2	OtherScientificTerm 97 104	strings
+T3	OtherScientificTerm 107 112	trees
+T4	OtherScientificTerm 115 119	dags
+T5	OtherScientificTerm 122 128	graphs
+T6	OtherScientificTerm 158 170	polarization
+T7	OtherScientificTerm 193 214	elementary structures
+T8	OtherScientificTerm 228 238	saturation
+T9	OtherScientificTerm 252 261	structure
+T10	OtherScientificTerm 344 362	grammar formalisms
+T11	OtherScientificTerm 373 390	rewriting systems
+T12	OtherScientificTerm 393 412	dependency grammars
+T13	OtherScientificTerm 415 418	TAG
+T14	OtherScientificTerm 421 425	HPSG
+T15	OtherScientificTerm 430 433	LFG
+R0	Used-for Arg1:T6 Arg2:T7
+R1	Feature-of Arg1:T8 Arg2:T9

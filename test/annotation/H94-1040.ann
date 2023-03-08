@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 68 85	knowledge sources
+T1	OtherScientificTerm 97 109	N-best lists
+T2	OtherScientificTerm 113 123	hypotheses
+T3	OtherScientificTerm 138 155	speech recognizer
+T4	OtherScientificTerm 208 219	information
+T5	OtherScientificTerm 230 260	positive and negative examples
+T6	OtherScientificTerm 339 348	ATIS data
+R0	Part-of Arg1:T4 Arg2:T5

@@ -1,0 +1,29 @@
+T0	OtherScientificTerm 47 86	statistical word sense disambiguation (
+T1	OtherScientificTerm 130 142	approaches :
+T2	OtherScientificTerm 149 157	Bayes on
+T3	OtherScientificTerm 163 173	tokens and
+T4	OtherScientificTerm 182 212	Entropy on local syntactic and
+T5	OtherScientificTerm 260 270	consider a
+T6	OtherScientificTerm 286 289	and
+T7	OtherScientificTerm 313 319	around
+T8	OtherScientificTerm 347 357	Within the
+T9	OtherScientificTerm 373 379	, only
+T10	OtherScientificTerm 415 421	within
+T11	OtherScientificTerm 437 438	,
+T12	OtherScientificTerm 472 478	. Both
+T13	OtherScientificTerm 516 519	for
+T14	OtherScientificTerm 533 566	disambiguate and accuracies of 75
+T15	OtherScientificTerm 578 615	were respectively obtained for coarse
+T16	OtherScientificTerm 650 660	the second
+T17	OtherScientificTerm 690 700	done using
+T18	OtherScientificTerm 726 735	structure
+T19	OtherScientificTerm 739 746	well as
+T20	OtherScientificTerm 757 759	of
+T21	OtherScientificTerm 778 792	as features to
+T22	OtherScientificTerm 795 831	Maximum Entropy learner . Accuracies
+T23	OtherScientificTerm 840 862	and 63 % were obtained
+R0	Used-for Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T3
+R2	Part-of Arg1:T6 Arg2:T5
+R3	Used-for Arg1:T17 Arg2:T16
+R4	Feature-of Arg1:T18 Arg2:T19

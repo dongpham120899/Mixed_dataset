@@ -1,0 +1,37 @@
+T0	OtherScientificTerm 22 65	method to automatically acquire paraphrases
+T1	OtherScientificTerm 72 89	bilingual corpora
+T2	OtherScientificTerm 111 141	bilingual dependency relations
+T3	OtherScientificTerm 167 195	monolingual dependency parse
+T4	OtherScientificTerm 238 270	statistical alignment techniques
+T5	OtherScientificTerm 283 302	paraphrasing method
+T6	OtherScientificTerm 344 349	sense
+T7	OtherScientificTerm 365 371	phrase
+T8	OtherScientificTerm 382 399	bilingual context
+T9	OtherScientificTerm 403 422	dependency relation
+T10	OtherScientificTerm 472 483	paraphrases
+T11	OtherScientificTerm 498 505	context
+T12	OtherScientificTerm 556 589	generalized translation knowledge
+T13	OtherScientificTerm 610 621	paraphrases
+T14	OtherScientificTerm 661 694	generalized translation knowledge
+T15	OtherScientificTerm 699 725	Korean-English translation
+T16	OtherScientificTerm 753 769	parallel corpora
+T17	OtherScientificTerm 775 808	Korean and English language pairs
+T18	OtherScientificTerm 828 847	paraphrasing method
+T19	OtherScientificTerm 869 880	paraphrases
+T20	OtherScientificTerm 891 900	precision
+T21	OtherScientificTerm 938 944	Korean
+T22	OtherScientificTerm 949 956	English
+T23	OtherScientificTerm 967 988	translation knowledge
+T24	OtherScientificTerm 1008 1025	bilingual corpora
+T25	OtherScientificTerm 1070 1081	paraphrases
+T26	OtherScientificTerm 1098 1115	compression ratio
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T4 Arg2:T2
+R2	Feature-of Arg1:T6 Arg2:T7
+R3	Feature-of Arg1:T11 Arg2:T10
+R4	Used-for Arg1:T13 Arg2:T12
+R5	Feature-of Arg1:T14 Arg2:T15
+R6	Part-of Arg1:T17 Arg2:T16
+R7	Evaluate-for Arg1:T18 Arg2:T20
+R8	Part-of Arg1:T23 Arg2:T24
+R9	Feature-of Arg1:T26 Arg2:T25

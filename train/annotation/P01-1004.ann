@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 51 64	segment order
+T1	OtherScientificTerm 67 79	segmentation
+T2	OtherScientificTerm 84 102	segment contiguity
+T3	OtherScientificTerm 110 131	retrieval performance
+T4	OtherScientificTerm 137 162	translation memory system
+T5	OtherScientificTerm 193 259	bag-of-words and segment order-sensitive string comparison methods
+T6	OtherScientificTerm 285 319	character- and word-segmented data
+T7	OtherScientificTerm 353 384	local segment contiguity models
+T8	OtherScientificTerm 402 409	N-grams
+T9	OtherScientificTerm 432 440	datasets
+T10	OtherScientificTerm 456 464	indexing
+T11	OtherScientificTerm 485 502	character bigrams
+T12	OtherScientificTerm 514 532	retrieval accuracy
+T13	OtherScientificTerm 563 581	word N-gram models
+T14	OtherScientificTerm 611 624	configuration
+T15	OtherScientificTerm 627 647	bag-of-words methods
+T16	OtherScientificTerm 678 709	segment order-sensitive methods
+T17	OtherScientificTerm 722 740	retrieval accuracy
+R0	Evaluate-for Arg1:T4 Arg2:T3
+R1	Used-for Arg1:T5 Arg2:T6
+R2	Used-for Arg1:T11 Arg2:T10
+R3	Compare Arg1:T15 Arg2:T16

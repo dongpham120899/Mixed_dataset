@@ -1,0 +1,35 @@
+T0	OtherScientificTerm 50 78	multilingual characteristics
+T1	OtherScientificTerm 82 91	Wikipedia
+T2	OtherScientificTerm 122 134	large corpus
+T3	OtherScientificTerm 138 142	text
+T4	OtherScientificTerm 148 178	Named Entity Recognition ( NER
+T5	OtherScientificTerm 223 229	and no
+T6	OtherScientificTerm 278 283	value
+T7	OtherScientificTerm 297 300	for
+T8	OtherScientificTerm 357 365	commonly
+T9	OtherScientificTerm 393 396	how
+T10	OtherScientificTerm 433 450	identify possible
+T11	OtherScientificTerm 481 487	detail
+T12	OtherScientificTerm 512 519	use the
+T13	OtherScientificTerm 539 547	inherent
+T14	OtherScientificTerm 563 579	to determine the
+T15	OtherScientificTerm 593 600	type of
+T16	OtherScientificTerm 645 661	methods by which
+T17	OtherScientificTerm 696 708	to bootstrap
+T18	OtherScientificTerm 717 724	process
+T19	OtherScientificTerm 772 780	by using
+T20	OtherScientificTerm 785 801	generated corpus
+T21	OtherScientificTerm 823 832	a variant
+T22	OtherScientificTerm 836 839	BBN
+T23	OtherScientificTerm 843 855	Identifinder
+T24	OtherScientificTerm 859 865	French
+T25	OtherScientificTerm 868 877	Ukrainian
+T26	OtherScientificTerm 880 887	Spanish
+T27	OtherScientificTerm 897 898	,
+T28	OtherScientificTerm 913 923	Portuguese
+T29	OtherScientificTerm 969 973	% on
+T30	OtherScientificTerm 1045 1047	on
+T31	OtherScientificTerm 1051 1060	to 40,000
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T3 Arg2:T2
+R2	Used-for Arg1:T16 Arg2:T17

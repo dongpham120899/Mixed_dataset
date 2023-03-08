@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 0 27	Topical blog post retrieval
+T1	OtherScientificTerm 51 61	blog posts
+T2	OtherScientificTerm 84 93	relevance
+T3	OtherScientificTerm 106 111	topic
+T4	OtherScientificTerm 125 152	topical blog post retrieval
+T5	OtherScientificTerm 168 198	textual credibility indicators
+T6	OtherScientificTerm 206 223	retrieval process
+T7	OtherScientificTerm 252 262	indicators
+T8	OtherScientificTerm 324 334	blog posts
+T9	OtherScientificTerm 408 413	blogs
+T10	OtherScientificTerm 452 462	indicators
+T11	OtherScientificTerm 496 514	retrieval approach
+T12	OtherScientificTerm 524 539	language models
+T13	OtherScientificTerm 561 585	TREC Blog track test set
+T14	OtherScientificTerm 611 633	credibility indicators
+T15	OtherScientificTerm 656 679	retrieval effectiveness
+R0	Feature-of Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T5 Arg2:T4
+R2	Used-for Arg1:T10 Arg2:T11
+R3	Evaluate-for Arg1:T14 Arg2:T15

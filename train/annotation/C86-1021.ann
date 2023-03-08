@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 4 31	interlingual approach to MT
+T1	OtherScientificTerm 102 132	natural language understanding
+T2	OtherScientificTerm 142 161	machine translation
+T3	OtherScientificTerm 218 227	ambiguity
+T4	OtherScientificTerm 263 279	natural language
+T5	OtherScientificTerm 377 387	Mu-project
+T6	OtherScientificTerm 401 418	transfer approach
+T7	OtherScientificTerm 445 447	MT
+T8	OtherScientificTerm 504 518	transfer phase
+T9	OtherScientificTerm 538 546	Japanese
+T10	OtherScientificTerm 550 557	English
+T11	OtherScientificTerm 633 654	interlingual approach
+T12	OtherScientificTerm 692 706	transfer phase
+T13	OtherScientificTerm 847 873	Multiple Layer of Grammars
+T14	OtherScientificTerm 880 907	Multiple Layer Presentation
+T15	OtherScientificTerm 914 939	Lexicon Driven Processing
+T16	OtherScientificTerm 946 982	Form-Oriented Dictionary Description
+R0	Used-for Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T6 Arg2:T7
+R3	Compare Arg1:T8 Arg2:T11

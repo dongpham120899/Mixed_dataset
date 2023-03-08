@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 22 73	phrase-based statistical machine translation method
+T1	OtherScientificTerm 85 107	non-contiguous phrases
+T2	OtherScientificTerm 115 122	phrases
+T3	OtherScientificTerm 163 170	phrases
+T4	OtherScientificTerm 178 198	word-aligned corpora
+T5	OtherScientificTerm 215 244	statistical translation model
+T6	OtherScientificTerm 279 286	phrases
+T7	OtherScientificTerm 302 317	training method
+T8	OtherScientificTerm 347 367	translation accuracy
+T9	OtherScientificTerm 391 413	NIST evaluation metric
+T10	OtherScientificTerm 416 428	Translations
+T11	OtherScientificTerm 456 475	beam-search decoder
+T12	OtherScientificTerm 593 606	training data
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T3 Arg2:T4
+R2	Used-for Arg1:T5 Arg2:T6
+R3	Used-for Arg1:T8 Arg2:T7
+R4	Used-for Arg1:T11 Arg2:T10

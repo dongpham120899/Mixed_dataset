@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 2 49	Generating semantic lexicons semi-automatically
+T1	OtherScientificTerm 171 188	potential entries
+T2	OtherScientificTerm 212 226	on-line corpus
+T3	OtherScientificTerm 255 264	exemplars
+T4	OtherScientificTerm 300 305	terms
+T5	OtherScientificTerm 384 391	entries
+T6	OtherScientificTerm 455 463	category
+T7	OtherScientificTerm 545 550	terms
+T8	OtherScientificTerm 571 578	Wordnet
+T9	OtherScientificTerm 671 695	broad-coverage resources
+R0	Part-of Arg1:T1 Arg2:T2

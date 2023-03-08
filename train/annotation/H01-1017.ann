@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 44 89	mixed-initiative speech dialogue interactions
+T1	OtherScientificTerm 133 149	dialogue systems
+T2	OtherScientificTerm 156 182	DARPA Communicator program
+T3	OtherScientificTerm 221 263	distributed message-passing infrastructure
+T4	OtherScientificTerm 268 284	dialogue systems
+T5	OtherScientificTerm 295 307	Communicator
+T6	OtherScientificTerm 388 400	requirements
+T7	OtherScientificTerm 424 447	software infrastructure
+R0	Feature-of Arg1:T3 Arg2:T4

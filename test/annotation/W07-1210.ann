@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 11 31	semantic composition
+T1	OtherScientificTerm 35 64	Minimal Recursion Semantics (
+T2	OtherScientificTerm 69 99	) and Robust Minimal Recursion
+T3	OtherScientificTerm 136 142	that a
+T4	OtherScientificTerm 162 176	formal algebra
+T5	OtherScientificTerm 217 221	much
+T6	OtherScientificTerm 282 284	We
+T7	OtherScientificTerm 307 310	can
+T8	OtherScientificTerm 314 324	adapted to
+T9	OtherScientificTerm 340 347	grammar
+T10	OtherScientificTerm 415 426	a practical
+T11	OtherScientificTerm 445 466	semantic construction
+R0	Used-for Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T10 Arg2:T11

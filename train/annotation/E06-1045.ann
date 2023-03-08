@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 90 119	embodied conversational agent
+T1	OtherScientificTerm 125 140	dialogue system
+T2	OtherScientificTerm 145 164	corpus of sentences
+T3	OtherScientificTerm 186 208	target dialogue system
+T4	OtherScientificTerm 260 267	speaker
+T5	OtherScientificTerm 426 433	context
+T6	OtherScientificTerm 476 483	context
+T7	OtherScientificTerm 529 545	cross-validation
+T8	OtherScientificTerm 558 564	corpus
+T9	OtherScientificTerm 631 647	cross-validation
+T10	OtherScientificTerm 704 720	cross-validation
+R0	Part-of Arg1:T0 Arg2:T1

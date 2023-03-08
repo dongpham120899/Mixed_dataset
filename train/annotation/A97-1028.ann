@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 27 46	statistical profile
+T1	OtherScientificTerm 54 71	Named Entity task
+T2	OtherScientificTerm 85 112	information extraction task
+T3	OtherScientificTerm 123 130	corpora
+T4	OtherScientificTerm 142 151	languages
+T5	OtherScientificTerm 178 185	results
+T6	OtherScientificTerm 193 213	statistical analysis
+T7	OtherScientificTerm 230 239	algorithm
+T8	OtherScientificTerm 244 266	lower bound estimation
+T9	OtherScientificTerm 271 291	Named Entity corpora
+T10	OtherScientificTerm 328 353	cross-lingual comparisons
+T11	OtherScientificTerm 370 378	analysis
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T3
+R2	Evaluate-for Arg1:T6 Arg2:T5
+R3	Used-for Arg1:T7 Arg2:T8
+R4	Conjunction Arg1:T11 Arg2:T10

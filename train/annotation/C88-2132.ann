@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 0 13	Chart parsing
+T1	OtherScientificTerm 17 28	directional
+T2	OtherScientificTerm 213 218	chart
+T3	OtherScientificTerm 243 250	islands
+T4	OtherScientificTerm 285 293	sentence
+T5	OtherScientificTerm 374 383	fragments
+T6	OtherScientificTerm 435 444	fragments
+T7	OtherScientificTerm 458 466	sentence
+T8	OtherScientificTerm 531 538	islands
+T9	OtherScientificTerm 575 584	fragments
+T10	OtherScientificTerm 687 697	heuristics
+T11	OtherScientificTerm 755 764	fragments
+R0	Part-of Arg1:T6 Arg2:T7

@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 98 131	integrated Spoken Language System
+T1	OtherScientificTerm 215 241	N-Best sentence hypotheses
+T2	OtherScientificTerm 253 278	grammar coverage problems
+T3	OtherScientificTerm 288 341	fully-connected first-order statistical class grammar
+T4	OtherScientificTerm 348 371	speech-search algorithm
+T5	OtherScientificTerm 392 397	board
+T6	OtherScientificTerm 412 427	Intel i860 chip
+T7	OtherScientificTerm 475 480	SUN 4
+T8	OtherScientificTerm 485 500	straight C code
+T9	OtherScientificTerm 507 512	board
+T10	OtherScientificTerm 537 544	VME bus
+T11	OtherScientificTerm 552 556	SUN4
+T12	OtherScientificTerm 602 625	natural language system
+T13	OtherScientificTerm 630 650	application back end
+R0	Used-for Arg1:T3 Arg2:T2
+R1	Feature-of Arg1:T6 Arg2:T5
+R2	Part-of Arg1:T10 Arg2:T11

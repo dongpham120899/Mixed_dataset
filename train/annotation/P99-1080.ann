@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 23 45	decision-tree approach
+T1	OtherScientificTerm 74 87	probabilities
+T2	OtherScientificTerm 91 96	words
+T3	OtherScientificTerm 115 119	text
+T4	OtherScientificTerm 148 185	decision-tree language model attempts
+T5	OtherScientificTerm 215 239	nearly optimal questions
+T6	OtherScientificTerm 303 326	The Wall Street Journal
+T7	OtherScientificTerm 376 390	tri-gram model
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3

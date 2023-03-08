@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 46 68	CoNLL 2008 shared task
+T1	OtherScientificTerm 81 127	generative history-based latent variable model
+T2	OtherScientificTerm 155 165	derivation
+T3	OtherScientificTerm 171 200	synchronous dependency parser
+T4	OtherScientificTerm 210 245	syntactic and semantic dependencies
+T5	OtherScientificTerm 262 267	model
+T6	OtherScientificTerm 282 310	macro-average F1 performance
+T7	OtherScientificTerm 341 367	syntactic dependencies LAS
+T8	OtherScientificTerm 379 403	semantic dependencies F1
+T9	OtherScientificTerm 415 420	model
+T10	OtherScientificTerm 464 480	macro-average F1
+T11	OtherScientificTerm 490 516	syntactic dependencies LAS
+T12	OtherScientificTerm 530 554	semantic dependencies F1
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T2 Arg2:T4
+R2	Evaluate-for Arg1:T5 Arg2:T6
+R3	Evaluate-for Arg1:T9 Arg2:T10

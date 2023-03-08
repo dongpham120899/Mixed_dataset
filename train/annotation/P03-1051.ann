@@ -1,0 +1,42 @@
+T0	OtherScientificTerm 15 29	Arabic 's rich
+T1	OtherScientificTerm 44 45	a
+T2	OtherScientificTerm 57 58	a
+T3	OtherScientificTerm 87 89	of
+T4	OtherScientificTerm 103 106	the
+T5	OtherScientificTerm 107 114	pattern
+T6	OtherScientificTerm 174 176	of
+T7	OtherScientificTerm 216 242	a small manually segmented
+T8	OtherScientificTerm 272 284	bootstrap an
+T9	OtherScientificTerm 311 327	build the Arabic
+T10	OtherScientificTerm 348 367	a large unsegmented
+T11	OtherScientificTerm 398 412	uses a trigram
+T12	OtherScientificTerm 445 458	most probable
+T13	OtherScientificTerm 481 482	a
+T14	OtherScientificTerm 495 500	. The
+T15	OtherScientificTerm 544 560	a small manually
+T16	OtherScientificTerm 581 586	about
+T17	OtherScientificTerm 606 613	improve
+T18	OtherScientificTerm 614 617	the
+T19	OtherScientificTerm 645 651	use an
+T20	OtherScientificTerm 693 702	acquiring
+T21	OtherScientificTerm 720 723	155
+T22	OtherScientificTerm 724 736	million word
+T23	OtherScientificTerm 762 777	re-estimate the
+T24	OtherScientificTerm 800 803	the
+T25	OtherScientificTerm 813 827	vocabulary and
+T26	OtherScientificTerm 846 871	The resulting Arabic word
+T27	OtherScientificTerm 908 918	97 % exact
+T28	OtherScientificTerm 934 938	on a
+T29	OtherScientificTerm 951 968	containing 28,449
+T30	OtherScientificTerm 1063 1078	for many highly
+T31	OtherScientificTerm 1128 1144	a small manually
+T32	OtherScientificTerm 1162 1164	of
+R0	Used-for Arg1:T7 Arg2:T8
+R1	Used-for Arg1:T10 Arg2:T9
+R2	Feature-of Arg1:T12 Arg2:T13
+R3	Feature-of Arg1:T14 Arg2:T15
+R4	Part-of Arg1:T20 Arg2:T22
+R5	Used-for Arg1:T23 Arg2:T24
+R6	Evaluate-for Arg1:T26 Arg2:T27
+R7	Part-of Arg1:T29 Arg2:T28
+R8	Feature-of Arg1:T31 Arg2:T32

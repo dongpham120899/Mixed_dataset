@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 21 43	unsupervised technique
+T1	OtherScientificTerm 57 67	morphology
+T2	OtherScientificTerm 83 87	hubs
+T3	OtherScientificTerm 94 103	automaton
+T4	OtherScientificTerm 127 130	hub
+T5	OtherScientificTerm 136 140	node
+T6	OtherScientificTerm 146 151	graph
+T7	OtherScientificTerm 157 166	in-degree
+T8	OtherScientificTerm 188 198	out-degree
+T9	OtherScientificTerm 230 239	word-trie
+T10	OtherScientificTerm 262 273	minimal DFA
+T11	OtherScientificTerm 290 294	hubs
+T12	OtherScientificTerm 303 307	hubs
+T13	OtherScientificTerm 334 338	root
+T14	OtherScientificTerm 343 349	suffix
+T15	OtherScientificTerm 370 381	performance
+R0	Part-of Arg1:T2 Arg2:T3

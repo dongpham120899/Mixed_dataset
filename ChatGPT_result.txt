@@ -1,0 +1,7 @@
+sentence: This paper presents a new approach to statistical sentence generation in which alternative phrases are represented as packed sets of trees , or forests , and then ranked statistically to choose the best one .
+
+Entity: Paper; Relation: Presents; Entity: Approach; Relation type: Used-For
+Entity: Approach; Relation: Generates; Entity: Sentences; Relation type: Used-For
+Entity: Alternative Phrases; Relation: Represented as; Entity: Packed Sets of Trees; Relation type: Feature-Of
+Entity: Alternative Phrases; Relation: Represented as; Entity: Forests; Relation type: Feature-Of
+Entity: Packed Sets of Trees; Relation: Ranked statistically to choose; Entity: Best Alternative Phrase; Relation type: Compare

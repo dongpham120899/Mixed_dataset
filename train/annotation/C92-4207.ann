@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 54 74	spatial descriptions
+T1	OtherScientificTerm 78 86	Japanese
+T2	OtherScientificTerm 126 131	world
+T3	OtherScientificTerm 282 298	computer program
+T4	OtherScientificTerm 299 305	SPRINT
+T5	OtherScientificTerm 320 342	natural language texts
+T6	OtherScientificTerm 358 363	model
+T7	OtherScientificTerm 381 386	world
+T8	OtherScientificTerm 408 413	model
+T9	OtherScientificTerm 440 471	qualitative spatial constraints
+T10	OtherScientificTerm 481 485	text
+T11	OtherScientificTerm 514 535	numerical constraints
+T12	OtherScientificTerm 543 561	spatial attributes
+T13	OtherScientificTerm 569 577	entities
+T14	OtherScientificTerm 635 651	spatial concepts
+T15	OtherScientificTerm 798 814	temporary belief
+T16	OtherScientificTerm 825 830	world
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T6 Arg2:T7
+R2	Part-of Arg1:T9 Arg2:T10
+R3	Feature-of Arg1:T12 Arg2:T13
+R4	Feature-of Arg1:T15 Arg2:T16

@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 35 63	Augmented Transition Network
+T1	OtherScientificTerm 80 92	dialog model
+T2	OtherScientificTerm 121 126	model
+T3	OtherScientificTerm 219 234	dialog schemata
+T4	OtherScientificTerm 257 278	conversation analysis
+T5	OtherScientificTerm 317 345	models of verbal interaction
+T6	OtherScientificTerm 386 401	dialog schemata
+T7	OtherScientificTerm 412 430	verbal interaction
+T8	OtherScientificTerm 452 491	task-oriented and goal-directed dialogs
+T9	OtherScientificTerm 505 508	ATN
+T10	OtherScientificTerm 565 584	verbal interactions
+T11	OtherScientificTerm 588 609	task-oriented dialogs
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Conjunction Arg1:T4 Arg2:T3
+R2	Part-of Arg1:T10 Arg2:T11

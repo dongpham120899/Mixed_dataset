@@ -1,0 +1,29 @@
+T0	OtherScientificTerm 21 54	dictionary word sense definitions
+T1	OtherScientificTerm 98 114	phrasal patterns
+T2	OtherScientificTerm 201 212	definitions
+T3	OtherScientificTerm 222 264	Longman Dictionary of Contemporary English
+T4	OtherScientificTerm 286 296	dictionary
+T5	OtherScientificTerm 343 364	restricted vocabulary
+T6	OtherScientificTerm 372 394	word sense definitions
+T7	OtherScientificTerm 481 495	classification
+T8	OtherScientificTerm 503 514	word senses
+T9	OtherScientificTerm 531 537	senses
+T10	OtherScientificTerm 541 546	words
+T11	OtherScientificTerm 554 575	restricted vocabulary
+T12	OtherScientificTerm 785 807	phrasal analysis rules
+T13	OtherScientificTerm 840 848	patterns
+T14	OtherScientificTerm 872 880	patterns
+T15	OtherScientificTerm 967 978	definitions
+T16	OtherScientificTerm 1072 1090	analysis mechanism
+T17	OtherScientificTerm 1130 1149	robustness problems
+T18	OtherScientificTerm 1180 1215	natural language processing systems
+T19	OtherScientificTerm 1244 1251	lexicon
+T20	OtherScientificTerm 1272 1281	knowledge
+T21	OtherScientificTerm 1285 1306	phrasal constructions
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T2 Arg2:T3
+R2	Used-for Arg1:T5 Arg2:T6
+R3	Feature-of Arg1:T9 Arg2:T8
+R4	Part-of Arg1:T10 Arg2:T11
+R5	Conjunction Arg1:T16 Arg2:T15
+R6	Feature-of Arg1:T17 Arg2:T18

@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 0 43	CriterionSM Online Essay Evaluation Service
+T1	OtherScientificTerm 78 87	sentences
+T2	OtherScientificTerm 99 106	writing
+T3	OtherScientificTerm 112 142	essay-based discourse elements
+T4	OtherScientificTerm 152 169	thesis statements
+T5	OtherScientificTerm 213 222	Criterion
+T6	OtherScientificTerm 273 282	coherence
+T7	OtherScientificTerm 286 292	essays
+T8	OtherScientificTerm 318 326	features
+T9	OtherScientificTerm 330 339	sentences
+T10	OtherScientificTerm 349 377	semantic similarity measures
+T11	OtherScientificTerm 382 401	discourse structure
+T12	OtherScientificTerm 406 428	support vector machine
+T13	OtherScientificTerm 440 448	features
+T14	OtherScientificTerm 460 483	breakdowns in coherence
+T15	OtherScientificTerm 510 524	essay question
+T16	OtherScientificTerm 549 567	discourse elements
+T17	OtherScientificTerm 570 594	Intra-sentential quality
+T18	OtherScientificTerm 613 634	rule-based heuristics
+T19	OtherScientificTerm 703 711	baseline
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Feature-of Arg1:T6 Arg2:T7
+R2	Feature-of Arg1:T8 Arg2:T9
+R3	Used-for Arg1:T13 Arg2:T12
+R4	Conjunction Arg1:T18 Arg2:T17

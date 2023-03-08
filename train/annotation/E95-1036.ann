@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 35 52	temporal anaphora
+T1	OtherScientificTerm 56 65	sentences
+T2	OtherScientificTerm 80 106	quantification over events
+T3	OtherScientificTerm 133 164	Discourse Representation Theory
+T4	OtherScientificTerm 204 224	quantified sentences
+T5	OtherScientificTerm 243 262	temporal connective
+T6	OtherScientificTerm 281 297	truth-conditions
+T7	OtherScientificTerm 307 326	temporal connective
+T8	OtherScientificTerm 334 352	subordinate clause
+T9	OtherScientificTerm 379 386	problem
+T10	OtherScientificTerm 461 479	proportion problem
+T11	OtherScientificTerm 508 539	Generalized Quantifier approach
+T12	OtherScientificTerm 606 620	reference time
+T13	OtherScientificTerm 688 695	problem
+T14	OtherScientificTerm 722 725	DRT
+T15	OtherScientificTerm 762 770	solution
+T16	OtherScientificTerm 785 812	temporal anaphora phenomena
+T17	OtherScientificTerm 816 836	quantified sentences
+R0	Part-of Arg1:T2 Arg2:T1
+R1	Part-of Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T7 Arg2:T8
+R3	Conjunction Arg1:T11 Arg2:T10
+R4	Used-for Arg1:T14 Arg2:T13
+R5	Used-for Arg1:T15 Arg2:T16

@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 24 30	syntax
+T1	OtherScientificTerm 35 44	semantics
+T2	OtherScientificTerm 48 68	English comparatives
+T3	OtherScientificTerm 89 97	ellipsis
+T4	OtherScientificTerm 144 169	computational linguistics
+T5	OtherScientificTerm 218 257	tree- or logical-form rewriting devices
+T6	OtherScientificTerm 270 293	meaning representations
+T7	OtherScientificTerm 319 358	fully reversible linguistic description
+T8	OtherScientificTerm 392 402	generation
+T9	OtherScientificTerm 444 466	elliptical comparative
+R0	Used-for Arg1:T5 Arg2:T6

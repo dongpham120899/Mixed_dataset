@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 23 63	error-driven HMM-based text chunk tagger
+T1	OtherScientificTerm 69 94	context-dependent lexicon
+T2	OtherScientificTerm 120 136	HMM-based tagger
+T3	OtherScientificTerm 144 150	tagger
+T4	OtherScientificTerm 169 191	contextual information
+T5	OtherScientificTerm 199 212	lexical entry
+T6	OtherScientificTerm 229 259	error-driven learning approach
+T7	OtherScientificTerm 287 305	memory requirement
+T8	OtherScientificTerm 322 346	positive lexical entries
+T9	OtherScientificTerm 397 430	context-dependent lexical entries
+T10	OtherScientificTerm 443 464	memory-based learning
+T11	OtherScientificTerm 518 530	chunk tagger
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T4 Arg2:T3
+R2	Used-for Arg1:T10 Arg2:T11

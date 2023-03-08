@@ -1,0 +1,40 @@
+T0	OtherScientificTerm 48 72	large Czech MWE database
+T1	OtherScientificTerm 106 110	MWEs
+T2	OtherScientificTerm 124 137	lexical units
+T3	OtherScientificTerm 189 202	encyclopedias
+T4	OtherScientificTerm 207 219	dictionaries
+T5	OtherScientificTerm 229 238	databases
+T6	OtherScientificTerm 242 254	proper names
+T7	OtherScientificTerm 259 267	toponyms
+T8	OtherScientificTerm 270 282	collocations
+T9	OtherScientificTerm 297 310	Czech WordNet
+T10	OtherScientificTerm 322 352	botanical and zoological terms
+T11	OtherScientificTerm 399 407	database
+T12	OtherScientificTerm 432 436	MWEs
+T13	OtherScientificTerm 496 509	MWEs database
+T14	OtherScientificTerm 519 530	corpus data
+T15	OtherScientificTerm 536 557	Czech National Corpus
+T16	OtherScientificTerm 648 652	MWEs
+T17	OtherScientificTerm 685 691	corpus
+T18	OtherScientificTerm 773 777	MWEs
+T19	OtherScientificTerm 824 842	Word Sketch Engine
+T20	OtherScientificTerm 874 896	statistical parameters
+T21	OtherScientificTerm 918 922	MWEs
+T22	OtherScientificTerm 964 972	salience
+T23	OtherScientificTerm 987 991	MWEs
+T24	OtherScientificTerm 1030 1038	database
+T25	OtherScientificTerm 1071 1078	tagging
+T26	OtherScientificTerm 1083 1096	lemmatization
+T27	OtherScientificTerm 1141 1145	MWEs
+T28	OtherScientificTerm 1149 1160	corpus text
+T29	OtherScientificTerm 1192 1205	lexical units
+T30	OtherScientificTerm 1222 1229	tagging
+T31	OtherScientificTerm 1234 1247	lemmatization
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T6 Arg2:T5
+R2	Part-of Arg1:T8 Arg2:T9
+R3	Compare Arg1:T13 Arg2:T14
+R4	Feature-of Arg1:T20 Arg2:T19
+R5	Feature-of Arg1:T22 Arg2:T23
+R6	Used-for Arg1:T24 Arg2:T25
+R7	Part-of Arg1:T27 Arg2:T28

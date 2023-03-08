@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 25 50	tree-adjoining grammars (
+T1	OtherScientificTerm 85 96	application
+T2	OtherScientificTerm 124 132	confines
+T3	OtherScientificTerm 167 174	task of
+T4	OtherScientificTerm 184 226	interpretation or automatic translation of
+T5	OtherScientificTerm 259 266	variant
+T6	OtherScientificTerm 275 283	, called
+T7	OtherScientificTerm 322 337	correspondences
+T8	OtherScientificTerm 393 417	to relate expressions of
+T9	OtherScientificTerm 439 444	their
+T10	OtherScientificTerm 478 490	in a logical
+T11	OtherScientificTerm 510 512	to
+T12	OtherScientificTerm 530 540	in another
+T13	OtherScientificTerm 586 588	to
+T14	OtherScientificTerm 624 631	role in
+T15	OtherScientificTerm 663 677	application of
+R0	Compare Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T10 Arg2:T9
+R2	Feature-of Arg1:T11 Arg2:T12
+R3	Used-for Arg1:T13 Arg2:T14

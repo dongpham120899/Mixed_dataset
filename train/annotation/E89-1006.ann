@@ -1,0 +1,37 @@
+T0	OtherScientificTerm 24 37	French tenses
+T1	OtherScientificTerm 58 89	Discourse Representation Theory
+T2	OtherScientificTerm 154 157	IMS
+T3	OtherScientificTerm 179 195	theory of tenses
+T4	OtherScientificTerm 242 251	operators
+T5	OtherScientificTerm 267 274	meaning
+T6	OtherScientificTerm 282 288	tenses
+T7	OtherScientificTerm 373 379	tenses
+T8	OtherScientificTerm 400 407	meaning
+T9	OtherScientificTerm 415 419	text
+T10	OtherScientificTerm 476 482	events
+T11	OtherScientificTerm 488 496	sentence
+T12	OtherScientificTerm 504 519	event structure
+T13	OtherScientificTerm 538 542	text
+T14	OtherScientificTerm 555 579	system of relevant times
+T15	OtherScientificTerm 607 611	text
+T16	OtherScientificTerm 623 642	temporal adverbials
+T17	OtherScientificTerm 650 658	sentence
+T18	OtherScientificTerm 721 736	reference times
+T19	OtherScientificTerm 741 767	temporal perspective times
+T20	OtherScientificTerm 774 785	speech time
+T21	OtherScientificTerm 794 807	location time
+T22	OtherScientificTerm 901 910	new event
+T23	OtherScientificTerm 922 946	system of relevant times
+T24	OtherScientificTerm 966 996	system of temporal coordinates
+T25	OtherScientificTerm 1131 1138	meaning
+T26	OtherScientificTerm 1146 1152	tenses
+T27	OtherScientificTerm 1169 1189	resolution component
+T28	OtherScientificTerm 1216 1234	syntactic analysis
+R0	Feature-of Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T5 Arg2:T6
+R2	Feature-of Arg1:T8 Arg2:T9
+R3	Part-of Arg1:T10 Arg2:T11
+R4	Feature-of Arg1:T12 Arg2:T13
+R5	Part-of Arg1:T16 Arg2:T17
+R6	Feature-of Arg1:T25 Arg2:T26
+R7	Compare Arg1:T27 Arg2:T28

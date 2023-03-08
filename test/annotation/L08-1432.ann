@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 4 55	Dutch HLT agency for language and speech technology
+T1	OtherScientificTerm 67 79	TST-centrale
+T2	OtherScientificTerm 89 119	Institute for Dutch Lexicology
+T3	OtherScientificTerm 191 208	( Dutch ) digital
+T4	OtherScientificTerm 307 313	set of
+T5	OtherScientificTerm 404 412	exchange
+T6	OtherScientificTerm 447 457	with other
+T7	OtherScientificTerm 493 499	enable
+T8	OtherScientificTerm 506 514	of these
+T9	OtherScientificTerm 524 531	for NLP
+T10	OtherScientificTerm 545 569	like machine translation
+T11	OtherScientificTerm 707 721	we encountered
+T12	OtherScientificTerm 797 806	fact that
+T13	OtherScientificTerm 836 864	in representing the detailed
+T14	OtherScientificTerm 888 905	distinctions made
+T15	OtherScientificTerm 1000 1004	that
+T16	OtherScientificTerm 1036 1045	provide a
+T17	OtherScientificTerm 1091 1113	represent all detailed
+T18	OtherScientificTerm 1180 1182	in
+R0	Used-for Arg1:T7 Arg2:T8

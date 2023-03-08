@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 13 45	discriminative , latent variable
+T1	OtherScientificTerm 55 67	to syntactic
+T2	OtherScientificTerm 79 84	which
+T3	OtherScientificTerm 116 118	of
+T4	OtherScientificTerm 154 175	a latent variable CRF
+T5	OtherScientificTerm 184 188	over
+T6	OtherScientificTerm 220 237	splitting grammar
+T7	OtherScientificTerm 252 255	not
+T8	OtherScientificTerm 292 295	the
+T9	OtherScientificTerm 339 347	yielding
+T10	OtherScientificTerm 458 477	the split-and-merge
+T11	OtherScientificTerm 529 547	our discriminative
+T12	OtherScientificTerm 568 574	admits
+T13	OtherScientificTerm 584 601	beyond local tree
+T14	OtherScientificTerm 630 652	a multi-scale training
+T15	OtherScientificTerm 674 701	efficient CKY-style dynamic
+T16	OtherScientificTerm 725 727	of
+T17	OtherScientificTerm 736 739	and
+T18	OtherScientificTerm 752 756	this
+T19	OtherScientificTerm 782 799	published parsing
+T20	OtherScientificTerm 829 837	reported
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T3 Arg2:T2
+R2	Used-for Arg1:T6 Arg2:T4
+R3	Evaluate-for Arg1:T18 Arg2:T19

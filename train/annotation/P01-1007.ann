@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 29 62	range concatenation grammar [ RCG
+T1	OtherScientificTerm 128 132	used
+T2	OtherScientificTerm 145 177	particular , range concatenation
+T3	OtherScientificTerm 196 202	can be
+T4	OtherScientificTerm 224 232	time and
+T5	OtherScientificTerm 275 277	be
+T6	OtherScientificTerm 305 334	RCGs without increasing their
+T7	OtherScientificTerm 372 375	For
+T8	OtherScientificTerm 392 403	translation
+T9	OtherScientificTerm 412 428	equivalent RCG ,
+T10	OtherScientificTerm 456 462	can be
+T11	OtherScientificTerm 495 502	paper ,
+T12	OtherScientificTerm 552 563	improve the
+T13	OtherScientificTerm 585 599	of RCL parsers
+T14	OtherScientificTerm 606 631	non-deterministic parsing
+T15	OtherScientificTerm 643 651	the main
+T16	OtherScientificTerm 674 675	L
+T17	OtherScientificTerm 692 705	a guide which
+T18	OtherScientificTerm 733 746	forest output
+T19	OtherScientificTerm 758 772	RCL parser for
+T20	OtherScientificTerm 838 855	of this method on
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T3 Arg2:T2
+R2	Feature-of Arg1:T10 Arg2:T9
+R3	Used-for Arg1:T11 Arg2:T12
+R4	Used-for Arg1:T17 Arg2:T16
+R5	Used-for Arg1:T18 Arg2:T19

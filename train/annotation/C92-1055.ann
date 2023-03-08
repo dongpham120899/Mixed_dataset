@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 57 84	adaptive learning procedure
+T1	OtherScientificTerm 122 152	syntactic ambiguity resolution
+T2	OtherScientificTerm 179 205	insufficient training data
+T3	OtherScientificTerm 210 229	approximation error
+T4	OtherScientificTerm 248 262	language model
+T5	OtherScientificTerm 277 299	statistical approaches
+T6	OtherScientificTerm 316 327	ambiguities
+T7	OtherScientificTerm 363 388	maximum likelihood method
+T8	OtherScientificTerm 412 423	performance
+T9	OtherScientificTerm 535 548	accuracy rate
+T10	OtherScientificTerm 636 651	training corpus
+T11	OtherScientificTerm 722 739	separation margin
+T12	OtherScientificTerm 858 871	accuracy rate
+T13	OtherScientificTerm 875 899	syntactic disambiguation
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Evaluate-for Arg1:T4 Arg2:T3
+R2	Used-for Arg1:T7 Arg2:T5
+R3	Evaluate-for Arg1:T13 Arg2:T12

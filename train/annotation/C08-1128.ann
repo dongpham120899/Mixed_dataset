@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 0 5	Words
+T1	OtherScientificTerm 9 21	Chinese text
+T2	OtherScientificTerm 53 63	delimiters
+T3	OtherScientificTerm 93 126	standard machine translation ( MT
+T4	OtherScientificTerm 137 138	.
+T5	OtherScientificTerm 178 193	apply a Chinese
+T6	OtherScientificTerm 209 230	trained from manually
+T7	OtherScientificTerm 254 255	a
+T8	OtherScientificTerm 270 276	. Such
+T9	OtherScientificTerm 314 321	optimal
+T10	OtherScientificTerm 343 390	propose a Bayesian semi-supervised Chinese word
+T11	OtherScientificTerm 416 441	uses both monolingual and
+T12	OtherScientificTerm 467 473	derive
+T13	OtherScientificTerm 489 497	suitable
+T14	OtherScientificTerm 540 567	improves a state-of-the-art
+T15	OtherScientificTerm 589 600	and a large
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T5 Arg2:T4
+R2	Used-for Arg1:T11 Arg2:T10
+R3	Used-for Arg1:T12 Arg2:T13

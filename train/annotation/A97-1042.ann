@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 55 61	topics
+T1	OtherScientificTerm 65 70	texts
+T2	OtherScientificTerm 96 100	text
+T3	OtherScientificTerm 130 138	training
+T4	OtherScientificTerm 160 183	Optimal Position Policy
+T5	OtherScientificTerm 231 254	topic-bearing sentences
+T6	OtherScientificTerm 264 291	genre-specific regularities
+T7	OtherScientificTerm 295 314	discourse structure
+T8	OtherScientificTerm 365 386	information retrieval
+T9	OtherScientificTerm 389 396	routing
+T10	OtherScientificTerm 403 421	text summarization
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T6 Arg2:T7

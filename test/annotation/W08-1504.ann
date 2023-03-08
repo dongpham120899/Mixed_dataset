@@ -1,0 +1,29 @@
+T0	OtherScientificTerm 0 13	Voice over IP
+T1	OtherScientificTerm 22 46	open source technologies
+T2	OtherScientificTerm 80 93	organizations
+T3	OtherScientificTerm 126 143	VoiceXML gateways
+T4	OtherScientificTerm 185 190	users
+T5	OtherScientificTerm 268 283	web application
+T6	OtherScientificTerm 306 314	VoiceXML
+T7	OtherScientificTerm 325 342	non-visual access
+T8	OtherScientificTerm 352 357	phone
+T9	OtherScientificTerm 412 433	PSTN-based phone line
+T10	OtherScientificTerm 439 455	VoiceXML gateway
+T11	OtherScientificTerm 472 496	voice service provider (
+T12	OtherScientificTerm 512 527	provide a local
+T13	OtherScientificTerm 548 550	to
+T14	OtherScientificTerm 637 650	way for small
+T15	OtherScientificTerm 718 730	a commercial
+T16	OtherScientificTerm 764 772	based on
+T17	OtherScientificTerm 845 870	a sample Package Tracking
+T18	OtherScientificTerm 910 912	an
+T19	OtherScientificTerm 966 968	as
+T20	OtherScientificTerm 996 1006	present an
+T21	OtherScientificTerm 1059 1072	to commercial
+T22	OtherScientificTerm 1089 1090	(
+T23	OtherScientificTerm 1096 1103	Voxeo ,
+T24	OtherScientificTerm 1111 1117	Studio
+T25	OtherScientificTerm 1120 1127	Bevocal
+T26	OtherScientificTerm 1192 1200	in which
+R0	Used-for Arg1:T6 Arg2:T5
+R1	Used-for Arg1:T18 Arg2:T17

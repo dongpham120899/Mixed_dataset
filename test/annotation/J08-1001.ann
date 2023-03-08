@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 71 86	local coherence
+T1	OtherScientificTerm 121 147	entity-grid representation
+T2	OtherScientificTerm 151 160	discourse
+T3	OtherScientificTerm 178 186	patterns
+T4	OtherScientificTerm 190 209	entity distribution
+T5	OtherScientificTerm 215 219	text
+T6	OtherScientificTerm 288 292	text
+T7	OtherScientificTerm 307 334	entity transition sequences
+T8	OtherScientificTerm 347 379	distributional , syntactic , and
+T9	OtherScientificTerm 392 409	information about
+T10	OtherScientificTerm 431 450	We re-conceptualize
+T11	OtherScientificTerm 472 476	as a
+T12	OtherScientificTerm 500 508	that our
+T13	OtherScientificTerm 540 555	well-suited for
+T14	OtherScientificTerm 570 589	generation and text
+T15	OtherScientificTerm 613 622	Using the
+T16	OtherScientificTerm 665 679	performance on
+T17	OtherScientificTerm 685 703	ordering , summary
+T18	OtherScientificTerm 725 730	, and
+R0	Feature-of Arg1:T1 Arg2:T2
+R1	Feature-of Arg1:T7 Arg2:T6

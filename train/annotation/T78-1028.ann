@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 21 41	computational theory
+T1	OtherScientificTerm 45 70	human plausible reasoning
+T2	OtherScientificTerm 147 152	logic
+T3	OtherScientificTerm 159 165	theory
+T4	OtherScientificTerm 184 213	content-independent formalism
+T5	OtherScientificTerm 223 228	logic
+T6	OtherScientificTerm 235 241	theory
+T7	OtherScientificTerm 281 287	memory
+T8	OtherScientificTerm 341 347	theory
+T9	OtherScientificTerm 362 383	dimensionalized space
+T10	OtherScientificTerm 397 412	inference types
+T11	OtherScientificTerm 423 443	certainty conditions
+T12	OtherScientificTerm 469 489	meta-inference types
+T13	OtherScientificTerm 500 509	inference
+T14	OtherScientificTerm 660 675	inference types
+T15	OtherScientificTerm 707 713	memory
+T16	OtherScientificTerm 770 785	inference types
+T17	OtherScientificTerm 821 827	memory
+T18	OtherScientificTerm 845 860	inference types
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T4 Arg2:T3
+R2	Compare Arg1:T5 Arg2:T6
+R3	Part-of Arg1:T9 Arg2:T8
+R4	Feature-of Arg1:T11 Arg2:T10
+R5	Feature-of Arg1:T12 Arg2:T13

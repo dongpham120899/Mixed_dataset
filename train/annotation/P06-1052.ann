@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 42 72	redundancy elimination problem
+T1	OtherScientificTerm 84 124	underspecified semantic representation (
+T2	OtherScientificTerm 131 135	of a
+T3	OtherScientificTerm 154 161	compute
+T4	OtherScientificTerm 174 188	fewer mutually
+T5	OtherScientificTerm 225 251	operates on underspecified
+T6	OtherScientificTerm 284 296	derived from
+T7	OtherScientificTerm 334 336	to
+T8	OtherScientificTerm 346 357	computed by
+T9	OtherScientificTerm 407 409	on
+T10	OtherScientificTerm 450 456	degree
+R0	Feature-of Arg1:T1 Arg2:T2

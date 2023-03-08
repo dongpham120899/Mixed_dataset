@@ -1,0 +1,27 @@
+T0	OtherScientificTerm 0 20	Statistical measures
+T1	OtherScientificTerm 24 39	word similarity
+T2	OtherScientificTerm 74 101	natural language processing
+T3	OtherScientificTerm 112 129	language modeling
+T4	OtherScientificTerm 134 155	information retrieval
+T5	OtherScientificTerm 218 247	word cooccurrence frequencies
+T6	OtherScientificTerm 260 284	word similarity measures
+T7	OtherScientificTerm 291 310	frequency estimates
+T8	OtherScientificTerm 347 353	corpus
+T9	OtherScientificTerm 357 365	Web data
+T10	OtherScientificTerm 395 406	corpus size
+T11	OtherScientificTerm 435 443	measures
+T12	OtherScientificTerm 476 494	TOEFL question set
+T13	OtherScientificTerm 503 526	practice questions sets
+T14	OtherScientificTerm 560 585	multiple choice questions
+T15	OtherScientificTerm 603 610	synonym
+T16	OtherScientificTerm 623 634	target word
+T17	OtherScientificTerm 663 670	context
+T18	OtherScientificTerm 679 690	target word
+T19	OtherScientificTerm 732 756	word similarity measures
+T20	OtherScientificTerm 775 782	context
+T21	OtherScientificTerm 809 827	similarity measure
+T22	OtherScientificTerm 832 859	frequency estimation method
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T9 Arg2:T8
+R2	Evaluate-for Arg1:T10 Arg2:T11
+R3	Part-of Arg1:T14 Arg2:T13

@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 29 63	chunk based partial parsing system
+T1	OtherScientificTerm 68 96	spontaneous , conversational
+T2	OtherScientificTerm 104 119	in unrestricted
+T3	OtherScientificTerm 143 152	the chunk
+T4	OtherScientificTerm 172 184	this parsing
+T5	OtherScientificTerm 231 247	reranking N-best
+T6	OtherScientificTerm 259 267	a speech
+T7	OtherScientificTerm 301 328	of chunk-based n-gram model
+T8	OtherScientificTerm 336 354	and chunk coverage
+T9	OtherScientificTerm 389 398	is N-best
+T10	OtherScientificTerm 415 437	from speech recognizer
+T11	OtherScientificTerm 469 479	the N-best
+T12	OtherScientificTerm 497 508	for part of
+T13	OtherScientificTerm 536 551	a preprocessing
+T14	OtherScientificTerm 569 597	a part of speech based chunk
+T15	OtherScientificTerm 626 650	a backpropagation neural
+T16	OtherScientificTerm 666 681	the chunk based
+T17	OtherScientificTerm 701 720	the reranked N-best
+T18	OtherScientificTerm 800 807	a chunk
+T19	OtherScientificTerm 867 891	a randomly selected test
+T20	OtherScientificTerm 910 923	in word error
+T21	OtherScientificTerm 975 984	new first
+T22	OtherScientificTerm 999 1018	the reranked N-best
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T10 Arg2:T9
+R2	Used-for Arg1:T16 Arg2:T15

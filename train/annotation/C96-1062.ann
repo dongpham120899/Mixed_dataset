@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 2 26	domain independent model
+T1	OtherScientificTerm 47 71	automated interpretation
+T2	OtherScientificTerm 75 92	nominal compounds
+T3	OtherScientificTerm 96 103	English
+T4	OtherScientificTerm 111 116	model
+T5	OtherScientificTerm 141 175	productive rules of interpretation
+T6	OtherScientificTerm 204 249	morpho-syntactic and semantic characteristics
+T7	OtherScientificTerm 257 277	nominal constituents
+T8	OtherScientificTerm 362 385	predicative information
+T9	OtherScientificTerm 402 410	nominals
+T10	OtherScientificTerm 466 499	generalizable semantic principles
+T11	OtherScientificTerm 504 540	domain-specific semantic information
+T12	OtherScientificTerm 620 634	interpretation
+T13	OtherScientificTerm 638 647	compounds
+T14	OtherScientificTerm 651 661	real texts
+T15	OtherScientificTerm 692 712	semantic information
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3
+R2	Feature-of Arg1:T6 Arg2:T7
+R3	Feature-of Arg1:T8 Arg2:T9
+R4	Compare Arg1:T10 Arg2:T11
+R5	Feature-of Arg1:T12 Arg2:T13

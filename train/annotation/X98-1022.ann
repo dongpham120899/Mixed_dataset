@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 0 23	Automatic summarization
+T1	OtherScientificTerm 28 50	information extraction
+T2	OtherScientificTerm 89 92	MUC
+T3	OtherScientificTerm 97 103	SUMMAC
+T4	OtherScientificTerm 193 216	automatic summarization
+T5	OtherScientificTerm 262 271	sentences
+T6	OtherScientificTerm 276 294	summary generation
+T7	OtherScientificTerm 324 332	SUMMAC-1
+T8	OtherScientificTerm 339 358	categorization task
+T9	OtherScientificTerm 361 385	positive feature vectors
+T10	OtherScientificTerm 390 414	negative feature vectors
+T11	OtherScientificTerm 472 481	summaries
+T12	OtherScientificTerm 503 513	text model
+T13	OtherScientificTerm 544 549	nouns
+T14	OtherScientificTerm 554 559	verbs
+T15	OtherScientificTerm 593 610	discourse segment
+T16	OtherScientificTerm 630 639	sentences
+T17	OtherScientificTerm 662 685	user-directed summaries
+T18	OtherScientificTerm 714 719	NormF
+T19	OtherScientificTerm 814 819	NormF
+T20	OtherScientificTerm 874 893	categorization task
+T21	OtherScientificTerm 963 982	categorization task
+R0	Used-for Arg1:T5 Arg2:T6
+R1	Used-for Arg1:T9 Arg2:T8
+R2	Used-for Arg1:T12 Arg2:T17

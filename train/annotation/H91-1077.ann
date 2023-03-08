@@ -1,0 +1,58 @@
+T0	OtherScientificTerm 12 28	sense resolution
+T1	OtherScientificTerm 58 65	WordNet
+T2	OtherScientificTerm 79 95	lexical database
+T3	OtherScientificTerm 114 132	semantic relations
+T4	OtherScientificTerm 135 143	synonymy
+T5	OtherScientificTerm 146 154	antonymy
+T6	OtherScientificTerm 157 165	hyponymy
+T7	OtherScientificTerm 168 176	meronymy
+T8	OtherScientificTerm 179 211	causal and troponymic entailment
+T9	OtherScientificTerm 217 233	labeled pointers
+T10	OtherScientificTerm 242 253	word senses
+T11	OtherScientificTerm 261 268	WordNet
+T12	OtherScientificTerm 302 328	semantically related words
+T13	OtherScientificTerm 364 380	sense resolution
+T14	OtherScientificTerm 388 403	text processing
+T15	OtherScientificTerm 426 430	word
+T16	OtherScientificTerm 445 451	senses
+T17	OtherScientificTerm 525 530	words
+T18	OtherScientificTerm 542 549	meaning
+T19	OtherScientificTerm 557 575	alternative senses
+T20	OtherScientificTerm 583 598	polysemous word
+T21	OtherScientificTerm 623 630	strings
+T22	OtherScientificTerm 677 682	words
+T23	OtherScientificTerm 692 699	context
+T24	OtherScientificTerm 707 722	polysemous word
+T25	OtherScientificTerm 733 747	textual corpus
+T26	OtherScientificTerm 780 795	derived strings
+T27	OtherScientificTerm 807 812	sense
+T28	OtherScientificTerm 852 866	derived string
+T29	OtherScientificTerm 899 905	corpus
+T30	OtherScientificTerm 923 930	context
+T31	OtherScientificTerm 938 953	polysemous word
+T32	OtherScientificTerm 994 1000	corpus
+T33	OtherScientificTerm 1007 1012	words
+T34	OtherScientificTerm 1036 1043	context
+T35	OtherScientificTerm 1060 1067	WordNet
+T36	OtherScientificTerm 1102 1119	semantic distance
+T37	OtherScientificTerm 1131 1136	words
+T38	OtherScientificTerm 1144 1162	alternative senses
+T39	OtherScientificTerm 1170 1185	polysemous word
+T40	OtherScientificTerm 1197 1202	sense
+T41	OtherScientificTerm 1237 1244	meaning
+T42	OtherScientificTerm 1254 1259	words
+T43	OtherScientificTerm 1282 1289	context
+T44	OtherScientificTerm 1370 1391	information retrieval
+T45	OtherScientificTerm 1394 1416	mechanical translation
+T46	OtherScientificTerm 1419 1447	intelligent tutoring systems
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T3 Arg2:T2
+R2	Part-of Arg1:T12 Arg2:T11
+R3	Part-of Arg1:T13 Arg2:T14
+R4	Feature-of Arg1:T16 Arg2:T15
+R5	Part-of Arg1:T26 Arg2:T25
+R6	Part-of Arg1:T28 Arg2:T29
+R7	Feature-of Arg1:T30 Arg2:T31
+R8	Feature-of Arg1:T34 Arg2:T33
+R9	Used-for Arg1:T35 Arg2:T36
+R10	Feature-of Arg1:T43 Arg2:T42

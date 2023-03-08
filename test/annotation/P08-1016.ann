@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 26 48	unsupervised algorithm
+T1	OtherScientificTerm 51 59	WordEnds
+T2	OtherScientificTerm 76 91	word boundaries
+T3	OtherScientificTerm 97 128	transcribed adult conversations
+T4	OtherScientificTerm 131 143	Phone ngrams
+T5	OtherScientificTerm 208 228	discriminative model
+T6	OtherScientificTerm 232 248	boundary marking
+T7	OtherScientificTerm 261 270	algorithm
+T8	OtherScientificTerm 285 296	performance
+T9	OtherScientificTerm 305 334	morphologically complex words
+T10	OtherScientificTerm 338 345	English
+T11	OtherScientificTerm 350 356	Arabic
+T12	OtherScientificTerm 393 416	phonetic transcriptions
+T13	OtherScientificTerm 432 455	pronunciation variation
+T14	OtherScientificTerm 468 481	training data
+T15	OtherScientificTerm 505 523	miniature datasets
+T16	OtherScientificTerm 531 550	performance numbers
+T17	OtherScientificTerm 609 617	WordEnds
+T18	OtherScientificTerm 630 635	model
+T19	OtherScientificTerm 639 665	child language acquisition
+T20	OtherScientificTerm 689 709	speech understanding
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Evaluate-for Arg1:T7 Arg2:T8
+R2	Used-for Arg1:T18 Arg2:T20

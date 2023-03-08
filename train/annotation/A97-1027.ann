@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 40 63	morphological component
+T1	OtherScientificTerm 79 136	NLP-system for Dutch ( Dutch Medical Language Processor -
+T2	OtherScientificTerm 208 225	with the language
+T3	OtherScientificTerm 246 297	of the LSP-MLP system ( Linguistic String Project -
+T4	OtherScientificTerm 371 388	take advantage of
+T5	OtherScientificTerm 441 442	,
+T6	OtherScientificTerm 449 457	focusing
+T7	OtherScientificTerm 586 611	relevant information in a
+T8	OtherScientificTerm 640 657	PDS ) by means of
+R0	Part-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T2 Arg2:T3
+R2	Part-of Arg1:T5 Arg2:T6

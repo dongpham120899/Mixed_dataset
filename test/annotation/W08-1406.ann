@@ -1,0 +1,22 @@
+T0	OtherScientificTerm 0 36	Speech-to-text summarization systems
+T1	OtherScientificTerm 53 58	input
+T2	OtherScientificTerm 63 69	output
+T3	OtherScientificTerm 76 110	automatic speech recognition ( ASR
+T4	OtherScientificTerm 140 158	issues like speech
+T5	OtherScientificTerm 171 177	errors
+T6	OtherScientificTerm 227 244	identification of
+T7	OtherScientificTerm 303 310	, solid
+T8	OtherScientificTerm 364 378	of summarizing
+T9	OtherScientificTerm 403 424	use of multi-document
+T10	OtherScientificTerm 439 468	techniques in single document
+T11	OtherScientificTerm 544 554	offered by
+T12	OtherScientificTerm 579 589	select the
+T13	OtherScientificTerm 617 626	conduct a
+T14	OtherScientificTerm 697 699	of
+T15	OtherScientificTerm 727 731	show
+T16	OtherScientificTerm 824 864	an up-to-date latent semantic analysis (
+T17	OtherScientificTerm 896 903	suggest
+T18	OtherScientificTerm 923 932	summaries
+T19	OtherScientificTerm 951 971	information conveyed
+R0	Used-for Arg1:T2 Arg2:T0
+R1	Used-for Arg1:T9 Arg2:T10

@@ -1,0 +1,20 @@
+T0	OtherScientificTerm 114 130	parallel parsing
+T1	OtherScientificTerm 133 156	semantic representation
+T2	OtherScientificTerm 159 175	ill-formed input
+T3	OtherScientificTerm 178 187	discourse
+T4	OtherScientificTerm 204 236	linguistic knowledge acquisition
+T5	OtherScientificTerm 256 275	software components
+T6	OtherScientificTerm 310 349	Janus , DARPA 's New Generation Natural
+T7	OtherScientificTerm 390 414	state-of-the-art natural
+T8	OtherScientificTerm 424 437	technology in
+T9	OtherScientificTerm 459 462	The
+T10	OtherScientificTerm 491 512	distributed : natural
+T11	OtherScientificTerm 522 538	system ; IRACQ ,
+T12	OtherScientificTerm 549 567	acquisition system
+T13	OtherScientificTerm 570 587	System components
+T14	OtherScientificTerm 592 601	knowledge
+T15	OtherScientificTerm 608 650	of Janus ; KL-TWO knowledge representation
+T16	OtherScientificTerm 665 671	system
+T17	OtherScientificTerm 688 693	Janus
+T18	OtherScientificTerm 715 734	for DARPA 's Spoken
+R0	Used-for Arg1:T7 Arg2:T8

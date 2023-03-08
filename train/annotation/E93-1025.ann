@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 23 42	ellipsis resolution
+T1	OtherScientificTerm 73 100	discourse copying algorithm
+T2	OtherScientificTerm 209 239	identity-of-relations analyses
+T3	OtherScientificTerm 380 388	full NPs
+T4	OtherScientificTerm 397 417	referential elements
+T5	OtherScientificTerm 462 474	role linking
+T6	OtherScientificTerm 489 500	predictions
+T7	OtherScientificTerm 537 545	ellipsis
+T8	OtherScientificTerm 614 641	discourse copying phenomena
+R0	Feature-of Arg1:T1 Arg2:T0
+R1	Compare Arg1:T3 Arg2:T4
+R2	Feature-of Arg1:T6 Arg2:T7

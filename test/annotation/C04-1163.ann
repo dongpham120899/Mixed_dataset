@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 0 28	Classification Hierarchies (
+T1	OtherScientificTerm 51 53	to
+T2	OtherScientificTerm 87 92	makes
+T3	OtherScientificTerm 125 133	examples
+T4	OtherScientificTerm 137 144	CHs are
+T5	OtherScientificTerm 184 189	, and
+T6	OtherScientificTerm 230 233	and
+T7	OtherScientificTerm 286 290	that
+T8	OtherScientificTerm 301 309	mappings
+T9	OtherScientificTerm 320 335	considering the
+T10	OtherScientificTerm 360 362	of
+T11	OtherScientificTerm 369 374	nodes
+T12	OtherScientificTerm 386 396	performs a
+T13	OtherScientificTerm 419 421	of
+T14	OtherScientificTerm 442 444	to
+T15	OtherScientificTerm 455 456	,
+T16	OtherScientificTerm 467 489	tokenization , Part of
+T17	OtherScientificTerm 497 506	tagging ,
+T18	OtherScientificTerm 517 537	recognition and word
+T19	OtherScientificTerm 620 633	approach over
+T20	OtherScientificTerm 683 689	of the
+R0	Used-for Arg1:T0 Arg2:T2
+R1	Feature-of Arg1:T9 Arg2:T10
+R2	Used-for Arg1:T12 Arg2:T13

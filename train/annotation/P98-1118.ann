@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 41 50	Presentor
+T1	OtherScientificTerm 94 127	hypertext presentation generators
+T2	OtherScientificTerm 130 139	Presentor
+T3	OtherScientificTerm 170 191	declarative languages
+T4	OtherScientificTerm 307 316	Presentor
+T5	OtherScientificTerm 475 490	object modeling
+T6	OtherScientificTerm 516 542	requirements summarization
+R0	Part-of Arg1:T3 Arg2:T2

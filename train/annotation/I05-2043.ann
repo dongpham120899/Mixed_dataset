@@ -1,0 +1,5 @@
+T0	OtherScientificTerm 6 33	natural language processing
+T1	OtherScientificTerm 69 113	Japanese natural language processing studies
+T2	OtherScientificTerm 409 421	Japanese NLP
+T3	OtherScientificTerm 482 485	NLP
+R0	Used-for Arg1:T0 Arg2:T1

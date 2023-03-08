@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 30 52	information extraction
+T1	OtherScientificTerm 68 81	customization
+T2	OtherScientificTerm 91 99	scenario
+T3	OtherScientificTerm 129 150	automated acquisition
+T4	OtherScientificTerm 154 162	patterns
+T5	OtherScientificTerm 180 191	portability
+T6	OtherScientificTerm 196 207	scalability
+T7	OtherScientificTerm 239 272	Tree-Based Pattern representation
+T8	OtherScientificTerm 281 288	pattern
+T9	OtherScientificTerm 305 309	path
+T10	OtherScientificTerm 317 332	dependency tree
+T11	OtherScientificTerm 338 346	sentence
+T12	OtherScientificTerm 385 404	Tree-Based Patterns
+T13	OtherScientificTerm 408 416	Japanese
+T14	OtherScientificTerm 422 439	un-annotated text
+T15	OtherScientificTerm 475 484	sentences
+T16	OtherScientificTerm 494 507	training data
+T17	OtherScientificTerm 517 531	TF/IDF scoring
+T18	OtherScientificTerm 547 552	paths
+T19	OtherScientificTerm 560 570	parse tree
+T20	OtherScientificTerm 583 592	sentences
+T21	OtherScientificTerm 616 624	patterns
+R0	Feature-of Arg1:T10 Arg2:T11
+R1	Part-of Arg1:T12 Arg2:T14
+R2	Part-of Arg1:T15 Arg2:T16
+R3	Feature-of Arg1:T19 Arg2:T20

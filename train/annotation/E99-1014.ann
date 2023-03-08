@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 35 47	full parsing
+T1	OtherScientificTerm 61 83	Information Extraction
+T2	OtherScientificTerm 89 94	texts
+T3	OtherScientificTerm 122 127	rules
+T4	OtherScientificTerm 158 162	text
+T5	OtherScientificTerm 174 196	unambiguous structures
+T6	OtherScientificTerm 215 221	chunks
+T7	OtherScientificTerm 242 262	argumental relations
+T8	OtherScientificTerm 288 307	modifier attachment
+T9	OtherScientificTerm 329 346	global parse tree
+T10	OtherScientificTerm 400 409	languages
+T11	OtherScientificTerm 424 431	domains
+T12	OtherScientificTerm 460 469	IE module
+T13	OtherScientificTerm 473 535	FACILE , a EU project for multilingual text classification and
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T5 Arg2:T4
+R2	Part-of Arg1:T12 Arg2:T13

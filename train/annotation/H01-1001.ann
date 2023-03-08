@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 0 18	Oral communication
+T1	OtherScientificTerm 136 162	storage media and networks
+T2	OtherScientificTerm 197 209	conversation
+T3	OtherScientificTerm 315 329	large database
+T4	OtherScientificTerm 344 376	information retrieval techniques
+T5	OtherScientificTerm 383 392	histogram
+T6	OtherScientificTerm 396 404	keywords
+T7	OtherScientificTerm 412 435	document representation
+T8	OtherScientificTerm 440 458	oral communication
+T9	OtherScientificTerm 480 487	indices
+T10	OtherScientificTerm 568 573	index
+T11	OtherScientificTerm 702 721	automatic detection
+T12	OtherScientificTerm 921 929	database
+T13	OtherScientificTerm 987 995	database
+T14	OtherScientificTerm 999 1007	TV shows
+T15	OtherScientificTerm 1010 1018	Emotions
+T16	OtherScientificTerm 1029 1036	indices
+T17	OtherScientificTerm 1049 1083	dominance distribution of speakers
+T18	OtherScientificTerm 1110 1117	surface
+T19	OtherScientificTerm 1177 1186	databases
+T20	OtherScientificTerm 1238 1245	indices
+R0	Used-for Arg1:T6 Arg2:T4
+R1	Used-for Arg1:T8 Arg2:T9
+R2	Part-of Arg1:T14 Arg2:T13

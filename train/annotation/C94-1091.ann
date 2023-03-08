@@ -1,0 +1,28 @@
+T0	OtherScientificTerm 62 77	classifier word
+T1	OtherScientificTerm 84 88	noun
+T2	OtherScientificTerm 94 107	Thai language
+T3	OtherScientificTerm 175 185	classifier
+T4	OtherScientificTerm 198 211	concrete noun
+T5	OtherScientificTerm 255 271	speech community
+T6	OtherScientificTerm 276 295	individual speakers
+T7	OtherScientificTerm 337 357	classifier selection
+T8	OtherScientificTerm 387 406	rule-based approach
+T9	OtherScientificTerm 420 432	default rule
+T10	OtherScientificTerm 460 470	classifier
+T11	OtherScientificTerm 479 483	noun
+T12	OtherScientificTerm 502 512	classifier
+T13	OtherScientificTerm 522 526	noun
+T14	OtherScientificTerm 545 568	type of unit classifier
+T15	OtherScientificTerm 650 669	corpus-based method
+T16	OtherScientificTerm 728 758	Noun Classifier Associations (
+T17	OtherScientificTerm 781 792	problems in
+T18	OtherScientificTerm 804 843	assignment and semantic construction of
+T19	OtherScientificTerm 856 857	.
+T20	OtherScientificTerm 896 897	a
+T21	OtherScientificTerm 915 939	recomposed under concept
+T22	OtherScientificTerm 950 975	constraints and frequency
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Feature-of Arg1:T3 Arg2:T4
+R2	Feature-of Arg1:T10 Arg2:T11
+R3	Feature-of Arg1:T12 Arg2:T13
+R4	Used-for Arg1:T15 Arg2:T17

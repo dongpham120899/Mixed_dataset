@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 14 29	dialogue system
+T1	OtherScientificTerm 123 143	modular architecture
+T2	OtherScientificTerm 173 186	understanding
+T3	OtherScientificTerm 191 201	generation
+T4	OtherScientificTerm 207 243	information-state model of reference
+T5	OtherScientificTerm 273 282	semantics
+T6	OtherScientificTerm 287 316	collaborative problem solving
+R0	Part-of Arg1:T2 Arg2:T1

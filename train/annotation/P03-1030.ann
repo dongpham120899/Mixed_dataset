@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 0 14	Link detection
+T1	OtherScientificTerm 62 96	Topic Detection and Tracking tasks
+T2	OtherScientificTerm 100 119	new event detection
+T3	OtherScientificTerm 149 169	story link detection
+T4	OtherScientificTerm 174 193	new event detection
+T5	OtherScientificTerm 197 223	information retrieval task
+T6	OtherScientificTerm 257 266	precision
+T7	OtherScientificTerm 271 277	recall
+T8	OtherScientificTerm 399 421	part of speech tagging
+T9	OtherScientificTerm 428 447	similarity measures
+T10	OtherScientificTerm 461 471	stop lists
+R0	Part-of Arg1:T1 Arg2:T2

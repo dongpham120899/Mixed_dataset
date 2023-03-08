@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 92 127	continuous speech recognition ( CSR
+T1	OtherScientificTerm 153 183	application in Spoken Language
+T2	OtherScientificTerm 211 248	enhance the effectiveness of military
+T3	OtherScientificTerm 334 371	develop applications of robust speech
+T4	OtherScientificTerm 424 447	catalyze the transition
+T5	OtherScientificTerm 451 482	spoken language technology into
+T6	OtherScientificTerm 537 539	on
+T7	OtherScientificTerm 552 575	of robust CSR to mobile
+T8	OtherScientificTerm 627 638	focusses on
+T9	OtherScientificTerm 680 694	rapid search ,
+T10	OtherScientificTerm 716 737	adaptation techniques
+T11	OtherScientificTerm 794 815	techniques to the new
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T4 Arg2:T5
+R2	Used-for Arg1:T6 Arg2:T7
+R3	Used-for Arg1:T10 Arg2:T11

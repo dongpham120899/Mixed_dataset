@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 13 30	statistical model
+T1	OtherScientificTerm 34 56	Japanese unknown words
+T2	OtherScientificTerm 80 106	length and spelling models
+T3	OtherScientificTerm 125 140	character types
+T4	OtherScientificTerm 159 163	word
+T5	OtherScientificTerm 204 218	character sets
+T6	OtherScientificTerm 273 288	character types
+T7	OtherScientificTerm 316 331	Japanese script
+T8	OtherScientificTerm 341 350	ideograms
+T9	OtherScientificTerm 356 363	Chinese
+T10	OtherScientificTerm 366 371	kanji
+T11	OtherScientificTerm 378 388	phonograms
+T12	OtherScientificTerm 394 401	English
+T13	OtherScientificTerm 404 412	katakana
+T14	OtherScientificTerm 422 448	word segmentation accuracy
+T15	OtherScientificTerm 453 484	part of speech tagging accuracy
+T16	OtherScientificTerm 551 567	tagging accuracy
+T17	OtherScientificTerm 571 584	unknown words
+R0	Feature-of Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T3 Arg2:T4
+R2	Part-of Arg1:T8 Arg2:T7

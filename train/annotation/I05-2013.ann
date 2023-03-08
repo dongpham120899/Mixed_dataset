@@ -1,0 +1,30 @@
+T0	OtherScientificTerm 13 17	tool
+T1	OtherScientificTerm 27 32	ILIMP
+T2	OtherScientificTerm 58 66	raw text
+T3	OtherScientificTerm 70 76	French
+T4	OtherScientificTerm 109 113	text
+T5	OtherScientificTerm 147 157	pronoun il
+T6	OtherScientificTerm 184 185	[
+T7	OtherScientificTerm 190 191	]
+T8	OtherScientificTerm 196 205	anaphoric
+T9	OtherScientificTerm 209 210	[
+T10	OtherScientificTerm 215 216	]
+T11	OtherScientificTerm 232 234	or
+T12	OtherScientificTerm 279 305	to distinguish between the
+T13	OtherScientificTerm 334 345	, for which
+T14	OtherScientificTerm 395 407	antecedent ,
+T15	OtherScientificTerm 416 425	expletive
+T16	OtherScientificTerm 501 514	an antecedent
+T17	OtherScientificTerm 517 520	The
+T18	OtherScientificTerm 554 555	%
+T19	OtherScientificTerm 586 588	in
+T20	OtherScientificTerm 598 603	Other
+T21	OtherScientificTerm 616 619	the
+T22	OtherScientificTerm 679 681	as
+T23	OtherScientificTerm 693 703	ILIMP in a
+R0	Feature-of Arg1:T3 Arg2:T2
+R1	Feature-of Arg1:T6 Arg2:T5
+R2	Feature-of Arg1:T14 Arg2:T15
+R3	Evaluate-for Arg1:T17 Arg2:T16
+R4	Used-for Arg1:T20 Arg2:T19
+R5	Used-for Arg1:T22 Arg2:T23

@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 36 54	textual entailment
+T1	OtherScientificTerm 72 86	decision trees
+T2	OtherScientificTerm 92 121	supervised learning algorithm
+T3	OtherScientificTerm 175 190	lexical overlap
+T4	OtherScientificTerm 207 246	bag of words similarity overlap measure
+T5	OtherScientificTerm 257 264	mapping
+T6	OtherScientificTerm 268 273	terms
+T7	OtherScientificTerm 281 291	hypothesis
+T8	OtherScientificTerm 299 310	source text
+T9	OtherScientificTerm 336 360	lexico-semantic matching
+T10	OtherScientificTerm 373 377	text
+T11	OtherScientificTerm 386 396	hypothesis
+T12	OtherScientificTerm 432 438	chunks
+T13	OtherScientificTerm 446 456	hypothesis
+T14	OtherScientificTerm 461 467	chunks
+T15	OtherScientificTerm 475 479	text
+T16	OtherScientificTerm 510 514	text
+T17	OtherScientificTerm 519 529	hypothesis
+T18	OtherScientificTerm 537 554	dependency graphs
+R0	Used-for Arg1:T1 Arg2:T0
+R1	Used-for Arg1:T4 Arg2:T5

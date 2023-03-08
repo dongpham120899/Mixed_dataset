@@ -1,0 +1,24 @@
+T0	OtherScientificTerm 61 66	words
+T1	OtherScientificTerm 78 95	constituent parts
+T2	OtherScientificTerm 99 108	ambiguity
+T3	OtherScientificTerm 115 125	generation
+T4	OtherScientificTerm 138 146	analyses
+T5	OtherScientificTerm 155 165	input word
+T6	OtherScientificTerm 222 231	ambiguity
+T7	OtherScientificTerm 238 264	MORphological PArser MORPA
+T8	OtherScientificTerm 284 320	probabilistic context-free grammar (
+T9	OtherScientificTerm 338 363	combines a " conventional
+T10	OtherScientificTerm 393 403	grammar to
+T11	OtherScientificTerm 415 447	ungrammatical segmentations with
+T12	OtherScientificTerm 506 516	likelihood
+T13	OtherScientificTerm 542 543	.
+T14	OtherScientificTerm 647 651	will
+T15	OtherScientificTerm 669 680	yields good
+T16	OtherScientificTerm 689 691	in
+T17	OtherScientificTerm 722 724	is
+T18	OtherScientificTerm 762 772	for use in
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T4 Arg2:T5
+R2	Part-of Arg1:T8 Arg2:T7
+R3	Used-for Arg1:T11 Arg2:T9
+R4	Used-for Arg1:T17 Arg2:T18

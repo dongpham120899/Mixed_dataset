@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 0 19	Word Identification
+T1	OtherScientificTerm 62 97	Chinese Natural Language Processing
+T2	OtherScientificTerm 158 169	sublanguage
+T3	OtherScientificTerm 200 213	unknown words
+T4	OtherScientificTerm 227 241	personal names
+T5	OtherScientificTerm 247 265	Chinese newspapers
+T6	OtherScientificTerm 300 329	title-driven name recognition
+T7	OtherScientificTerm 332 363	adaptive dynamic word formation
+T8	OtherScientificTerm 366 439	identification of 2-character and 3-character Chinese names without title
+T9	OtherScientificTerm 488 495	corpora
+T10	OtherScientificTerm 537 560	NTHU 's statistic-based
+T11	OtherScientificTerm 697 703	the WI
+T12	OtherScientificTerm 720 728	the name
+R0	Used-for Arg1:T2 Arg2:T3
+R1	Part-of Arg1:T4 Arg2:T5

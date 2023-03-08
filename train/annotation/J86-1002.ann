@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 13 29	error correction
+T1	OtherScientificTerm 33 49	ill-formed input
+T2	OtherScientificTerm 77 94	dialogue patterns
+T3	OtherScientificTerm 127 135	patterns
+T4	OtherScientificTerm 160 176	Error correction
+T5	OtherScientificTerm 205 212	parsing
+T6	OtherScientificTerm 229 237	meanings
+T7	OtherScientificTerm 293 301	sentence
+T8	OtherScientificTerm 322 365	dialogue acquisition and tracking algorithm
+T9	OtherScientificTerm 411 425	implementation
+T10	OtherScientificTerm 431 455	voice interactive system
+T11	OtherScientificTerm 517 545	error correction methodology
+T12	OtherScientificTerm 551 571	stereotypic dialogue
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T8 Arg2:T10

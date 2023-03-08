@@ -1,0 +1,17 @@
+T0	OtherScientificTerm 23 52	alignment adaptation approach
+T1	OtherScientificTerm 64 93	domain-specific ( in-domain )
+T2	OtherScientificTerm 121 128	idea of
+T3	OtherScientificTerm 153 159	to use
+T4	OtherScientificTerm 181 201	to improve in-domain
+T5	OtherScientificTerm 252 278	train two statistical word
+T6	OtherScientificTerm 301 316	the large-scale
+T7	OtherScientificTerm 342 357	the small-scale
+T8	OtherScientificTerm 431 458	improve the domain-specific
+T9	OtherScientificTerm 511 544	approach improves domain-specific
+T10	OtherScientificTerm 569 571	of
+T11	OtherScientificTerm 577 586	precision
+T12	OtherScientificTerm 600 626	achieving a relative error
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T3 Arg2:T4
+R2	Compare Arg1:T6 Arg2:T7
+R3	Evaluate-for Arg1:T9 Arg2:T12

@@ -1,0 +1,9 @@
+T0	OtherScientificTerm 32 70	sentence-level and text-level anaphora
+T1	OtherScientificTerm 97 127	dependency-based grammar model
+T2	OtherScientificTerm 143 162	anaphora resolution
+T3	OtherScientificTerm 170 189	sentence boundaries
+T4	OtherScientificTerm 219 232	GB 's binding
+T5	OtherScientificTerm 254 268	for text-level
+T6	OtherScientificTerm 312 338	a Grosz-Sidner-style focus
+R0	Feature-of Arg1:T1 Arg2:T0
+R1	Feature-of Arg1:T6 Arg2:T5

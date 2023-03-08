@@ -1,0 +1,25 @@
+T0	OtherScientificTerm 0 17	Sentence planning
+T1	OtherScientificTerm 81 97	sentence scoping
+T2	OtherScientificTerm 119 138	syntactic structure
+T3	OtherScientificTerm 154 165	speech acts
+T4	OtherScientificTerm 223 232	sentences
+T5	OtherScientificTerm 262 266	SPoT
+T6	OtherScientificTerm 271 287	sentence planner
+T7	OtherScientificTerm 339 343	SPoT
+T8	OtherScientificTerm 360 368	feedback
+T9	OtherScientificTerm 381 393	human judges
+T10	OtherScientificTerm 475 511	randomized sentence-plan-generator (
+T11	OtherScientificTerm 553 564	of possible
+T12	OtherScientificTerm 584 591	a given
+T13	OtherScientificTerm 617 622	, the
+T14	OtherScientificTerm 658 666	the list
+T15	OtherScientificTerm 698 702	then
+T16	OtherScientificTerm 715 725	top-ranked
+T17	OtherScientificTerm 731 736	. The
+T18	OtherScientificTerm 754 773	rules automatically
+T19	OtherScientificTerm 806 810	show
+T20	OtherScientificTerm 832 841	learns to
+T21	OtherScientificTerm 899 915	% worse than the
+R0	Feature-of Arg1:T11 Arg2:T12
+R1	Used-for Arg1:T18 Arg2:T17
+R2	Compare Arg1:T20 Arg2:T21

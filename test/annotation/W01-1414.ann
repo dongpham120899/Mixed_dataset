@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 24 50	machine translation system
+T1	OtherScientificTerm 101 116	specific domain
+T2	OtherScientificTerm 199 235	statistical word-alignment algorithm
+T3	OtherScientificTerm 246 270	word association pairs (
+T4	OtherScientificTerm 304 328	an existing multipurpose
+T5	OtherScientificTerm 350 361	. This word
+T6	OtherScientificTerm 395 397	to
+T7	OtherScientificTerm 447 465	of our translation
+T8	OtherScientificTerm 493 499	making
+T9	OtherScientificTerm 535 536	.
+T10	OtherScientificTerm 587 594	quality
+T11	OtherScientificTerm 624 641	in an independent
+R0	Used-for Arg1:T5 Arg2:T6
+R1	Evaluate-for Arg1:T9 Arg2:T10

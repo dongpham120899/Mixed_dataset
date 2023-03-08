@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 85 96	classifiers
+T1	OtherScientificTerm 105 132	maximum entropy classifiers
+T2	OtherScientificTerm 135 143	boosting
+T3	OtherScientificTerm 148 152	SVMs
+T4	OtherScientificTerm 168 193	language processing tasks
+T5	OtherScientificTerm 366 393	error correction mechanisms
+T6	OtherScientificTerm 506 517	unseen data
+T7	OtherScientificTerm 548 556	test set
+T8	OtherScientificTerm 658 673	base classifier
+T9	OtherScientificTerm 737 780	N-fold Templated Piped Correction , or NTPC
+T10	OtherScientificTerm 793 796	" )
+T11	OtherScientificTerm 961 972	accuracy of
+T12	OtherScientificTerm 1048 1052	more
+T13	OtherScientificTerm 1086 1110	and presents experiments
+R0	Used-for Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T5 Arg2:T6

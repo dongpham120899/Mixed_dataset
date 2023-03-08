@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 61 76	in comparable ,
+T1	OtherScientificTerm 90 102	corpora . We
+T2	OtherScientificTerm 127 144	classifier that ,
+T3	OtherScientificTerm 173 176	can
+T4	OtherScientificTerm 236 240	each
+T5	OtherScientificTerm 296 306	from large
+T6	OtherScientificTerm 317 368	Arabic , and English non-parallel newspaper corpora
+T7	OtherScientificTerm 387 416	quality of the extracted data
+T8	OtherScientificTerm 483 521	statistical machine translation system
+T9	OtherScientificTerm 557 566	MT system
+T10	OtherScientificTerm 623 638	parallel corpus
+T11	OtherScientificTerm 649 654	words
+T12	OtherScientificTerm 680 699	non-parallel corpus
+T13	OtherScientificTerm 757 771	language pairs
+T14	OtherScientificTerm 794 803	resources
+R0	Used-for Arg1:T0 Arg2:T1
+R1	Part-of Arg1:T5 Arg2:T6
+R2	Used-for Arg1:T10 Arg2:T9

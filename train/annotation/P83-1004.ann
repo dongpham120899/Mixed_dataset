@@ -1,0 +1,10 @@
+T0	OtherScientificTerm 0 26	Metagrammatical formalisms
+T1	OtherScientificTerm 40 75	context-free phrase structure rules
+T2	OtherScientificTerm 80 95	metarules ( MPS
+T3	OtherScientificTerm 150 155	about
+T4	OtherScientificTerm 160 169	syntax of
+T5	OtherScientificTerm 178 203	languages . Unconstrained
+T6	OtherScientificTerm 331 375	assessment on computational tractability and
+T7	OtherScientificTerm 491 505	on alternative
+R0	Part-of Arg1:T1 Arg2:T0
+R1	Part-of Arg1:T3 Arg2:T4

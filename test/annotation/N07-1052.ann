@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 39 42	A *
+T1	OtherScientificTerm 53 74	for structured search
+T2	OtherScientificTerm 115 124	a complex
+T3	OtherScientificTerm 164 175	which exact
+T4	OtherScientificTerm 208 223	an optimization
+T5	OtherScientificTerm 237 245	estimate
+T6	OtherScientificTerm 261 266	these
+T7	OtherScientificTerm 422 427	guide
+T8	OtherScientificTerm 442 458	original complex
+T9	OtherScientificTerm 489 498	to bitext
+T10	OtherScientificTerm 507 522	and lexicalized
+T11	OtherScientificTerm 568 573	these
+R0	Used-for Arg1:T0 Arg2:T1

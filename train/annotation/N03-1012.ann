@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 25 34	ONTOSCORE
+T1	OtherScientificTerm 66 74	concepts
+T2	OtherScientificTerm 94 102	ontology
+T3	OtherScientificTerm 140 147	scoring
+T4	OtherScientificTerm 160 191	speech recognition hypotheses (
+T5	OtherScientificTerm 207 215	of their
+T6	OtherScientificTerm 240 252	conducted an
+T7	OtherScientificTerm 279 290	showed that
+T8	OtherScientificTerm 365 386	and incoherent speech
+T9	OtherScientificTerm 440 451	against the
+T10	OtherScientificTerm 514 518	in a
+T11	OtherScientificTerm 533 535	of
+T12	OtherScientificTerm 582 587	given
+R0	Used-for Arg1:T3 Arg2:T4
+R1	Part-of Arg1:T11 Arg2:T10

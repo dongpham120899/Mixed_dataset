@@ -1,0 +1,15 @@
+T0	OtherScientificTerm 274 294	speech recognition (
+T1	OtherScientificTerm 438 468	developers of natural language
+T2	OtherScientificTerm 476 501	interfaces or researchers
+T3	OtherScientificTerm 636 668	number of groups involved in the
+T4	OtherScientificTerm 718 726	agree on
+T5	OtherScientificTerm 824 840	practice several
+T6	OtherScientificTerm 883 892	systems .
+T7	OtherScientificTerm 928 947	only NL evaluations
+T8	OtherScientificTerm 1247 1253	1991 )
+T9	OtherScientificTerm 1277 1290	a practical "
+T10	OtherScientificTerm 1491 1518	is domain-independent , and
+T11	OtherScientificTerm 1637 1656	following section :
+R0	Conjunction Arg1:T3 Arg2:T4
+R1	Conjunction Arg1:T7 Arg2:T6
+R2	Used-for Arg1:T8 Arg2:T9

@@ -1,0 +1,16 @@
+T0	OtherScientificTerm 52 79	information extraction ( IE
+T1	OtherScientificTerm 82 97	systems - named
+T2	OtherScientificTerm 105 120	annotations and
+T3	OtherScientificTerm 165 174	access to
+T4	OtherScientificTerm 196 206	a standard
+T5	OtherScientificTerm 263 267	in a
+T6	OtherScientificTerm 294 304	to support
+T7	OtherScientificTerm 334 353	to a pharmaceutical
+T8	OtherScientificTerm 375 383	of their
+T9	OtherScientificTerm 438 463	preliminary , qualitative
+T10	OtherScientificTerm 565 567	on
+T11	OtherScientificTerm 582 584	to
+T12	OtherScientificTerm 619 643	potential of IE-enhanced
+R0	Used-for Arg1:T2 Arg2:T4
+R1	Used-for Arg1:T5 Arg2:T8
+R2	Part-of Arg1:T10 Arg2:T12

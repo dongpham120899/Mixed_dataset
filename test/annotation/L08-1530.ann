@@ -1,0 +1,26 @@
+T0	OtherScientificTerm 16 41	speech recognition system
+T1	OtherScientificTerm 66 98	subsequent downstream processing
+T2	OtherScientificTerm 117 125	speakers
+T3	OtherScientificTerm 185 206	speech reconstruction
+T4	OtherScientificTerm 214 238	spontaneous speech input
+T5	OtherScientificTerm 300 326	content-preserving English
+T6	OtherScientificTerm 333 340	message
+T7	OtherScientificTerm 350 357	speaker
+T8	OtherScientificTerm 393 411	speech transcripts
+T9	OtherScientificTerm 442 461	language processing
+T10	OtherScientificTerm 476 485	NLP tasks
+T11	OtherScientificTerm 494 513	machine translation
+T12	OtherScientificTerm 518 544	conversation summarization
+T13	OtherScientificTerm 567 584	grammatical input
+T14	OtherScientificTerm 604 634	supervised statistical methods
+T15	OtherScientificTerm 685 695	transcript
+T16	OtherScientificTerm 709 733	richly labeled resources
+T17	OtherScientificTerm 754 794	Spontaneous Speech Reconstruction corpus
+T18	OtherScientificTerm 808 814	corpus
+T19	OtherScientificTerm 818 890	reconstructed and aligned conversational telephone speech transcriptions
+T20	OtherScientificTerm 899 944	Fisher conversational telephone speech corpus
+T21	OtherScientificTerm 1018 1040	string transformations
+T22	OtherScientificTerm 1045 1073	predicate-argument structure
+R0	Used-for Arg1:T3 Arg2:T4
+R1	Used-for Arg1:T13 Arg2:T12
+R2	Part-of Arg1:T19 Arg2:T18

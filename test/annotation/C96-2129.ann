@@ -1,0 +1,18 @@
+T0	OtherScientificTerm 0 6	ADOMIT
+T1	OtherScientificTerm 27 46	Automatic Detection
+T2	OtherScientificTerm 50 59	OMIssions
+T3	OtherScientificTerm 63 75	Translations
+T4	OtherScientificTerm 109 127	geometric analysis
+T5	OtherScientificTerm 131 142	bitext maps
+T6	OtherScientificTerm 155 177	linguistic information
+T7	OtherScientificTerm 266 282	linguistic units
+T8	OtherScientificTerm 311 334	word-processing mishaps
+T9	OtherScientificTerm 337 343	ADOMIT
+T10	OtherScientificTerm 394 424	hand-constructed gold standard
+T11	OtherScientificTerm 440 465	bitext mapping algorithms
+T12	OtherScientificTerm 553 578	bitext mapping technology
+T13	OtherScientificTerm 581 587	ADOMIT
+T14	OtherScientificTerm 627 638	translators
+T15	OtherScientificTerm 643 662	translation bureaus
+R0	Used-for Arg1:T1 Arg2:T3
+R1	Conjunction Arg1:T4 Arg2:T5

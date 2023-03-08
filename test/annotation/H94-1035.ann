@@ -1,0 +1,14 @@
+T0	OtherScientificTerm 43 89	prosodically appropriate synthesized responses
+T1	OtherScientificTerm 93 109	database queries
+T2	OtherScientificTerm 116 146	Combinatory Categorial Grammar
+T3	OtherScientificTerm 173 182	formalism
+T4	OtherScientificTerm 222 244	syntactic constituency
+T5	OtherScientificTerm 247 264	prosodie phrasing
+T6	OtherScientificTerm 269 290	information structure
+T7	OtherScientificTerm 297 302	model
+T8	OtherScientificTerm 314 330	accent locations
+T9	OtherScientificTerm 338 345	phrases
+T10	OtherScientificTerm 362 378	contrastive sets
+T11	OtherScientificTerm 396 415	discourse structure
+T12	OtherScientificTerm 422 455	domain-independent knowledge base
+R0	Used-for Arg1:T2 Arg2:T0

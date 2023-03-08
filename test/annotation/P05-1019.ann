@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 11 32	discourse connectives
+T1	OtherScientificTerm 64 81	discourse parsing
+T2	OtherScientificTerm 86 96	generation
+T3	OtherScientificTerm 144 155	connectives
+T4	OtherScientificTerm 176 195	coherence relations
+T5	OtherScientificTerm 249 265	substitutability
+T6	OtherScientificTerm 269 290	discourse connectives
+T7	OtherScientificTerm 307 323	substitutability
+T8	OtherScientificTerm 332 357	distributional similarity
+T9	OtherScientificTerm 368 391	variance-based function
+T10	OtherScientificTerm 406 431	probability distributions
+T11	OtherScientificTerm 465 481	substitutability
+R0	Feature-of Arg1:T5 Arg2:T6

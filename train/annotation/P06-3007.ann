@@ -1,0 +1,11 @@
+T0	OtherScientificTerm 63 102	mutli-document summarization approaches
+T1	OtherScientificTerm 121 127	events
+T2	OtherScientificTerm 143 154	event terms
+T3	OtherScientificTerm 159 184	associated event elements
+T4	OtherScientificTerm 237 245	contents
+T5	OtherScientificTerm 262 268	events
+T6	OtherScientificTerm 330 348	PageRank algorithm
+T7	OtherScientificTerm 356 365	event map
+T8	OtherScientificTerm 383 392	documents
+R0	Feature-of Arg1:T2 Arg2:T1
+R1	Used-for Arg1:T8 Arg2:T7

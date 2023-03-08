@@ -1,0 +1,21 @@
+T0	OtherScientificTerm 28 44	ensemble methods
+T1	OtherScientificTerm 48 64	machine learning
+T2	OtherScientificTerm 84 111	natural language processing
+T3	OtherScientificTerm 129 191	multi-strategy and multi-source approach to question answering
+T4	OtherScientificTerm 247 263	answering agents
+T5	OtherScientificTerm 278 285	answers
+T6	OtherScientificTerm 298 305	corpora
+T7	OtherScientificTerm 312 328	answering agents
+T8	OtherScientificTerm 396 422	knowledge-based mechanisms
+T9	OtherScientificTerm 446 468	statistical techniques
+T10	OtherScientificTerm 486 525	multi-level answer resolution algorithm
+T11	OtherScientificTerm 557 573	answering agents
+T12	OtherScientificTerm 581 608	question , passage , and/or
+T13	OtherScientificTerm 666 679	of our answer
+T14	OtherScientificTerm 736 744	over our
+T15	OtherScientificTerm 768 787	number of questions
+T16	OtherScientificTerm 844 858	to the average
+R0	Used-for Arg1:T4 Arg2:T3
+R1	Part-of Arg1:T5 Arg2:T6
+R2	Used-for Arg1:T8 Arg2:T7
+R3	Compare Arg1:T13 Arg2:T14

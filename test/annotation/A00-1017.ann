@@ -1,0 +1,12 @@
+T0	OtherScientificTerm 63 74	information
+T1	OtherScientificTerm 96 129	natural language generation ( NLG
+T2	OtherScientificTerm 313 315	of
+T3	OtherScientificTerm 342 351	a general
+T4	OtherScientificTerm 441 455	for organising
+T5	OtherScientificTerm 482 487	in an
+T6	OtherScientificTerm 502 510	having a
+T7	OtherScientificTerm 526 529	for
+T8	OtherScientificTerm 599 610	an existing
+T9	OtherScientificTerm 626 635	through a
+T10	OtherScientificTerm 656 660	of a
+R0	Used-for Arg1:T5 Arg2:T4

@@ -1,0 +1,53 @@
+T0	OtherScientificTerm 73 93	probabilistic parser
+T1	OtherScientificTerm 105 111	parser
+T2	OtherScientificTerm 130 146	candidate parses
+T3	OtherScientificTerm 162 170	sentence
+T4	OtherScientificTerm 189 202	probabilities
+T5	OtherScientificTerm 226 233	ranking
+T6	OtherScientificTerm 243 249	parses
+T7	OtherScientificTerm 261 266	model
+T8	OtherScientificTerm 310 317	ranking
+T9	OtherScientificTerm 337 345	features
+T10	OtherScientificTerm 353 357	tree
+T11	OtherScientificTerm 421 425	tree
+T12	OtherScientificTerm 467 475	features
+T13	OtherScientificTerm 511 519	features
+T14	OtherScientificTerm 573 583	derivation
+T15	OtherScientificTerm 589 605	generative model
+T16	OtherScientificTerm 624 632	features
+T17	OtherScientificTerm 682 696	reranking task
+T18	OtherScientificTerm 712 729	boosting approach
+T19	OtherScientificTerm 733 749	ranking problems
+T20	OtherScientificTerm 801 816	boosting method
+T21	OtherScientificTerm 820 827	parsing
+T22	OtherScientificTerm 832 860	Wall Street Journal treebank
+T23	OtherScientificTerm 887 901	log-likelihood
+T24	OtherScientificTerm 910 924	baseline model
+T25	OtherScientificTerm 995 1003	features
+T26	OtherScientificTerm 1009 1020	parse trees
+T27	OtherScientificTerm 1060 1065	model
+T28	OtherScientificTerm 1076 1081	model
+T29	OtherScientificTerm 1099 1108	F-measure
+T30	OtherScientificTerm 1139 1148	F-measure
+T31	OtherScientificTerm 1164 1181	baseline model 's
+T32	OtherScientificTerm 1248 1260	the boosting
+T33	OtherScientificTerm 1295 1322	the sparsity of the feature
+T34	OtherScientificTerm 1332 1343	the parsing
+T35	OtherScientificTerm 1428 1435	obvious
+T36	OtherScientificTerm 1454 1466	the boosting
+T37	OtherScientificTerm 1586 1606	on feature selection
+T38	OtherScientificTerm 1615 1634	within log-linear (
+T39	OtherScientificTerm 1695 1717	article are on natural
+T40	OtherScientificTerm 1765 1778	be applicable
+T41	OtherScientificTerm 1806 1815	which are
+T42	OtherScientificTerm 1844 1851	tasks ,
+T43	OtherScientificTerm 1856 1865	example ,
+T44	OtherScientificTerm 1885 1906	, machine translation
+R0	Feature-of Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T9 Arg2:T10
+R2	Used-for Arg1:T16 Arg2:T15
+R3	Used-for Arg1:T18 Arg2:T19
+R4	Used-for Arg1:T21 Arg2:T22
+R5	Evaluate-for Arg1:T28 Arg2:T29
+R6	Feature-of Arg1:T33 Arg2:T34
+R7	Part-of Arg1:T37 Arg2:T38

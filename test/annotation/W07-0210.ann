@@ -1,0 +1,40 @@
+T0	OtherScientificTerm 13 25	correlations
+T1	OtherScientificTerm 33 54	connectivity patterns
+T2	OtherScientificTerm 70 99	syntactic dependency networks
+T3	OtherScientificTerm 108 116	networks
+T4	OtherScientificTerm 134 143	treebanks
+T5	OtherScientificTerm 152 160	vertices
+T6	OtherScientificTerm 168 178	word forms
+T7	OtherScientificTerm 194 200	nuclei
+T8	OtherScientificTerm 204 220	dependency trees
+T9	OtherScientificTerm 229 234	edges
+T10	OtherScientificTerm 252 260	vertices
+T11	OtherScientificTerm 277 292	instance nuclei
+T12	OtherScientificTerm 302 310	vertices
+T13	OtherScientificTerm 329 349	dependency structure
+T14	OtherScientificTerm 355 363	sentence
+T15	OtherScientificTerm 381 410	syntactic dependency networks
+T16	OtherScientificTerm 420 429	languages
+T17	OtherScientificTerm 503 513	clustering
+T18	OtherScientificTerm 548 556	vertices
+T19	OtherScientificTerm 586 592	vertex
+T20	OtherScientificTerm 676 691	mean clustering
+T21	OtherScientificTerm 695 703	vertices
+T22	OtherScientificTerm 725 731	degree
+T23	OtherScientificTerm 774 807	hierarchical network organization
+T24	OtherScientificTerm 824 835	mean degree
+T25	OtherScientificTerm 843 860	nearest neighbors
+T26	OtherScientificTerm 866 872	vertex
+T27	OtherScientificTerm 900 906	degree
+T28	OtherScientificTerm 943 964	disassortative mixing
+T29	OtherScientificTerm 983 988	links
+T30	OtherScientificTerm 1005 1013	vertices
+T31	OtherScientificTerm 1028 1035	degrees
+T32	OtherScientificTerm 1099 1123	large scale organization
+T33	OtherScientificTerm 1127 1156	syntactic dependency networks
+R0	Part-of Arg1:T3 Arg2:T4
+R1	Feature-of Arg1:T5 Arg2:T6
+R2	Feature-of Arg1:T13 Arg2:T14
+R3	Feature-of Arg1:T15 Arg2:T16
+R4	Feature-of Arg1:T20 Arg2:T21
+R5	Feature-of Arg1:T24 Arg2:T25

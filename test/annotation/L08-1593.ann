@@ -1,0 +1,23 @@
+T0	OtherScientificTerm 63 70	COMPARA
+T1	OtherScientificTerm 92 107	parallel corpus
+T2	OtherScientificTerm 176 195	semantic annotation
+T3	OtherScientificTerm 203 209	corpus
+T4	OtherScientificTerm 218 224	domain
+T5	OtherScientificTerm 294 310	lexical category
+T6	OtherScientificTerm 348 359	linguistics
+T7	OtherScientificTerm 414 432	annotation process
+T8	OtherScientificTerm 452 469	colour categories
+T9	OtherScientificTerm 487 500	colour groups
+T10	OtherScientificTerm 570 587	quantitative data
+T11	OtherScientificTerm 604 614	categories
+T12	OtherScientificTerm 619 625	groups
+T13	OtherScientificTerm 658 667	languages
+T14	OtherScientificTerm 708 721	lexical items
+T15	OtherScientificTerm 724 762	morphological and syntactic properties
+T16	OtherScientificTerm 796 807	translation
+T17	OtherScientificTerm 896 902	corpus
+T18	OtherScientificTerm 936 942	corpus
+T19	OtherScientificTerm 960 980	semantic annotations
+R0	Used-for Arg1:T2 Arg2:T3
+R1	Feature-of Arg1:T10 Arg2:T11
+R2	Feature-of Arg1:T19 Arg2:T18

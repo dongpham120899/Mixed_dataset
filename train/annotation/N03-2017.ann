@@ -1,0 +1,8 @@
+T0	OtherScientificTerm 13 36	syntax-based constraint
+T1	OtherScientificTerm 41 55	word alignment
+T2	OtherScientificTerm 71 90	cohesion constraint
+T3	OtherScientificTerm 114 129	English phrases
+T4	OtherScientificTerm 179 194	French sentence
+T5	OtherScientificTerm 229 239	constraint
+T6	OtherScientificTerm 336 353	alignment quality
+R0	Used-for Arg1:T0 Arg2:T1

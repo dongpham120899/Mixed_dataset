@@ -1,0 +1,13 @@
+T0	OtherScientificTerm 0 19	Combination methods
+T1	OtherScientificTerm 54 72	system performance
+T2	OtherScientificTerm 111 129	system combination
+T3	OtherScientificTerm 134 150	unsupervised WSD
+T4	OtherScientificTerm 176 224	voting- and arbiter-based combination strategies
+T5	OtherScientificTerm 248 272	unsupervised WSD systems
+T6	OtherScientificTerm 279 298	combination methods
+T7	OtherScientificTerm 307 325	predominant senses
+T8	OtherScientificTerm 363 371	raw text
+T9	OtherScientificTerm 396 402	SemCor
+T10	OtherScientificTerm 407 427	Senseval-3 data sets
+R0	Evaluate-for Arg1:T0 Arg2:T1
+R1	Used-for Arg1:T7 Arg2:T6
