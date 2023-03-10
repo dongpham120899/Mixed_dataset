@@ -1,0 +1,5 @@
+x = range(1,3)
+y = range(8,20)
+xs = set(x)
+a = xs.intersection(y)
+print(a)

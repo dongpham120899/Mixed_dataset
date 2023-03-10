@@ -33,19 +33,39 @@ class CreateMixedDataset():
                 abs_2 = " ".join(sample_2["tokens"])
 
                 sub_name = "SemEval-"+sample_2['orig_id'] + "_and_" + "SciERC-"+sample_1['orig_id']
-                # if sub_name!="SemEval-300_0_and_SciERC-P84-1078":
+                # if sub_name!="SemEval-H90-1060_and_SciERC-61_0":
                 #     continue
                 # calculate similarity score (matcher char)
                 sim_core = self.check_sequence_matcher(abs_2, abs_1)
+                # print("len 1", len(sample_1["tokens"]))
+                # print("len 2", len(sample_2["tokens"]))
 
+                # if sim_core > 0.6 and len(sample_1["tokens"])==len(sample_2['tokens']): # if two sample is overlapped
                 if sim_core > 0.6: # if two sample is overlapped
+                    if len(sample_1["tokens"])!=len(sample_2['tokens']):
+                        print("sub_name", sub_name)
+                        print()
+                        print(abs_1)
+                        print()
+                        print(abs_2)
+                        print("*"*100)
                     count_overlapping += 1
 
                     mixed_entities = self.check_overlapped_entity_sample(sample_1, sample_2) # mixed enities 
-                    mixed_relations = self.get_mixed_relations(sample_1, sample_2, mixed_entities)
+
+                    mixed_relations, new_mixed_entities = self.get_mixed_relations(sample_1, sample_2, mixed_entities)
                     # standardize entity
-                    mixed_entities = [dict(type=entity['type'], start=entity['start'], end=entity['end'])for entity in mixed_entities]
-                    new_sample = dict(tokens=sample_2['tokens'], entities=mixed_entities, relations=mixed_relations, orig_id=sub_name)
+                    # mixed_entities = [dict(type=entity['type'], start=entity['start'], end=entity['end'])for entity in mixed_entities]
+                    # mixed_entities = list(map(dict, set(tuple(sorted(sub.items())) for sub in mixed_entities)))
+                    # mixed_entities = sorted(mixed_entities, key=lambda x:x['start'])
+                    # print(mixed_entities)
+                    # print()
+                    # print(mixed_relations)
+                    # print()
+                    # print(new_mixed_entities)
+                    # print()
+
+                    new_sample = dict(tokens=sample_2['tokens'], entities=new_mixed_entities, relations=mixed_relations, orig_id=sub_name)
                     new_data.append(new_sample)
 
                     # ****************************************************************
@@ -64,6 +84,7 @@ class CreateMixedDataset():
 
                     relabel_sample_1 = self.add_prefix_relation(sample_1, "sci")
                     relabel_sample_2 = self.add_prefix_relation(sample_2, "sem")
+                    relabel_sample_2 = self.add_prefix_entity(sample_2, "2")
                     overlapped_sci_data.append(relabel_sample_1)
                     overlapped_sem_data.append(relabel_sample_2)
                     if count_overlapping%2==0:
@@ -76,7 +97,7 @@ class CreateMixedDataset():
         un_overlapped_sci = []
         for sample_1 in sci_data:
             if sample_1['orig_id'] not in overlapped_sci_list:
-                un_overlapped_sci.append(relabel_sample_1)
+                un_overlapped_sci.append(self.add_prefix_relation(sample_1, "sci"))
 
         # un_overlapped_sem = []
         # for sample_2 in sem_data:
@@ -99,10 +120,6 @@ class CreateMixedDataset():
         return data
     
     def add_prefix_relation(self, sample, prefix):
-        # print(sample)
-        # new_relations = [prefix+"_"+rel["type"] for rel in sample['relations']]
-        # sample['relations'] = new_relations
-
         new_relations = []
         for rel in sample['relations']:
             new_type = prefix+"_"+rel["type"]
@@ -110,6 +127,17 @@ class CreateMixedDataset():
             new_relations.append(rel.copy())
 
         sample['relations'] = new_relations
+
+        return sample
+    
+    def add_prefix_entity(self, sample, prefix):
+        new_entities = []
+        for ent in sample['entities']:
+            new_type = ent["type"] + "_" + prefix
+            ent['type'] = new_type
+            new_entities.append(ent.copy())
+
+        sample['entities'] = new_entities
 
         return sample
 
@@ -120,7 +148,10 @@ class CreateMixedDataset():
     def entity_overlapped(self, entity_1, entity_2):
         range_1 = np.arange(entity_1['start'],entity_1['end'])
         range_2 = np.arange(entity_2['start'],entity_2['end'])
+        range_1_set = set(range_1)
+        overlapped = range_1_set.intersection(range_2)
 
+        # if entity_1['start'] >= entity_1['end']:
         if entity_1['start'] > entity_2['start']:
             start = entity_2['start']
         else:
@@ -131,7 +162,10 @@ class CreateMixedDataset():
         else:
             end = entity_2['end']
 
-        return all(np.isin(range_1,range_2)), start, end
+        if len(overlapped)!=0:
+            return True, start, end
+        else:
+            return False, start, end
 
     def relation_overlapped(self, relation_1, relation_2, entities_1, entities_2):
         ent_1_h = entities_1[relation_1['head']]
@@ -178,12 +212,22 @@ class CreateMixedDataset():
         mapped_relations = []
         for rel_1 in relations:
             for idx, entity in enumerate(mixed_entities):
+                # if idx > 0:
+                #     if self.check_duplicate_entity(entity, mixed_entities[idx-1]):
+                #         value = idx - 1
+                #     else:
+                #         value = idx
+                # else:
+                #     value = idx
+                value = idx
                 if entity[prefix_rel]==rel_1['head']:
+                    
+                    # else:       
                     en_head = entity
-                    idx_en_head = idx
+                    idx_en_head = value
                 if entity[prefix_rel]==rel_1['tail']:
                     en_tail = entity
-                    idx_en_tail = idx
+                    idx_en_tail = value
             try:
                 new_rel = dict(type=prefix_rel+"_"+rel_1['type'], head=idx_en_head, tail=idx_en_tail)
             except:
@@ -194,7 +238,14 @@ class CreateMixedDataset():
             mapped_relations.append(new_rel)
         
         return mapped_relations
-
+    
+    # check 2 entity
+    def check_duplicate_entity(self, entity_1, entity_2):
+        if entity_1['type']==entity_2['type'] and entity_1['start']==entity_2['start'] and entity_1['end']==entity_2['end']:
+            return True
+        else:
+            return False
+        
     def get_mixed_relations(self, sample_1, sample_2, mixed_entities):
         relations_1 = sample_1['relations']
         relations_2 = sample_2['relations']
@@ -206,10 +257,37 @@ class CreateMixedDataset():
         # SemEval Relations
         new_relations_2 = self.mapping_relation_with_new_entities(relations=relations_2, mixed_entities=mixed_entities, prefix_rel="sem")
 
-        # Merge
-        new_relations = new_relations_1 + new_relations_2
+        # drop overlapped entity
+        new_mixed_entities = [mixed_entities[0]]
+        entity_pos = [[0,0]]
+        count = 0
+        for idx in range(1, len(mixed_entities)):
+            if self.check_duplicate_entity(mixed_entities[idx], mixed_entities[idx-1]) is False:
+                new_mixed_entities.append(mixed_entities[idx])
+                entity_pos.append([idx, count])
+            else:
+                entity_pos.append([idx-1, count])
+                count += 1
 
-        return new_relations
+
+        # Merge
+        merge_relations = new_relations_1 + new_relations_2
+        merge_relations = sorted(merge_relations, key=lambda x: x['head'])
+
+        new_relations = []
+        for rel in merge_relations:
+            rel_type = rel['type']
+            new_head = entity_pos[rel['head']][0] - entity_pos[rel['head']][1]
+            new_tail = entity_pos[rel['tail']][0] - entity_pos[rel['tail']][1]
+
+            new_relations.append(dict(type=rel_type, head=new_head, tail=new_tail))
+
+
+        return new_relations, new_mixed_entities
+
+    
+        new_relations = new_relations_1 + new_relations_2
+        return new_relations, mixed_entities
 
     def mix_entities(self, entities_1, entities_2, entities_3):
         mixed_entities = entities_1 + entities_2 + entities_3
@@ -236,12 +314,19 @@ class CreateMixedDataset():
                     # if entity_1['start']==entity_2['start'] and entity_1['end']==entity_2['end']:
                     #     print("Boundary Matcher", idx_1, tokens_1[entity_1['start']:entity_1['end']], idx_2, tokens_2[entity_2['start']:entity_2['end']])
                     # else:
+                    #     print(entity_1)
+                    #     print(entity_2)
                     #     print("Boundary Overlapped", idx_1, tokens_1[entity_1['start']:entity_1['end']], idx_2, tokens_2[entity_2['start']:entity_2['end']])
 
 
                     new_enity = dict(type=entity_1['type'], sci=idx_1, sem=idx_2, start=start_e, end=end_e)
+                    # print(new_enity)
                     overlapped.append(new_enity)
 
+                # if idx_2==2:
+                    # break
+            # if idx_1==2:
+                    # break
                 # else:
                 #     print("Un-overlapped", entity_1, entity_2)
 
@@ -309,6 +394,7 @@ if __name__ == "__main__":
             the_others_train_sem_data.append(sample)
     test_sem_data = creator.load_json("test/semeval-2018_test.json")
     test_sem_ovp = the_others_train_sem_data + test_sem_data
+    test_sem_ovp = [creator.add_prefix_entity(creator.add_prefix_relation(sample, "sem"),"2") for sample in test_sem_ovp]
     saving_data(test_sem_ovp, "experimental_ovp_dataset/sem_set/test_sem.json")
 
     print("mixed set", len(ov_full_data))

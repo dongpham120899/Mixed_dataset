@@ -8,6 +8,9 @@ from convert_json2brat import ConvertJson2Brat
 import shutil
 nlp = spacy.load("en_core_sci_sm")
 
+visualizator = ConvertJson2Brat()
+
+
 def check_similarity(sentence1, sentence2):
     doc_1 = nlp(sentence1)
     doc_2 = nlp(sentence2)
